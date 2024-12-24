@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: SpotifyMix;
+    src: url(../../public/SpotifyMix.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: SpotifyMix;
+}
+
+body{
+    background-color: black;
+}
+
+img{
+    user-select: none;
+}
