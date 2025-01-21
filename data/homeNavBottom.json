@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "albumorplaylistname": "Future Nostalgia",
+        "coverpath": "futurenostalgia.jpg"
+    },
+    {
+        "id": 2,
+        "albumorplaylistname": "Live At SoFi Stadium",
+        "coverpath": "liveatsofistadium.jpg"
+    },
+    {
+        "id": 3,
+        "albumorplaylistname": "After Hours",
+        "coverpath": "afterhours.jpg"
+    },
+    {
+        "id": 4,
+        "albumorplaylistname": "Radical Optimism",
+        "coverpath": "radicaloptimism.jpg"
+    },
+    {
+        "id": 5,
+        "albumorplaylistname": "2024/25 Winter",
+        "coverpath": "202425winter.jpg"
+    },
+    {
+        "id": 6,
+        "albumorplaylistname": "eternal sunshine",
+        "coverpath": "eternalsunshine.jpg"
+    },
+    {
+        "id": 7,
+        "albumorplaylistname": "Currents",
+        "coverpath": "currents.jpg"
+    },
+    {
+        "id": 8,
+        "albumorplaylistname": "UTOPIA",
+        "coverpath": "utopia.jpg"
+    }
+]

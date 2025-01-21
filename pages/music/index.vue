@@ -18,7 +18,7 @@
             <SlotNavbar />
         </div>
         <HomeNavBottom />
-    </div>
+</div>
 </template>
 
 <script setup>
@@ -36,4 +36,5 @@ import HomeNavBottom from '~/components/little_comps/HomeNavBottom.vue';
     overflow-y: scroll;
     height: calc(100vh - 180px);
 }
+
 </style>

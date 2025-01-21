@@ -16,14 +16,12 @@
         </div> -->
         <div class="container h-[64px] gap-2 flex justify-start items-center text-[14px]">
             <SlotNavbar />
-        </div>
-        <HomeNavBottom />
-    </div>
+        </div>        
+</div>
 </template>
 
 <script setup>
 import SlotNavbar from '~/components/little_comps/SlotNavbar.vue';
-import HomeNavBottom from '~/components/little_comps/HomeNavBottom.vue';
 </script>
 
 
@@ -36,4 +34,5 @@ import HomeNavBottom from '~/components/little_comps/HomeNavBottom.vue';
     overflow-y: scroll;
     height: calc(100vh - 180px);
 }
+
 </style>
