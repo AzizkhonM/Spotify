@@ -2,41 +2,57 @@
     {
         "id": 1,
         "albumorplaylistname": "Future Nostalgia",
-        "coverpath": "futurenostalgia.jpg"
+        "coverpath": "futurenostalgia.jpg",
+        "path": "5lKlFlReHOLShQKyRv6AL9",
+        "isalbum": true
     },
     {
         "id": 2,
         "albumorplaylistname": "Live At SoFi Stadium",
-        "coverpath": "liveatsofistadium.jpg"
+        "coverpath": "liveatsofistadium.jpg",
+        "path": "1OARrXe5sB0gyy3MhQ8h92",
+        "isalbum": true
     },
     {
         "id": 3,
         "albumorplaylistname": "After Hours",
-        "coverpath": "afterhours.jpg"
+        "coverpath": "afterhours.jpg",
+        "path": "4yP0hdKOZPNshxUOjY0cZj",
+        "isalbum": true
     },
     {
         "id": 4,
         "albumorplaylistname": "Radical Optimism",
-        "coverpath": "radicaloptimism.jpg"
+        "coverpath": "radicaloptimism.jpg",
+        "path": "1Mo92916G2mmG7ajpmSVrc",
+        "isalbum": true
     },
     {
         "id": 5,
         "albumorplaylistname": "2024/25 Winter",
-        "coverpath": "202425winter.jpg"
+        "coverpath": "202425winter.jpg",
+        "path": "7soy1esfTZeX44FXlcIicx",
+        "isalbum": false
     },
     {
         "id": 6,
-        "albumorplaylistname": "eternal sunshine",
-        "coverpath": "eternalsunshine.jpg"
+        "albumorplaylistname": "Hurry Up Tomorrow",
+        "coverpath": "hurryuptomorrow.jpg",
+        "path": "3OxfaVgvTxUTy7276t7SPU",
+        "isalbum": true
     },
     {
         "id": 7,
         "albumorplaylistname": "Currents",
-        "coverpath": "currents.jpg"
+        "coverpath": "currents.jpg",
+        "path": "79dL7FLiJFOO0EoehUHQBv",
+        "isalbum": true
     },
     {
         "id": 8,
-        "albumorplaylistname": "UTOPIA",
-        "coverpath": "utopia.jpg"
+        "albumorplaylistname": "Starboy",
+        "coverpath": "starboy.jpg",
+        "path": "2ODvWsOgouMbaA5xf0RkJe",
+        "isalbum": true
     }
 ]

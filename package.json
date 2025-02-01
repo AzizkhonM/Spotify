@@ -10,9 +10,11 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/ui": "^2.21.0",
+    "fitty": "^2.4.2",
     "nuxt": "^3.14.1592",
     "nuxt-swiper": "^2.0.0",
-    "preline": "^2.6.0",
+    "preline": "^2.7.0",
     "swiper": "^10.3.1",
     "vue": "latest",
     "vue-router": "latest"

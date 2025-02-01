@@ -1,6 +1,8 @@
 <template>
     <div class="grid head gap-3 grid-cols-4">
-        <div v-for="el in homeNavBottom" :key="el.id"
+        <NuxtLink v-for="el in homeNavBottom" :key="el.id" :to="el.isalbum 
+      ? { name: 'album-id', params: { id: el.path } } 
+      : { name: 'playlist-id', params: { id: el.path } }"
             class="h-16 bg-[#303030] hover:bg-[#3e3e3e] duration-300 hover:cursor-pointer rounded flex main">
             <div class="min-h-16 max-h-16 min-w-16 max-w-16 cover cover-div">
                 <img :src="el.coverpath" class="rounded-tl rounded-bl " alt="" width="100%">
@@ -10,7 +12,7 @@
                     {{ el.albumorplaylistname }}
                 </div>
             </div>
-        </div>
+        </NuxtLink>
     </div>
 </template>
 

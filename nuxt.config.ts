@@ -10,7 +10,7 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: ['@nuxtjs/google-fonts', 'nuxt-swiper'],
+  modules: ['@nuxtjs/google-fonts', 'nuxt-swiper', '@nuxt/ui'],
   app: {
     head: {
       title: 'Spotify', // Add a default title for your app
@@ -21,8 +21,8 @@ export default defineNuxtConfig({
       ],
       link: [
         { rel: 'icon', type: 'image/png', href: 'favicon.png' }, // Add your favicon here
-      ],
+      ]
     },
   },
-  plugins: ["~/plugins/preline.client.ts"],
+  plugins: ["~/plugins/preline.client.ts", '~/plugins/fitty.js'],
 })

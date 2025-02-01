@@ -3,7 +3,7 @@
 
         <Header />
         <div class="grid-container">
-            Salom
+            <Sidebar/>
             <slot/>
         </div>
         <Footer/>
@@ -12,11 +12,17 @@
 </template>
 
 <script setup>
-import Slider from '~/components/Slider.vue';
+import Sidebar from '~/components/Sidebar.vue';
+
 
 </script>
 
 <style scoped>
+
+*{
+  scroll-behavior: smooth;
+}
+
 .big-container {
     display: grid;
     grid-template-rows: 70px 1fr 70px;

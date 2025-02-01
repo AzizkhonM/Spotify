@@ -18,12 +18,14 @@
             <SlotNavbar />
         </div>
         <HomeNavBottom />
+        <FooterAbout/>
     </div>
 </template>
 
 <script setup>
 import SlotNavbar from '~/components/little_comps/SlotNavbar.vue';
 import HomeNavBottom from '~/components/little_comps/HomeNavBottom.vue';
+import FooterAbout from '~/components/little_comps/FooterAbout.vue';
 </script>
 
 

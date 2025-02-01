@@ -1,0 +1,1010 @@
+[
+    {
+        "path": "4yP0hdKOZPNshxUOjY0cZj",
+        "id": 1,
+        "albumname": "After Hours",
+        "albumsinger": "The Weeknd",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2020,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 20,
+        "tracksnumber": 14,
+        "timehour": 0,
+        "timeminute": 56,
+        "timesecond": 17,
+        "upcolorcode": "#6d0d0e",
+        "downcolorcode": "#650004",
+        "textcolorcode": "#ffbdb4",
+        "coverpath": "/afterhours.jpg",
+        "credits": [
+            "© 2020 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2020 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "6b5P51m8xx2XA6U7sdNZ5E",
+                "trackname": "Alone Again",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:10"
+            },
+            {
+                "id": 2,
+                "path": "2K9Ovn1o2bTGqbsABGC6m3",
+                "trackname": "Too Late",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:59"
+            },
+            {
+                "id": 3,
+                "path": "6kWxIqQDsKFYCJGbU4AjCX",
+                "trackname": "Hardest To Love",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:31"
+            },
+            {
+                "id": 4,
+                "path": "4BGZF4oLbTL0pWm7C18pbv",
+                "trackname": "Scared To Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:11"
+            },
+            {
+                "id": 5,
+                "path": "3WlbeuhfRSqU7ylK2Ui5U7",
+                "trackname": "Snowchild",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:07"
+            },
+            {
+                "id": 6,
+                "path": "1sOW4PuG5X3Ie3EXUhAopJ",
+                "trackname": "Escape From LA",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:55"
+            },
+            {
+                "id": 7,
+                "path": "6bnF93Rx87YqUBLSgjiMU8",
+                "trackname": "Heartless",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:18"
+            },
+            {
+                "id": 8,
+                "path": "3orEOtd8CPL8GFlpRpKuoE",
+                "trackname": "Faith",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:43"
+            },
+            {
+                "id": 9,
+                "path": "0VjIjW4GlUZAMYd2vXMi3b",
+                "trackname": "Blinding Lights",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:20"
+            },
+            {
+                "id": 10,
+                "path": "7szuecWAPwGoV1e5vGu8tl",
+                "trackname": "In Your Eyes",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:57"
+            },
+            {
+                "id": 11,
+                "path": "5QO79kh1waicV47BqGRL3g",
+                "trackname": "Save Your Tears",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:35"
+            },
+            {
+                "id": 12,
+                "path": "40U8d12pC5UHqmHwXjHjjl",
+                "trackname": "Repeat After Me (Interlude)",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:15"
+            },
+            {
+                "id": 13,
+                "path": "2p8IUWQDrpjuFltbdgLOag",
+                "trackname": "After Hours",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "6:01"
+            },
+            {
+                "id": 14,
+                "path": "2BcnxwxBuar5wjCaLqm5N3",
+                "trackname": "Until I Bleed Out",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:10"
+            }
+        ]
+    },
+    {
+        "path": "5lKlFlReHOLShQKyRv6AL9",
+        "id": 2,
+        "albumname": "Future Nostalgia",
+        "albumsinger": "Dua Lipa",
+        "albumsingerimagepath": "/dualipa.jpg",
+        "albumreleaseyear": 2020,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 27,
+        "tracksnumber": 13,
+        "timehour": 0,
+        "timeminute": 43,
+        "timesecond": 23,
+        "upcolorcode": "#538ca9",
+        "downcolorcode": "#003954",
+        "textcolorcode": "#9ad5f5",
+        "coverpath": "/futurenostalgia.jpg",
+        "credits": [
+            "© 2020 Dua Lipa Limited under exclusive license to Warner Records UK, a division of Warner Music UK Limited",
+            "℗ 2020 Dua Lipa Limited under exclusive license to Warner Records UK, a division of Warner Music UK Limited, with the exception of track 1 & 2 2019 Dua Lipa Limited under exclusive license to Warner Records UK, a division of Warner Music UK Limited"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "3mC8VlVBwdVxCTq4cYZr64",
+                "trackname": "Future Nostalgia",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:04"
+            },
+            {
+                "id": 2,
+                "path": "1AVtceapuF36oZqI9gzp0o",
+                "trackname": "Don't Start Now",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:03"
+            },
+            {
+                "id": 3,
+                "path": "4GE0As8SVSjCMVYkRaaWwJ",
+                "trackname": "Cool",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:29"
+            },
+            {
+                "id": 4,
+                "path": "7toYVidBIpAmM8Ife3LGrP",
+                "trackname": "Physical",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:13"
+            },
+            {
+                "id": 5,
+                "path": "1dI77VhaLcQSgQLSnIs03D",
+                "trackname": "Levitating",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:23"
+            },
+            {
+                "id": 6,
+                "path": "5Pc594FhDA2Fa2prE75GT0",
+                "trackname": "Pretty Please",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:14"
+            },
+            {
+                "id": 7,
+                "path": "2MUKw7zEirXqdZZ3xC4hOf",
+                "trackname": "Hallucinate",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:28"
+            },
+            {
+                "id": 8,
+                "path": "1imMjt1YGNebtrtTAprKV7",
+                "trackname": "Love Again",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "4:18"
+            },
+            {
+                "id": 9,
+                "path": "59CrwNtNqzOmODXRxwaknc",
+                "trackname": "Break My Heart",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:41"
+            },
+            {
+                "id": 10,
+                "path": "5idsEzxjeekla54j0jHYUE",
+                "trackname": "Good In Bed",
+                "singers": ["Dua Lipa"],
+                "explicit": true,
+                "duration": "3:38"
+            },
+            {
+                "id": 11,
+                "path": "2F5nK70URbVjwao6lRwX0P",
+                "trackname": "Boys Will Be Boys",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "2:46"
+            },
+            {
+                "id": 12,
+                "path": "5nujrmhLynf4yMoMtj8AQF",
+                "trackname": "Levitating (feat. DaBaby)",
+                "singers": ["Dua Lipa", "DaBaby"],
+                "explicit": false,
+                "duration": "3:23"
+            },
+            {
+                "id": 13,
+                "path": "3F1P0QzdXtBz0MXy7KIO5w",
+                "trackname": "Fever",
+                "singers": ["Dua Lipa", "Angèle"],
+                "explicit": false,
+                "duration": "2:36"
+            }
+        ]
+    },
+    {
+        "path": "1OARrXe5sB0gyy3MhQ8h92",
+        "id": 3,
+        "albumname": "Live At SoFi Stadium",
+        "albumsinger": "The Weeknd",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2023,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 3,
+        "tracksnumber": 31,
+        "timehour": 1,
+        "timeminute": 35,
+        "timesecond": 0,
+        "upcolorcode": "#80312a",
+        "downcolorcode": "#621410",
+        "textcolorcode": "#febeb2",
+        "coverpath": "/liveatsofistadium.jpg",
+        "credits": [
+            "© 2023 The Weeknd XO, Inc., manufactured and marketed by Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2023 The Weeknd XO, Inc., manufactured and marketed by Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "7HX1VOiPj1oMlgZ3OQ92B6",
+                "trackname": "Intro - Live",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "1:35"
+            },
+            {
+                "id": 2,
+                "path": "2evYKtXNAdn60ANNEdjH7V",
+                "trackname": "Alone Again - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "2:47"
+            },
+            {
+                "id": 3,
+                "path": "2h3ZotklPN6aD7OuHz7bFZ",
+                "trackname": "Gasoline - Live",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:15"
+            },
+            {
+                "id": 4,
+                "path": "7skxtd9x0d05fjz4D7w3t2",
+                "trackname": "Sacrifice - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:23"
+            },
+            {
+                "id": 5,
+                "path": "72SxWvaYsDgix2N3sjCjT1",
+                "trackname": "How Do I Make You Love Me? - Live",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:29"
+            },
+            {
+                "id": 6,
+                "path": "47vfGRaXEGzcM2vI7JC2OO",
+                "trackname": "Can't Feel My Face - Live",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:03"
+            },
+            {
+                "id": 7,
+                "path": "02YlAvsmptN8LisZqrWBIb",
+                "trackname": "Take My Breath - Live",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:55"
+            },
+            {
+                "id": 8,
+                "path": "45ypYpAdgoneWcBT0Wba3p",
+                "trackname": "Hurricane - Live",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "2:07"
+            },
+            {
+                "id": 9,
+                "path": "6N8W7Dbcsg9tRDxn0wjFkR",
+                "trackname": "The Hills - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:05"
+            },
+            {
+                "id": 10,
+                "path": "3kdEGx81MR9ftxRbF3Zf84",
+                "trackname": "Often - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "2:28"
+            },
+            {
+                "id": 11,
+                "path": "03H6iCycyxfB2mZzIOEeKJ",
+                "trackname": "Crew Love - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "1:53"
+            },
+            {
+                "id": 12,
+                "path": "4ZYGm4xWPhsZVijqtpWn4C",
+                "trackname": "Starboy - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:05"
+            },
+            {
+                "id": 13,
+                "path": "0WrIAsGJOei2FGeakvpTDU",
+                "trackname": "Heartless - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "2:04"
+            },
+            {
+                "id": 14,
+                "path": "431r2Qg4I2qFIKdSFCJN4s",
+                "trackname": "Low Life - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "1:47"
+            },
+            {
+                "id": 15,
+                "path": "6tB01QHgH9YuVA8TomAzni",
+                "trackname": "Or Nah - Live",
+                "singers": ["The Weeknd", "Ty Dolla $ign"],
+                "explicit": true,
+                "duration": "1:41"
+            },
+            {
+                "id": 16,
+                "path": "2YI8oiiImLkZvVgP33xrjD",
+                "trackname": "Kiss Land - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "1:50"
+            },
+            {
+                "id": 17,
+                "path": "6knNhL3mIaackJvtjmUrfN",
+                "trackname": "Party Monster - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:09"
+            },
+            {
+                "id": 18,
+                "path": "5RlqhZfTao31aQUO2QjpkG",
+                "trackname": "Faith - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:05"
+            },
+            {
+                "id": 19,
+                "path": "7HK0ZDEsW0lGKKIVYvni2z",
+                "trackname": "After Hours - Live",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:27"
+            },
+            {
+                "id": 20,
+                "path": "6XZ8C5etRn0kiS1wwuW0SO",
+                "trackname": "Out of Time - Live",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:20"
+            },
+            {
+                "id": 21,
+                "path": "3RSmW13mK3HbkeuHSA4o4E",
+                "trackname": "I Feel It Coming - Live",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:54"
+            },
+            {
+                "id": 22,
+                "path": "4oGnKXq6cIXoE7gfEbh5Ax",
+                "trackname": "Die For You - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:13"
+            },
+            {
+                "id": 23,
+                "path": "1um00PH48BzDbULgyQyRUA",
+                "trackname": "Is There Someone Else? - Live",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:57"
+            },
+            {
+                "id": 24,
+                "path": "1occCbgg7oAWF7lMCEAk2T",
+                "trackname": "I Was Never There - Live",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "2:17"
+            },
+            {
+                "id": 25,
+                "path": "0naqCl6Bckx9qO6gtyoXLm",
+                "trackname": "Wicked Games - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "2:23"
+            },
+            {
+                "id": 26,
+                "path": "10OyIs6KCOmDO19J5wWFPx",
+                "trackname": "Call Out My Name - Live",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:02"
+            },
+            {
+                "id": 27,
+                "path": "3Tz5B0wTyLdz4jE8LgYA3J",
+                "trackname": "The Morning - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:19"
+            },
+            {
+                "id": 28,
+                "path": "52RgkUwQNKjh3iHhxV3rfZ",
+                "trackname": "Save Your Tears - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "2:58"
+            },
+            {
+                "id": 29,
+                "path": "0ijIG2j6oRSMDk5Zp91xXt",
+                "trackname": "Less Than Zero - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:04"
+            },
+            {
+                "id": 30,
+                "path": "5OGxg1400HmCYVRHuccZWw",
+                "trackname": "Blinding Lights - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:13"
+            },
+            {
+                "id": 31,
+                "path": "73H5bn2SKYkMHBPvWGZDcu",
+                "trackname": "Outro - Live",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:19"
+            }
+        ]
+    },
+    {
+        "path": "1Mo92916G2mmG7ajpmSVrc",
+        "id": 4,
+        "albumname": "Radical Optimism",
+        "albumsinger": "Dua Lipa",
+        "albumsingerimagepath": "/dualipa.jpg",
+        "albumreleaseyear": 2024,
+        "albumreleasemonth": 5,
+        "albumreleasedate": 3,
+        "tracksnumber": 11,
+        "timehour": 0,
+        "timeminute": 36,
+        "timesecond": 35,
+        "upcolorcode": "#20656c",
+        "downcolorcode": "#013a41",
+        "textcolorcode": "#93d9e1",
+        "credits": [
+            "© Under exclusive license to Warner Records UK, a division of Warner Music UK Limited, © 2024 Radical22 Limited",
+            "℗ Under exclusive license to Warner Records UK, a division of Warner Music UK Limited, ℗ 2024 Radical22 Limited with the exception of Track 2 ℗ 2023 Radical22 Limited"
+        ],
+        "coverpath": "/radicaloptimism.jpg",
+        "tracks": [
+            {
+                "id": 1,
+                "path": "1YrY0vjHWp672gt0crtj5A",
+                "trackname": "End Of An Era",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:16"
+            },
+            {
+                "id": 2,
+                "path": "6D8y7Bck8h11byRY88Pt2z",
+                "trackname": "Houdini",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:05"
+            },
+            {
+                "id": 3,
+                "path": "5b5cPscqVEMChvDqscVw26",
+                "trackname": "Training Season",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:29"
+            },
+            {
+                "id": 4,
+                "path": "7b6sWLSnbZhSIeqNGrJ4py",
+                "trackname": "These Walls",
+                "singers": ["Dua Lipa"],
+                "explicit": true,
+                "duration": "3:37"
+            },
+            {
+                "id": 5,
+                "path": "Whatcha Doing",
+                "trackname": "Whatcha Doing",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:18"
+            },
+            {
+                "id": 6,
+                "path": "7nFYnsLIX8EhyFJcPgdIDX",
+                "trackname": "French Exit",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:21"
+            },
+            {
+                "id": 7,
+                "path": "5q0EXnBYyeCdXD72FzJxH0",
+                "trackname": "Illusion",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:08"
+            },
+            {
+                "id": 8,
+                "path": "1DiVt4mPAMzbv2N2Yywxs1",
+                "trackname": "Falling Forever",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:43"
+            },
+            {
+                "id": 9,
+                "path": "1yg0jZwJIsmG7a2TqPIv7z",
+                "trackname": "Anything For Love",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "2:21"
+            },
+            {
+                "id": 10,
+                "path": "4tqOaLJdXjWi4OaFSKIT2R",
+                "trackname": "Maria",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:07"
+            },
+            {
+                "id": 11,
+                "path": "05oC2UvKDcx0cY2wg9gzKC",
+                "trackname": "Happy For You",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "4:05"
+            }
+        ]
+    },
+    {
+        "path": "5EYKrEDnKhhcNxGedaRQeK",
+        "id": 5,
+        "albumname": "eternal sunshine",
+        "albumsinger": "Ariana Grande",
+        "albumsingerimagepath": "/arianagrande.jpg",
+        "albumreleaseyear": 2024,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 8,
+        "tracksnumber": 13,
+        "timehour": 0,
+        "timeminute": 35,
+        "timesecond": 32,
+        "upcolorcode": "#392001",
+        "downcolorcode": "#392001",
+        "textcolorcode": "#e9c8a5",
+        "coverpath": "/eternalsunshine.jpg",
+        "credits": [
+            "© 2024 Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2024 Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "2o1pb13quMReXZqE7jWsgq",
+                "trackname": "intro (end of the world)",
+                "singers": ["Ariana Grande"],
+                "explicit": true,
+                "duration": "1:32"
+            },
+            {
+                "id": 2,
+                "path": "1Rweq7vNjK4kZBbGrmxQsl",
+                "trackname": "bye",
+                "singers": ["Ariana Grande"],
+                "explicit": false,
+                "duration": "2:44"
+            },
+            {
+                "id": 3,
+                "path": "0o3ua5ufFK7nfRzbDUNoGA",
+                "trackname": "don't wanna break up again",
+                "singers": ["Ariana Grande"],
+                "explicit": true,
+                "duration": "2:54"
+            },
+            {
+                "id": 4,
+                "path": "13jRSCLoWbCoU1XEdJRbgn",
+                "trackname": "Saturn Returns Interlude",
+                "singers": ["Ariana Grande"],
+                "explicit": false,
+                "duration": "0:42"
+            },
+            {
+                "id": 5,
+                "path": "3RwWW7KeVhHGayYJgUL5eZ",
+                "trackname": "eternal sunshine",
+                "singers": ["Ariana Grande"],
+                "explicit": false,
+                "duration": "3:30"
+            },
+            {
+                "id": 6,
+                "path": "142PiXzA84lmEw2RstFHFa",
+                "trackname": "supernatural",
+                "singers": ["Ariana Grande"],
+                "explicit": false,
+                "duration": "2:43"
+            },
+            {
+                "id": 7,
+                "path": "14kyXBpg91RVq8bNRDS1q2",
+                "trackname": "true story",
+                "singers": ["Ariana Grande"],
+                "explicit": false,
+                "duration": "2:43"
+            },
+            {
+                "id": 8,
+                "path": "0Lmbke3KNVFXtoH2mMSHCw",
+                "trackname": "the boy is mine",
+                "singers": ["Ariana Grande"],
+                "explicit": true,
+                "duration": "2:53"
+            },
+            {
+                "id": 9,
+                "path": "5D34wRmbFS29AjtTOP2QJe",
+                "trackname": "yes, and?",
+                "singers": ["Ariana Grande"],
+                "explicit": true,
+                "duration": "3:34"
+            },
+            {
+                "id": 10,
+                "path": "51ZQ1vr10ffzbwIjDCwqm4",
+                "trackname": "we can't be friends (wait for your love)",
+                "singers": ["Ariana Grande"],
+                "explicit": false,
+                "duration": "3:48"
+            },
+            {
+                "id": 11,
+                "path": "5cQX9BexkPIEESTZijJhXg",
+                "trackname": "i wish i hated you",
+                "singers": ["Ariana Grande"],
+                "explicit": false,
+                "duration": "2:33"
+            },
+            {
+                "id": 12,
+                "path": "6XXKB32Om6WuXg3uEWwTob",
+                "trackname": "imperfect for you",
+                "singers": ["Ariana Grande"],
+                "explicit": true,
+                "duration": "3:02"
+            },
+            {
+                "id": 13,
+                "path": "4mHM5d2fK3n8xgymjf92w2",
+                "trackname": "ordinary things (feat. Nonna)",
+                "singers": ["Ariana Grande", "Nonna"],
+                "explicit": false,
+                "duration": "2:48"
+            }
+        ]
+    },
+    {
+        "path": "79dL7FLiJFOO0EoehUHQBv",
+        "id": 6,
+        "albumname": "Currents",
+        "albumsinger": "Tame Impala",
+        "albumsingerimagepath": "/tameimpala.jpg",
+        "albumreleaseyear": 2015,
+        "tracksnumber": 13,
+        "timehour": 0,
+        "timeminute": 51,
+        "timesecond": 11,
+        "upcolorcode": "#5a4360",
+        "downcolorcode": "#422e4a",
+        "textcolorcode": "#e0c4ea",
+        "coverpath": "/currents.jpg"
+    },
+    {
+        "path": "2ODvWsOgouMbaA5xf0RkJe",
+        "id": 7,
+        "albumname": "Starboy",
+        "albumsinger": "The Weeknd",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2016,
+        "tracksnumber": 18,
+        "timehour": 1,
+        "timeminute": 8,
+        "timesecond": 40,
+        "upcolorcode": "#95002a",
+        "downcolorcode": "#650014",
+        "textcolorcode": "#e0c4ea",
+        "coverpath": "/starboy.jpg"
+    },
+    {
+        "path": "3OxfaVgvTxUTy7276t7SPU",
+        "id": 8,
+        "albumname": "Hurry Up Tomorrow",
+        "albumsinger": "The Weeknd",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2025,
+        "albumreleasemonth": 1,
+        "albumreleasedate": 31,
+        "tracksnumber": 22,
+        "timehour": 1,
+        "timeminute": 24,
+        "timesecond": 39,
+        "upcolorcode": "#ad9565",
+        "downcolorcode": "#463200",
+        "textcolorcode": "#e5cb9a",
+        "coverpath": "/hurryuptomorrow.jpg",
+        "credits": [
+            "© 2025 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2025 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "5673WA8EEUSPx1ir26lhGW",
+                "trackname": "Wake Me Up",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "5:08"
+            },
+            {
+                "id": 2,
+                "path": "3AWDeHLc88XogCaCnZQLVI",
+                "trackname": "Cry For Me",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:44"
+            },
+            {
+                "id": 3,
+                "path": "64JIAZ0bS7WoARYfWQGCoz",
+                "trackname": "I Can't Fucking Sing",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "0:12"
+            },
+            {
+                "id": 4,
+                "path": "7DY756WOLyOz2Xnhw4EFiC",
+                "trackname": "São Paulo",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:01"
+            },
+            {
+                "id": 5,
+                "path": "6jDGDtQPC46pFqxph3qdbD",
+                "trackname": "Until We're Skin & Bones",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "0:22"
+            },
+            {
+                "id": 6,
+                "path": "5rzI6Jnlhx8DgVgsOLorfW",
+                "trackname": "Baptized In Fear",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:52"
+            },
+            {
+                "id": 7,
+                "path": "0sTBOp1hdayTjw6UOyPyi6",
+                "trackname": "Open Hearts",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:54"
+            },
+            {
+                "id": 8,
+                "path": "4Msr8L0gHGDsLSBlk7pSPU",
+                "trackname": "Opening Night",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "1:36"
+            },
+            {
+                "id": 9,
+                "path": "2gyHr9WqZeMtzJOpWGuGo6",
+                "trackname": "Reflections Laughing",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:51"
+            },
+            {
+                "id": 10,
+                "path": "637oNhilCI9UlkWkUW4Grt",
+                "trackname": "Enjoy The Show",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:01"
+            },
+            {
+                "id": 11,
+                "path": "0FolPJnYMo71Z7qasTuoJT",
+                "trackname": "Given Up On Me",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "5:54"
+            },
+            {
+                "id": 12,
+                "path": "0bcZ7xN9IcjSNxLerzR2yl",
+                "trackname": "I Can't Wait To Get Here",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:08"
+            },
+            {
+                "id": 13,
+                "path": "0FIDCNYYjNvPVimz5icugS",
+                "trackname": "Timeless",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:16"
+            },
+            {
+                "id": 14,
+                "path": "2v0AG62ZHtD3I4YmTb3WYM",
+                "trackname": "Niagara Falls",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:37"
+            },
+            {
+                "id": 15,
+                "path": "7rVmzyFA7f4rNGl9onF21E",
+                "trackname": "Take Me Back To LA",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:13"
+            },
+            {
+                "id": 16,
+                "path": "4sWQbsLLH2NEbO79DSZCL9",
+                "trackname": "Big Sleep",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:45"
+            },
+            {
+                "id": 17,
+                "path": "0K3w6WNawZlv6Izmsrye8o",
+                "trackname": "Give Me Mercy",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:36"
+            },
+            {
+                "id": 18,
+                "path": "6i5fDaCzwxRrZtuvvcqoIf",
+                "trackname": "Drive",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:08"
+            },
+            {
+                "id": 19,
+                "path": "5ZDKPFRZC6QlJpf8bCIXTs",
+                "trackname": "The Abyss",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:42"
+            },
+            {
+                "id": 20,
+                "path": "717s9KFmHhyy5t3xkStS56",
+                "trackname": "Red Terror",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:51"
+            },
+            {
+                "id": 21,
+                "path": "6n6GfXu4i22rdsmRKe2eIn",
+                "trackname": "Without a Warning",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:57"
+            },
+            {
+                "id": 22,
+                "path": "4TDPlp7OSOjuDU3l7PCM04",
+                "trackname": "Hurry Up Tomorrow",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:51"
+            }
+        ]
+    }
+]

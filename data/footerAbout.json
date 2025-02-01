@@ -1,0 +1,98 @@
+[
+    {
+        "company": [
+            {
+                "text": "About",
+                "link": "https://www.spotify.com/about-us/contact/"
+            },
+            {
+                "text": "Jobs",
+                "link": "https://www.lifeatspotify.com/"
+            },
+            {
+                "text": "For the Record",
+                "link": "https://newsroom.spotify.com/"
+            }
+        ],
+        "communities": [
+            {
+                "text": "For Artists",
+                "link": "https://artists.spotify.com/"
+            },
+            {
+                "text": "Developers",
+                "link": "https://developer.spotify.com/"
+            },
+            {
+                "text": "Advertising",
+                "link": "https://ads.spotify.com/"
+            },
+            {
+                "text": "Investors",
+                "link": "https://investors.spotify.com/"
+            },
+            {
+                "text": "Vendors",
+                "link": "https://spotifyforvendors.com/"
+            }
+        ],
+        "usefulLinks": [
+            {
+                "text": "Support",
+                "link": "https://spotifyforvendors.com/"
+            },
+            {
+                "text": "Free Mobile App",
+                "link": "https://www.spotify.com/download/windows/"
+            }
+        ],
+        "spotifyPlans": [
+            {
+                "text": "Premium Individual",
+                "link": "https://www.spotify.com/premium/#ref=spotifycom_footer_premium_individual"
+            },
+            {
+                "text": "Premimum Duo",
+                "link": "https://www.spotify.com/duo/#ref=spotifycom_footer_premium_duo"
+            },
+            {
+                "text": "Premimum Family",
+                "link": "https://www.spotify.com/family/#ref=spotifycom_footer_premium_family"
+            },
+            {
+                "text": "Premimum Student",
+                "link": "https://www.spotify.com/student/#ref=spotifycom_footer_premium_student"
+            },
+            {
+                "text": "Spotify Free",
+                "link": "https://www.spotify.com/free/#ref=spotifycom_footer_free"
+            }
+        ],
+        "footerbottom": [
+            {
+                "text": "Legal",
+                "link": "https://www.spotify.com/legal/"
+            },
+            {
+                "text": "Safety & Privacy Center",
+                "link": "https://www.spotify.com/safetyandprivacy"
+            },
+            {
+                "text": "Privacy Policy",
+                "link": "https://www.spotify.com/legal/privacy-policy"
+            },
+            {
+                "text": "Cookies",
+                "link": "https://www.spotify.com/legal/cookies-policy"
+            },
+            {
+                "text": "About Ads",
+                "link": "https://spotify.com/legal/privacy-policy/#s3"
+            },
+            {
+                "text": "Accessibility",
+                "link": "http://spotify.com/accessibility"
+            }
+        ]
+    }
+]

@@ -1,7 +1,7 @@
 <template>
     <div class="main w-full">
-        <div class="flex items-center">
-            <div class="w-[64px] flex justify-center h-[64px] items-center mx-[6px]">
+        <div class="flex items-center gap-3">
+            <div class="w-[64px] flex justify-center h-[64px] items-center">
                 <nuxt-link to="/"><img src="../public/spotify.svg" draggable="false" width="32px" alt=""></nuxt-link>
             </div>
             <div class="flex justify-center items-center gap-2 bigSearch">
