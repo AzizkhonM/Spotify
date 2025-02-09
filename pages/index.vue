@@ -18,7 +18,21 @@
             <SlotNavbar />
         </div>
         <HomeNavBottom />
-        <FooterAbout/>
+        <h1 class="text-[24px] mb-4 mt-6" style="font-family: SpotifyMixBold;">Made for JDU</h1>
+
+        <UCarousel v-slot="{ item }" loop arrows dots :items="madeforjdu">
+            <!-- <img :src="item.coverpath" width="234" height="234" class="rounded-lg"> -->
+            <div
+                class="p-3 w-[200px] h-[250px] grid grid-cols-1 content-start rounded-[6px] hover:bg-[#1f1f1f] hover:cursor-pointer duration-200 gap-2">
+                <div style="width: 100%; height: 100%;"><img style=" border-radius: 6px;" :src="item.coverpath"
+                        width="100%" alt=""></div>
+                <div>
+                    <h1 class="line-clamp-2 text-[14px] text-[#B3B3B3]">{{ item.description }}</h1>
+                </div>
+            </div>
+        </UCarousel>
+
+        <FooterAbout />
     </div>
 </template>
 
@@ -26,6 +40,7 @@
 import SlotNavbar from '~/components/little_comps/SlotNavbar.vue';
 import HomeNavBottom from '~/components/little_comps/HomeNavBottom.vue';
 import FooterAbout from '~/components/little_comps/FooterAbout.vue';
+import madeforjdu from "~/static/madeforjdu.json"
 </script>
 
 
@@ -37,5 +52,10 @@ import FooterAbout from '~/components/little_comps/FooterAbout.vue';
     border-radius: 10px;
     overflow-y: scroll;
     height: calc(100vh - 180px);
+}
+
+::selection {
+    background-color: #1ED760;
+    color: white;
 }
 </style>

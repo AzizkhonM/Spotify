@@ -17,7 +17,7 @@
 </template>
 
 <script setup>
-import homeNavBottom from "../data/homeNavBottom.json"
+import homeNavBottom from "../static/homeNavBottom.json"
 </script>
 
 <style scoped>
@@ -59,5 +59,10 @@ import homeNavBottom from "../data/homeNavBottom.json"
     .head {
         grid-template-columns: repeat(2, 1fr);
     }
+}
+
+::selection {
+    background-color: #1ED760; 
+    color: white;              
 }
 </style>

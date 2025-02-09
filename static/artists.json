@@ -1,0 +1,134 @@
+[
+  {
+    "path": "1Xyo4u8uXC1ZmMpatF05PJ",
+    "id": 1,
+    "name": "The Weeknd",
+    "verified": true,
+    "followed": true,
+    "color": "28, 44, 119",
+    "artistimage": "/theweeknd.jpg",
+    "artistbackimage": "/theweeknd_back.jpg",
+    "monthlylisteners": 120955761,
+    "populartracks": [
+      "0FIDCNYYjNvPVimz5icugS",
+      "0VjIjW4GlUZAMYd2vXMi3b",
+      "7MXVkk9YMctZqd1Srtv4MB",
+      "5QO79kh1waicV47BqGRL3g",
+      "7DY756WOLyOz2Xnhw4EFiC"
+    ],
+    "artistpick": {
+      "path": "3OxfaVgvTxUTy7276t7SPU",
+      "coverpath": "/hurryuptomorrow.jpg",
+      "albumname": "Hurry Up Tomorrow"
+    },
+    "discography": {
+      "all": [
+        "3OxfaVgvTxUTy7276t7SPU", "44MHvpU3h9Wp6SxhsC9GOK", "2IRxVVqbSbqHJo8Zx50LYn", "0MwPArEeQJx5GMc5Sz7kRV", "1OARrXe5sB0gyy3MhQ8h92", "4yP0hdKOZPNshxUOjY0cZj", "2ODvWsOgouMbaA5xf0RkJe"
+      ],
+      "popular": [
+        "3OxfaVgvTxUTy7276t7SPU", "4yP0hdKOZPNshxUOjY0cZj", "2ODvWsOgouMbaA5xf0RkJe", "2IRxVVqbSbqHJo8Zx50LYn"
+      ]
+    },
+    "about": {
+      "rankintheworld": 2,
+      "followers": 99367314,
+      "mostlistenedplaces": [
+        {
+          "place": "Jakarta, ID",
+          "listenersnumber": 2450814
+        },
+        {
+          "place": "Mexico City, MX",
+          "listenersnumber": 1503713
+        },
+        {
+          "place": "São Paulo, BR",
+          "listenersnumber": 1497354
+        },
+        {
+          "place": "London, GB",
+          "listenersnumber": 1376129
+        },
+        {
+          "place": "Sydney, AU",
+          "listenersnumber": 1234125
+        }
+      ],
+      "socialmediaweb": [
+        {
+          "Facebook": "https://www.facebook.com/theweeknd/",
+          "Instagram": "https://www.instagram.com/theweeknd/",
+          "Twitter": "https://x.com/theweeknd",
+          "Wikipedia": "https://uz.wikipedia.org/wiki/The_Weeknd"
+        }
+      ],
+      "briefinfo": "The Weeknd took over pop music & culture on his own terms filtering R&B, Pop,& hip-hop through an ambitious widescreen lens. The multi-platinum 3X GRAMMY Award winner has emerged as one of the most successful & significant artists of the modern era. 2012’s 3X platinum Trilogy collated 3 breakout mixtapes—House of Balloons, Thursday & Echoes of Silence—into his 1st chart-topping collection followed by his debut LP Kiss Land in 2013. Two years later, “Earned It (Fifty Shades of Grey)” won “Best R&B Performance” & received an Academy Award nod for “Best Original Song” & 4X Platinum Beauty Behind The Madness won a GRAMMY for “Best Urban Contemporary Album.” In 2018,Starboy  won the same award, making him the 1st artist ever to win twice. His 6-track project My Dear Melancholy marked his 3rd consecutive #1 bow on the Billboard Top 200, & “Pray For Me” with Kendrick Lamar & Niels was featured in the trailer for the Academy Award winning Marvel film Black Panther. In 2020 the 80’s-nostalgic track Blinding Lights became a worldwide sensation, igniting viral dance challenges across social media, peaking at #1 in 30+ countries & headlining Mercedes Benz EQC campaign. After Hours held the #1 spot on Billboard 200 for 4 consecutive weeks, marking his 4th #1 album & becoming the first to ever rank #1 on the Billboard 200, Hot 100, and Artist 100 simultaneously. After Hours is the #1 R&B streaming album of all time (followed by Starboy at #2)."
+    }
+  },
+  {
+    "path": "6M2wZ9GZgrQXHCFfjv46we",
+    "id": 1,
+    "name": "Dua Lipa",
+    "verified": true,
+    "followed": true,
+    "color": "0, 57, 74",
+    "artistimage": "/dualipa.jpg",
+    "artistbackimage": "/dualipa_back.jpg",
+    "monthlylisteners": 64898719,
+    "populartracks": [
+      "5q0EXnBYyeCdXD72FzJxH0",
+      "6D8y7Bck8h11byRY88Pt2z",
+      "5b5cPscqVEMChvDqscVw26",
+      "1AVtceapuF36oZqI9gzp0o",
+      "1imMjt1YGNebtrtTAprKV7"
+    ],
+    "artistpick": {
+      "path": "1Mo92916G2mmG7ajpmSVrc",
+      "coverpath": "/radicaloptimism.jpg",
+      "albumname": "Radical Optimism"
+    },
+    "discography": {
+      "all": [
+        "1Mo92916G2mmG7ajpmSVrc", "5cH7FqB7JD5q1tJXJ7FHYu", "5lKlFlReHOLShQKyRv6AL9", "01sfgrNbnnPUEyz6GZYlt9"
+      ],
+      "popular": [
+        "1Mo92916G2mmG7ajpmSVrc", "5lKlFlReHOLShQKyRv6AL9", "01sfgrNbnnPUEyz6GZYlt9", "5cH7FqB7JD5q1tJXJ7FHYu"
+      ]
+    },
+    "about": {
+      "rankintheworld": 23,
+      "followers": 45521348,
+      "mostlistenedplaces": [
+        {
+          "place": "Mexico City, MX",
+          "listenersnumber": 1029527
+        },
+        {
+          "place": "Santiago, CL",
+          "listenersnumber": 962392
+        },
+        {
+          "place": "Sydney, AU",
+          "listenersnumber": 828570
+        },
+        {
+          "place": "Jakarta, ID",
+          "listenersnumber": 802994
+        },
+        {
+          "place": "São Paulo, BR",
+          "listenersnumber": 792702
+        }
+      ],
+      "socialmediaweb": [
+        {
+          "Facebook": "https://www.facebook.com/DuaLipa/",
+          "Instagram": "https://www.instagram.com/DuaLipa/",
+          "Twitter": "https://x.com/DuaLipa",
+          "Wikipedia": "https://uz.wikipedia.org/wiki/Dua_Lipa"
+        }
+      ],
+      "briefinfo": "Inspired by Dua’s own self-discovery, Radical Optimism (out May 3) is the third album from 3x GRAMMY and 7x BRIT Award-winning pop powerhouse Dua Lipa. Radical Optimism taps into the pure joy and happiness of having clarity in situations that once seemed impossible to face. The hard goodbyes and vulnerable beginnings that previously threatened to crush your soul, become milestones as you choose optimism and start to move with grace through the chaos. Rolling Stone has called the album “pop bliss,” while noting it is “uniquely and utterly Dua Lipa: confident dance pop full of witty Instagram-caption-ready one-liners.”\n\nRadical Optimism follows Dua' sophomore album Future Nostalgia, which solidified her position as both a critical and commercial success. The GRAMMY-winning record was the longest running top 10 album by a female artist on the Billboard 200 in 2021 and spawned multiple worldwide hit singles, with “Levitating” earning certified diamond status and the title of Billboard’s No. 1 Hot 100 Song of 2021.\n\nDua’s eponymous 2017 debut album is certified platinum, spawned six platinum tracks, and made her the first female artist in BRIT Awards history to pick up five nominations in a single year. Dua has 10 GRAMMY nominations with three wins. Globally, she has amassed over 40 billion streams across platforms and has the top two most streamed albums by a female artist of all time on Spotify."
+    }
+  }
+]

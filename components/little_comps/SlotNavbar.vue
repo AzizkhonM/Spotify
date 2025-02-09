@@ -23,4 +23,9 @@
     background-color: white;
     color: black;
 }
+
+::selection {
+    background-color: #1ED760; 
+    color: white;              
+}
 </style>

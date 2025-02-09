@@ -62,4 +62,9 @@ swiper-slide {
   font-weight: bold;
   font-family: 'Roboto', sans-serif;
 }
+
+::selection {
+    background-color: #1ED760; 
+    color: white;              
+}
 </style>

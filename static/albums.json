@@ -2,8 +2,11 @@
     {
         "path": "4yP0hdKOZPNshxUOjY0cZj",
         "id": 1,
+        "isSingle": false,
+        "isCompilation": false,
         "albumname": "After Hours",
         "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
         "albumsingerimagepath": "/theweeknd.jpg",
         "albumreleaseyear": 2020,
         "albumreleasemonth": 3,
@@ -138,7 +141,10 @@
     {
         "path": "5lKlFlReHOLShQKyRv6AL9",
         "id": 2,
+        "isSingle": false,
+        "isCompilation": false,
         "albumname": "Future Nostalgia",
+        "albumsingerpath": "6M2wZ9GZgrQXHCFfjv46we",
         "albumsinger": "Dua Lipa",
         "albumsingerimagepath": "/dualipa.jpg",
         "albumreleaseyear": 2020,
@@ -266,8 +272,11 @@
     {
         "path": "1OARrXe5sB0gyy3MhQ8h92",
         "id": 3,
+        "isSingle": false,
+        "isCompilation": false,
         "albumname": "Live At SoFi Stadium",
         "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
         "albumsingerimagepath": "/theweeknd.jpg",
         "albumreleaseyear": 2023,
         "albumreleasemonth": 3,
@@ -538,7 +547,10 @@
     {
         "path": "1Mo92916G2mmG7ajpmSVrc",
         "id": 4,
+        "isSingle": false,
+        "isCompilation": false,
         "albumname": "Radical Optimism",
+        "albumsingerpath": "6M2wZ9GZgrQXHCFfjv46we",
         "albumsinger": "Dua Lipa",
         "albumsingerimagepath": "/dualipa.jpg",
         "albumreleaseyear": 2024,
@@ -650,6 +662,8 @@
     {
         "path": "5EYKrEDnKhhcNxGedaRQeK",
         "id": 5,
+        "isSingle": false,
+        "isCompilation": false,
         "albumname": "eternal sunshine",
         "albumsinger": "Ariana Grande",
         "albumsingerimagepath": "/arianagrande.jpg",
@@ -778,6 +792,8 @@
     {
         "path": "79dL7FLiJFOO0EoehUHQBv",
         "id": 6,
+        "isSingle": false,
+        "isCompilation": false,
         "albumname": "Currents",
         "albumsinger": "Tame Impala",
         "albumsingerimagepath": "/tameimpala.jpg",
@@ -789,29 +805,190 @@
         "upcolorcode": "#5a4360",
         "downcolorcode": "#422e4a",
         "textcolorcode": "#e0c4ea",
-        "coverpath": "/currents.jpg"
+        "coverpath": "/currents.jpg",
+        "tracks": [
+
+        ]
     },
     {
         "path": "2ODvWsOgouMbaA5xf0RkJe",
         "id": 7,
+        "isSingle": false,
+        "isCompilation": false,
         "albumname": "Starboy",
         "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
         "albumsingerimagepath": "/theweeknd.jpg",
         "albumreleaseyear": 2016,
+        "albumreleasemonth": 11,
+        "albumreleasedate": 25,
         "tracksnumber": 18,
         "timehour": 1,
         "timeminute": 8,
         "timesecond": 40,
         "upcolorcode": "#95002a",
         "downcolorcode": "#650014",
-        "textcolorcode": "#e0c4ea",
-        "coverpath": "/starboy.jpg"
+        "textcolorcode": "#fdbdbe",
+        "coverpath": "/starboy.jpg",
+        "credits": [
+            "© 2016 The Weeknd XO, Inc., Manufactured and Marketed by Republic Records, a Division of UMG Recordings, Inc.",
+            "℗ 2016 The Weeknd XO, Inc., Manufactured and Marketed by Republic Records, a Division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "7MXVkk9YMctZqd1Srtv4MB",
+                "trackname": "Starboy (feat. Daft Punk)",
+                "singers": ["The Weeknd", "Daft Punk"],
+                "explicit": true,
+                "duration": "3:50"
+            },
+            {
+                "id": 2,
+                "path": "4F7A0DXBrmUAkp32uenhZt",
+                "trackname": "Party Monster",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:09"
+            },
+            {
+                "id": 3,
+                "path": "4oeaIftdpT3JuZLcCkKmVE",
+                "trackname": "False Alarm",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:40"
+            },
+            {
+                "id": 4,
+                "path": "37F0uwRSrdzkBiuj0D5UHI",
+                "trackname": "Reminder",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:38"
+            },
+            {
+                "id": 5,
+                "path": "36YCdzT57us0LhDmCYtrNE",
+                "trackname": "Rockin'",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:52"
+            },
+            {
+                "id": 6,
+                "path": "00NAQYOP4AmWR549nnYJZu",
+                "trackname": "Secrets",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:25"
+            },
+            {
+                "id": 7,
+                "path": "1oGdVdYjeQvojGKDddxLQQ",
+                "trackname": "True Colors",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:26"
+            },
+            {
+                "id": 8,
+                "path": "4EDijkJdHBZZ0GwJ12iTAj",
+                "trackname": "Stargirl Interlude",
+                "singers": ["The Weeknd", "Lana Del Rey"],
+                "explicit": false,
+                "duration": "1:51"
+            },
+            {
+                "id": 9,
+                "path": "4h90qkbnW1Qq6pBhoPvwko",
+                "trackname": "Sidewalks",
+                "singers": ["The Weeknd", "Kendrick Lamar"],
+                "explicit": true,
+                "duration": "3:51"
+            },
+            {
+                "id": 10,
+                "path": "4mU5iXHeLgbR94siF7p1sY",
+                "trackname": "Six Feet Under",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:57"
+            },
+            {
+                "id": 11,
+                "path": "27BgDmciSjoxTG0almHTpZ",
+                "trackname": "Loves To Lay",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:43"
+            },
+            {
+                "id": 12,
+                "path": "0ifooM33X1iBxVYyOkSbXW",
+                "trackname": "A Lonely Night",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:40"
+            },
+            {
+                "id": 13,
+                "path": "6pDVjCUA3B1vg9waKutAsv",
+                "trackname": "Attention",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:17"
+            },
+            {
+                "id": 14,
+                "path": "6pDVjCUA3B1vg9waKutAsv",
+                "trackname": "Ordinary Life",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:41"
+            },
+            {
+                "id": 15,
+                "path": "57qiTKh8bVX0VtfUNTQqhw",
+                "trackname": "Nothing Without You",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:18"
+            },
+            {
+                "id": 16,
+                "path": "0NWqNXBJTpXbkI5rPWNy3p",
+                "trackname": "All I Know",
+                "singers": ["The Weeknd", "Future"],
+                "explicit": true,
+                "duration": "5:21"
+            },
+            {
+                "id": 17,
+                "path": "2Ch7LmS7r2Gy2kc64wv3Bz",
+                "trackname": "Die For You",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:20"
+            },
+            {
+                "id": 18,
+                "path": "3dhjNA0jGA8vHBQ1VdD6vV",
+                "trackname": "I Feel It Coming",
+                "singers": ["The Weeknd", "Daft Punk"],
+                "explicit": false,
+                "duration": "4:29"
+            }
+        ]
     },
     {
         "path": "3OxfaVgvTxUTy7276t7SPU",
         "id": 8,
+        "isSingle": false,
+        "isCompilation": false,
         "albumname": "Hurry Up Tomorrow",
         "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
         "albumsingerimagepath": "/theweeknd.jpg",
         "albumreleaseyear": 2025,
         "albumreleasemonth": 1,
@@ -820,9 +997,9 @@
         "timehour": 1,
         "timeminute": 24,
         "timesecond": 39,
-        "upcolorcode": "#ad9565",
-        "downcolorcode": "#463200",
-        "textcolorcode": "#e5cb9a",
+        "upcolorcode": "#401800",
+        "downcolorcode": "#401800",
+        "textcolorcode": "#f8c2a6",
         "coverpath": "/hurryuptomorrow.jpg",
         "credits": [
             "© 2025 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
@@ -832,8 +1009,8 @@
             {
                 "id": 1,
                 "path": "5673WA8EEUSPx1ir26lhGW",
-                "trackname": "Wake Me Up",
-                "singers": ["The Weeknd"],
+                "trackname": "Wake Me Up (feat. Justice)",
+                "singers": ["The Weeknd", "Justice"],
                 "explicit": false,
                 "duration": "5:08"
             },
@@ -856,8 +1033,8 @@
             {
                 "id": 4,
                 "path": "7DY756WOLyOz2Xnhw4EFiC",
-                "trackname": "São Paulo",
-                "singers": ["The Weeknd"],
+                "trackname": "São Paulo (feat. Anitta)",
+                "singers": ["The Weeknd", "Anitta"],
                 "explicit": true,
                 "duration": "5:01"
             },
@@ -896,16 +1073,16 @@
             {
                 "id": 9,
                 "path": "2gyHr9WqZeMtzJOpWGuGo6",
-                "trackname": "Reflections Laughing",
-                "singers": ["The Weeknd"],
+                "trackname": "Reflections Laughing (feat. Travis Scott, Florence + The Machine)",
+                "singers": ["The Weeknd", "Travis Scott", "Florence + The Machine"],
                 "explicit": true,
                 "duration": "4:51"
             },
             {
                 "id": 10,
                 "path": "637oNhilCI9UlkWkUW4Grt",
-                "trackname": "Enjoy The Show",
-                "singers": ["The Weeknd"],
+                "trackname": "Enjoy The Show (feat. Future)",
+                "singers": ["The Weeknd", "Future"],
                 "explicit": true,
                 "duration": "5:01"
             },
@@ -928,8 +1105,8 @@
             {
                 "id": 13,
                 "path": "0FIDCNYYjNvPVimz5icugS",
-                "trackname": "Timeless",
-                "singers": ["The Weeknd"],
+                "trackname": "Timeless (feat. Playboi Carti)",
+                "singers": ["The Weeknd", "Playboi Carti"],
                 "explicit": true,
                 "duration": "4:16"
             },
@@ -952,8 +1129,8 @@
             {
                 "id": 16,
                 "path": "4sWQbsLLH2NEbO79DSZCL9",
-                "trackname": "Big Sleep",
-                "singers": ["The Weeknd"],
+                "trackname": "Big Sleep (feat. Giorgio Moroder)",
+                "singers": ["The Weeknd", "Giorgio Moroder"],
                 "explicit": false,
                 "duration": "3:45"
             },
@@ -976,8 +1153,8 @@
             {
                 "id": 19,
                 "path": "5ZDKPFRZC6QlJpf8bCIXTs",
-                "trackname": "The Abyss",
-                "singers": ["The Weeknd"],
+                "trackname": "The Abyss (feat. Lana Del Rey)",
+                "singers": ["The Weeknd", "Lana Del Rey"],
                 "explicit": false,
                 "duration": "4:42"
             },
@@ -1004,6 +1181,341 @@
                 "singers": ["The Weeknd"],
                 "explicit": false,
                 "duration": "4:51"
+            }
+        ]
+    },
+    {
+        "path": "2IRxVVqbSbqHJo8Zx50LYn",
+        "id": 9,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Timeless",
+        "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2024,
+        "albumreleasemonth": 9,
+        "albumreleasedate": 27,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 4,
+        "timesecond": 16,
+        "upcolorcode": "#3f2727",
+        "downcolorcode": "#402828",
+        "textcolorcode": "#e5c6c4",
+        "coverpath": "/timeless_single.jpg",
+        "credits": [
+            "© 2024 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2024 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "1Es7AUAhQvapIcoh3qMKDL",
+                "trackname": "Timeless (feat. Playboi Carti)",
+                "singers": ["The Weeknd", "Playboi Carti"],
+                "explicit": true,
+                "duration": "4:16"
+            }
+        ]
+    },
+    {
+        "path": "44MHvpU3h9Wp6SxhsC9GOK",
+        "id": 10,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "São Paulo",
+        "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2024,
+        "albumreleasemonth": 10,
+        "albumreleasedate": 31,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 5,
+        "timesecond": 1,
+        "upcolorcode": "#959c70",
+        "downcolorcode": "#32380c",
+        "textcolorcode": "#cad2a3",
+        "coverpath": "/saopaolo_single.jpg",
+        "credits": [
+            "© 2024 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2024 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "0xGQTpN4ESETtl1Sp6rzd2",
+                "trackname": "São Paulo (feat. Anitta)",
+                "singers": ["The Weeknd", "Anitta"],
+                "explicit": true,
+                "duration": "5:01"
+            }
+        ]
+    },
+    {
+        "path": "0MwPArEeQJx5GMc5Sz7kRV",
+        "id": 11,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Dancing In The Flames",
+        "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2024,
+        "albumreleasemonth": 9,
+        "albumreleasedate": 13,
+        "tracksnumber": 5,
+        "timehour": 0,
+        "timeminute": 19,
+        "timesecond": 25,
+        "upcolorcode": "#464646",
+        "downcolorcode": "#464646",
+        "textcolorcode": "#CDCDCD",
+        "coverpath": "/dancingintheflames_single.jpg",
+        "credits": [
+            "© 2024 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2024 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "29lXN1aoaL6HE72BOvknyr",
+                "trackname": "Dancing In The Flames",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:40"
+            },
+            {
+                "id": 2,
+                "path": "34nSJrquH2c8LNbfnRffMF",
+                "trackname": "Dancing In The Flames - Acoustic",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:28"
+            },
+            {
+                "id": 3,
+                "path": "1G73gINM14qd8cE3Lf8V1z",
+                "trackname": "Dancing In The Flames - Live from São Paulo",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "5:12"
+            },
+            {
+                "id": 4,
+                "path": "1h345CZmt3uU9bym4GETWd",
+                "trackname": "Dancing In The Flames - Instrumental",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:41"
+            },
+            {
+                "id": 5,
+                "path": "167wD7BlzcLxsX8PlSujCa",
+                "trackname": "Dancing In The Flames - Acapella",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:23"
+            }
+        ]
+    },
+    {
+        "path": "01sfgrNbnnPUEyz6GZYlt9",
+        "id": 12,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Dua Lipa (Deluxe)",
+        "albumsingerpath": "6M2wZ9GZgrQXHCFfjv46we",
+        "albumsinger": "Dua Lipa",
+        "albumsingerimagepath": "/dualipa.jpg",
+        "albumreleaseyear": 2017,
+        "albumreleasemonth": 6,
+        "albumreleasedate": 2,
+        "tracksnumber": 17,
+        "timehour": 1,
+        "timeminute": 0,
+        "timesecond": 54,
+        "upcolorcode": "#a75058",
+        "downcolorcode": "#630f1f",
+        "textcolorcode": "#ffbcc0",
+        "credits": [
+            "© 2017 Dua Lipa Limited under exclusive license to Warner Music UK Limited",
+            "℗ 2017 Dua Lipa Limited under exclusive license to Warner Music UK Limited. Tracks 3, 6, 7, 8, 9, 13, 14 (P) 2016 Warner Music UK Limited. Tracks 4, 15, 17 (P) 2015 Warner Music UK Limited."
+        ],
+        "coverpath": "/dualipadeluxe.jpg",
+        "tracks": [
+            {
+                "id": 1,
+                "path": "4P76CEIXrrWT2cgS1YrTMr",
+                "trackname": "Genesis",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:25"
+            },
+            {
+                "id": 2,
+                "path": "2OWKDTonST8HNko3dBlPPp",
+                "trackname": "Lost In Your Light (feat. Miguel)",
+                "singers": ["Dua Lipa", "Miguel"],
+                "explicit": false,
+                "duration": "3:23"
+            },
+            {
+                "id": 3,
+                "path": "5eTNdkstwKaNahHf41fJ9u",
+                "trackname": "Hotter Than Hell",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:07"
+            },
+            {
+                "id": 4,
+                "path": "7FCfMXYTIiQ9b4hDYs4Iol",
+                "trackname": "Be The One",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:22"
+            },
+            {
+                "id": 5,
+                "path": "76cy1WJvNGJTj78UqeA5zr",
+                "trackname": "IDGAF",
+                "singers": ["Dua Lipa"],
+                "explicit": true,
+                "duration": "3:37"
+            },
+            {
+                "id": 6,
+                "path": "2eAAEa8pxKF7My0EO4rFgR",
+                "trackname": "Blow Your Mind (Mwah)",
+                "singers": ["Dua Lipa"],
+                "explicit": true,
+                "duration": "2:58"
+            },
+            {
+                "id": 7,
+                "path": "1mxaufUe16G9wOoG9ptUqr",
+                "trackname": "Garden",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:47"
+            },
+            {
+                "id": 8,
+                "path": "0mDGNetRxywxqgiXFbagZh",
+                "trackname": "No Goodbyes",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:36"
+            },
+            {
+                "id": 9,
+                "path": "0gtSPYz0OHoF7k09Auq1uC",
+                "trackname": "Thinking 'Bout You",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "2:51"
+            },
+            {
+                "id": 10,
+                "path": "2ekn2ttSfGqwhhate0LSR0",
+                "trackname": "New Rules",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:29"
+            },
+            {
+                "id": 11,
+                "path": "4wNQAG2BzbVkLhdajjxGpR",
+                "trackname": "Begging",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:14"
+            },
+            {
+                "id": 12,
+                "path": "5E5MqaS6eOsbaJibl3YeMZ",
+                "trackname": "Homesick",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:50"
+            },
+            {
+                "id": 13,
+                "path": "2qxagPKgS2Wc05MLmJucBE",
+                "trackname": "Dreams",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:40"
+            },
+            {
+                "id": 14,
+                "path": "4isCUHcZJs0o8niODly6qc",
+                "trackname": "Room For 2",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:28"
+            },
+            {
+                "id": 15,
+                "path": "2qES7NEo0DCDvi707VS3HC",
+                "trackname": "New Love",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "4:31"
+            },
+            {
+                "id": 16,
+                "path": "0LwbO2KIQw1uR2FCqwaKAu",
+                "trackname": "Bad Together",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:58"
+            },
+            {
+                "id": 17,
+                "path": "1oXHXIB8rHgwHSsPRNjEzn",
+                "trackname": "Last Dance",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "3:48"
+            }
+        ]
+    },
+    {
+        "path": "5cH7FqB7JD5q1tJXJ7FHYu",
+        "id": 13,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Dance The Night",
+        "albumsingerpath": "6M2wZ9GZgrQXHCFfjv46we",
+        "albumsinger": "Dua Lipa",
+        "albumsingerimagepath": "/dualipa.jpg",
+        "albumreleaseyear": 2023,
+        "albumreleasemonth": 5,
+        "albumreleasedate": 25,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 2,
+        "timesecond": 56,
+        "upcolorcode": "#e71870",
+        "downcolorcode": "#640024",
+        "textcolorcode": "#ffbbcd",
+        "credits": [
+            "© 2023 Atlantic Recording Corporation, Warner Bros. Entertainment, Inc. & Mattel, Inc.",
+            "℗ 2023 Atlantic Recording Corporation, Warner Bros. Entertainment, Inc. & Mattel, Inc."
+        ],
+        "coverpath": "/dancethenight.jpg",
+        "tracks": [
+            {
+                "id": 1,
+                "path": "1vYXt7VSjH9JIM5oRRo7vA",
+                "trackname": "Dance The Night (From Barbie The Album)",
+                "singers": ["Dua Lipa"],
+                "explicit": false,
+                "duration": "2:56"
             }
         ]
     }

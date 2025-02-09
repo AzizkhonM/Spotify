@@ -73,7 +73,7 @@
 <script setup>
 import { ref, onMounted } from "vue";
 import { useRoute } from "vue-router";
-import albums from "../../data/playlists.json";
+import albums from "../../static/playlists.json";
 
 const isOpen = ref(false)
 const route = useRoute();
@@ -224,6 +224,11 @@ ffbdb4
   display: grid;
   grid-template-columns: 2% 41% 29% 21% 3%;
   border-bottom: 1px solid #2d2d2d;
+}
+
+::selection {
+    background-color: #1ED760; 
+    color: white;              
 }
 
 </style>

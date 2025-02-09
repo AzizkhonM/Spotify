@@ -335,4 +335,9 @@
 .bellPath:hover path {
     fill: white;
 }
+
+::selection {
+    background-color: #1ED760; 
+    color: white;              
+}
 </style>

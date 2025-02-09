@@ -10,7 +10,7 @@
 </template>
 
 <script setup>
-import albums from "../data/albums.json"
+import albums from "../static/albums.json"
 </script>
 
 <style scoped>
@@ -32,5 +32,10 @@ import albums from "../data/albums.json"
 .wrapped::-webkit-slider-thumb {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+}
+
+::selection {
+    background-color: #1ED760; 
+    color: white;              
 }
 </style>

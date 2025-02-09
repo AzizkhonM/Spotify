@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "path": "",
+        "coverpath": "lanadelrey.jpg",
+        "description": "Lana Del Rey, Ariana Grande, Maroon 5 and more"
+    },
+    {
+        "id": 2,
+        "path": "",
+        "coverpath": "travisscott.jpg",
+        "description": "Travis Scott, Future, Post Malone and more"
+    },
+    {
+        "id": 3,
+        "path": "",
+        "coverpath": "fam0uz.jpg",
+        "description": "fam0uz, LXNGVX, zaichkou888 and more"
+    },
+    {
+        "id": 4,
+        "path": "",
+        "coverpath": "coldplay.jpg",
+        "description": "Coldplay, Harry Styles, Selena Gomez and more"
+    },
+    {
+        "id": 5,
+        "path": "",
+        "coverpath": "avicii.jpg",
+        "description": "Avicii, Calvin Harris, Swedish House Mafia and more"
+    },
+    {
+        "id": 6,
+        "path": "",
+        "coverpath": "justinbieber.jpg",
+        "description": "Justin Bieber, The Kid Laroi, Juice WRLD and more"
+    },
+    {
+        "id": 7,
+        "path": "",
+        "coverpath": "charlieputh.jpg",
+        "description": "Charlie Puth, Ed Sheeran, Shawn Mendez and more"
+    },
+    {
+        "id": 8,
+        "path": "",
+        "coverpath": "theweeknd.jpg",
+        "description": "The Weeknd, Tory Lanez, SZA and more"
+    }
+]

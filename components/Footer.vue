@@ -508,4 +508,9 @@ onMounted(() => {
   background: linear-gradient(to right, white 90% green 90%);
   /* Passed part turns green on hover */
 }
+
+::selection {
+    background-color: #1ED760; 
+    color: white;              
+}
 </style>

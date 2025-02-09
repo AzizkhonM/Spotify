@@ -35,4 +35,8 @@ import SlotNavbar from '~/components/little_comps/SlotNavbar.vue';
     height: calc(100vh - 180px);
 }
 
+::selection {
+    background-color: #1ED760; 
+    color: white;              
+}
 </style>

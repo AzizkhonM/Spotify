@@ -37,4 +37,8 @@ import HomeNavBottom from '~/components/little_comps/HomeNavBottom.vue';
     height: calc(100vh - 180px);
 }
 
+::selection {
+    background-color: #1ED760; 
+    color: white;              
+}
 </style>

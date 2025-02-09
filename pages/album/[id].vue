@@ -5,29 +5,35 @@
     }">
       <div>
         <img id="maincover" :src="main.coverpath" width="232px"
-          class="hover:scale-[1.02] duration-200 hover:cursor-pointer rounded" :alt="main.albumname" />
+          class="hover:scale-[1.02] duration-200 hover:cursor-pointer rounded" style="width: clamp(155px, calc(155px + (77 * ((100vw - 800px) / 320))), 232px);" :alt="main.albumname" />
       </div>
       <div class="grid grid-cols-1 justify-items-start items-end px-6">
-        <p class="text-[0.875rem] mb-[-40px]">Album</p>
+        <p class="text-[0.875rem] mb-[-40px]">
+          <span v-if="main.isSingle">Single</span>
+          <span v-else>Album</span>
+        </p>
         <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis">
-          <p class="font-bold mb-[-18px] mainalbumname" style="font-family: SpotifyMixExtrabold; letter-spacing: -4px; font-size: clamp(48px, 6vw, 96px);">
+          <p class="font-bold mb-[-15px] mainalbumname overflow-hidden"
+            style="font-family: SpotifyMixExtrabold; letter-spacing: -4px; font-size: clamp(48px, 6vw, 96px); user-select: none ;">
             {{ main.albumname }}
           </p>
         </div>
         <div class="flex gap-1 mt-[-20px] items-end">
           <img :src="main.albumsingerimagepath" class="rounded-full" width="24px" />
-          <p style="font-family: SpotifyMixBold; font-size: 0.875rem; user-select: none;">
+          <NuxtLink :to="{ name: 'artist-id', params: { id: main.albumsingerpath } }"
+            class="hover:underline hover:cursor-pointer"
+            style="font-family: SpotifyMixBold; font-size: 0.875rem; user-select: none;">
             {{ main.albumsinger }}
-          </p>
+          </NuxtLink>
           <p class="color-texts">•</p>
           <p class="color-texts">{{ main.albumreleaseyear }}</p>
           <p class="color-texts">•</p>
-          <p class="color-texts">{{ main.tracksnumber }} songs</p>
+          <p class="color-texts">{{ main.tracksnumber }} song<span v-if="main.tracksnumber > 1">s</span></p>
           <p class="color-texts">•</p>
           <p v-if="main.timehour !== 0" class="color-texts">
             about {{ main.timehour }} hour
           </p>
-          <p class="color-texts">{{ main.timeminute }} min</p>
+          <p v-if="main.timeminute !== 0" class="color-texts">{{ main.timeminute }} min</p>
           <p v-if="main.timehour === 0" class="color-texts">
             {{ main.timesecond }} sec
           </p>
@@ -156,7 +162,7 @@
             </div>
           </NuxtLink>
         </div>
-        <FooterAbout/>
+        <FooterAbout />
       </div>
     </div>
 
@@ -172,7 +178,7 @@
 <script setup>
 import { ref, onMounted } from "vue";
 import { useRoute } from "vue-router";
-import albums from "../../data/albums.json";
+import albums from "../../static/albums.json";
 import FooterAbout from "~/components/little_comps/FooterAbout.vue";
 
 const { $fitty } = useNuxtApp()
@@ -239,6 +245,17 @@ setTimeout(() => {
     modal.classList.remove("active");
   });
 }, 100);
+
+useHead({
+  title: `${main.albumname} ・ ${main.albumsinger}`,
+  link: [
+    {
+      rel: 'icon',
+      type: 'image/png',
+      href: 'favicon.png'  // Path to your custom favicon
+    }
+  ]
+})
 </script>
 
 <style scoped>
@@ -266,7 +283,7 @@ setTimeout(() => {
 .albumheader {
   padding: 24px;
   display: grid;
-  grid-template-columns: 232px auto;
+  grid-template-columns: clamp(155px, calc(155px + (77 * ((100vw - 800px) / 320))), 232px) auto;
 }
 
 .albumheader img {
@@ -456,5 +473,10 @@ setTimeout(() => {
   .morediscography>div:nth-child(n+4) {
     display: none;
   }
+}
+
+::selection {
+  background-color: #1ED760;
+  color: white;
 }
 </style>

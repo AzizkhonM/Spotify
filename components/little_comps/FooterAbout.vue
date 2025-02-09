@@ -79,7 +79,7 @@
 </template>
 
 <script setup>
-import footerAbout from "../../data/footerAbout.json"
+import footerAbout from "../../static/footerAbout.json"
 
 </script>
 
@@ -120,6 +120,11 @@ import footerAbout from "../../data/footerAbout.json"
     .bottomfooter div:nth-child(2){
         text-align: start;
     }
+}
+
+::selection {
+    background-color: #1ED760; 
+    color: white;              
 }
 
 </style>
