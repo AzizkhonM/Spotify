@@ -14,7 +14,8 @@
       "0VjIjW4GlUZAMYd2vXMi3b",
       "7MXVkk9YMctZqd1Srtv4MB",
       "5QO79kh1waicV47BqGRL3g",
-      "7DY756WOLyOz2Xnhw4EFiC"
+      "7DY756WOLyOz2Xnhw4EFiC",
+      "2Ch7LmS7r2Gy2kc64wv3Bz"
     ],
     "artistpick": {
       "path": "3OxfaVgvTxUTy7276t7SPU",
@@ -23,10 +24,19 @@
     },
     "discography": {
       "all": [
-        "3OxfaVgvTxUTy7276t7SPU", "44MHvpU3h9Wp6SxhsC9GOK", "2IRxVVqbSbqHJo8Zx50LYn", "0MwPArEeQJx5GMc5Sz7kRV", "1OARrXe5sB0gyy3MhQ8h92", "4yP0hdKOZPNshxUOjY0cZj", "2ODvWsOgouMbaA5xf0RkJe"
+        "3OxfaVgvTxUTy7276t7SPU",
+        "44MHvpU3h9Wp6SxhsC9GOK",
+        "2IRxVVqbSbqHJo8Zx50LYn",
+        "0MwPArEeQJx5GMc5Sz7kRV",
+        "1OARrXe5sB0gyy3MhQ8h92",
+        "4yP0hdKOZPNshxUOjY0cZj",
+        "2ODvWsOgouMbaA5xf0RkJe"
       ],
       "popular": [
-        "3OxfaVgvTxUTy7276t7SPU", "4yP0hdKOZPNshxUOjY0cZj", "2ODvWsOgouMbaA5xf0RkJe", "2IRxVVqbSbqHJo8Zx50LYn"
+        "3OxfaVgvTxUTy7276t7SPU",
+        "4yP0hdKOZPNshxUOjY0cZj",
+        "2ODvWsOgouMbaA5xf0RkJe",
+        "2IRxVVqbSbqHJo8Zx50LYn"
       ]
     },
     "about": {
@@ -67,7 +77,7 @@
   },
   {
     "path": "6M2wZ9GZgrQXHCFfjv46we",
-    "id": 1,
+    "id": 2,
     "name": "Dua Lipa",
     "verified": true,
     "followed": true,
@@ -89,10 +99,16 @@
     },
     "discography": {
       "all": [
-        "1Mo92916G2mmG7ajpmSVrc", "5cH7FqB7JD5q1tJXJ7FHYu", "5lKlFlReHOLShQKyRv6AL9", "01sfgrNbnnPUEyz6GZYlt9"
+        "1Mo92916G2mmG7ajpmSVrc",
+        "5cH7FqB7JD5q1tJXJ7FHYu",
+        "5lKlFlReHOLShQKyRv6AL9",
+        "01sfgrNbnnPUEyz6GZYlt9"
       ],
       "popular": [
-        "1Mo92916G2mmG7ajpmSVrc", "5lKlFlReHOLShQKyRv6AL9", "01sfgrNbnnPUEyz6GZYlt9", "5cH7FqB7JD5q1tJXJ7FHYu"
+        "1Mo92916G2mmG7ajpmSVrc",
+        "5lKlFlReHOLShQKyRv6AL9",
+        "01sfgrNbnnPUEyz6GZYlt9",
+        "5cH7FqB7JD5q1tJXJ7FHYu"
       ]
     },
     "about": {
@@ -129,6 +145,135 @@
         }
       ],
       "briefinfo": "Inspired by Dua’s own self-discovery, Radical Optimism (out May 3) is the third album from 3x GRAMMY and 7x BRIT Award-winning pop powerhouse Dua Lipa. Radical Optimism taps into the pure joy and happiness of having clarity in situations that once seemed impossible to face. The hard goodbyes and vulnerable beginnings that previously threatened to crush your soul, become milestones as you choose optimism and start to move with grace through the chaos. Rolling Stone has called the album “pop bliss,” while noting it is “uniquely and utterly Dua Lipa: confident dance pop full of witty Instagram-caption-ready one-liners.”\n\nRadical Optimism follows Dua' sophomore album Future Nostalgia, which solidified her position as both a critical and commercial success. The GRAMMY-winning record was the longest running top 10 album by a female artist on the Billboard 200 in 2021 and spawned multiple worldwide hit singles, with “Levitating” earning certified diamond status and the title of Billboard’s No. 1 Hot 100 Song of 2021.\n\nDua’s eponymous 2017 debut album is certified platinum, spawned six platinum tracks, and made her the first female artist in BRIT Awards history to pick up five nominations in a single year. Dua has 10 GRAMMY nominations with three wins. Globally, she has amassed over 40 billion streams across platforms and has the top two most streamed albums by a female artist of all time on Spotify."
+    }
+  },
+  {
+    "path": "66CXWjxzNUsdJxJ2JdwvnR",
+    "id": 3,
+    "name": "Ariana Grande",
+    "verified": true,
+    "followed": true,
+    "color": "100, 0, 0",
+    "artistimage": "/arianagrande.jpg",
+    "artistbackimage": "/arianagrande_back.jpg",
+    "monthlylisteners": 84532872,
+    "populartracks": [
+      "51ZQ1vr10ffzbwIjDCwqm4"
+    ],
+    "artistpick": {
+      "path": "5EYKrEDnKhhcNxGedaRQeK",
+      "coverpath": "/eternalsunshine.jpg",
+      "albumname": "eternal sunshine"
+    },
+    "discography": {
+      "all": [
+        "5EYKrEDnKhhcNxGedaRQeK",
+        "3euz4vS7ezKGnNSwgyvKcd"
+      ],
+      "popular": [
+        "5EYKrEDnKhhcNxGedaRQeK",
+        "3euz4vS7ezKGnNSwgyvKcd"
+      ]
+    },
+    "about": {
+      "rankintheworld": 11,
+      "followers": 103543691,
+      "mostlistenedplaces": [
+        {
+          "place": "Jakarta, ID",
+          "listenersnumber": 2852975
+        },
+        {
+          "place": "Quezon City, PH",
+          "listenersnumber": 1061681
+        },
+        {
+          "place": "London, GB",
+          "listenersnumber": 1060344
+        },
+        {
+          "place": "Sydney, AU",
+          "listenersnumber": 920996
+        },
+        {
+          "place": "São Paulo, BR",
+          "listenersnumber": 914488
+        }
+      ],
+      "socialmediaweb": [
+        {
+          "Facebook": "https://www.facebook.com/arianagrande/",
+          "Instagram": "https://www.instagram.com/arianagrande/",
+          "Wikipedia": "https://uz.wikipedia.org/wiki/Ariana_Grande"
+        }
+      ],
+      "briefinfo": "With her four-octave vocal acrobatics and iconic image, American singer, songwriter, and actress Ariana Grande has solidified her place as one of the quintessential pop stars of her generation, racking up stacks of awards and chart records in the process. Emerging in the early 2010s with the hit single \"The Way,\" Grande was primed to follow in the footsteps of her biggest influences, Whitney Houston and Mariah Carey, due in part to her powerhouse vocals. With its Babyface production, her debut, Yours Truly, underscored her debt to '90s R&B, but Grande quickly incorporated hip-hop and EDM into her sound. \"Problem,\" a 2014 smash duet with Iggy Azalea, was the first indication of her development, an evolution reinforced by the hits \"Bang Bang\" and \"Love Me Harder.\" Grande maintained her popularity with 2016's Dangerous Woman, then really hit her stride with 2018's Sweetener and its swift sequel, Thank U, Next, whose title track sat atop the U.S. singles chart for seven weeks. That achievement was quickly equaled by the album's glitzy second single, \"7 Rings,\" and later with \"Positions,\" the lead single from 2020's R&B-heavy album of the same name. After four years without an album -- a relative eternity considering her turn-of-the-decade blitz -- Grande returned with Eternal Sunshine, which she recorded while shooting the film version of Broadway's Wicked.\n\nA native of Boca Raton, Florida, where she was born in 1993 to graphic designer Edward Butera and Joan Grande (the CEO of Hose-McCann Communications), Grande began singing and acting at an early age, appearing in local theater productions. In 2008, when she was 15, she landed the role of Charlotte in the Broadway production of 13; her performance was well-received, and she won a National Youth Theatre Association Award. Following an appearance in the 2010 Desmond Child-written musical Cuba Libre, Grande was cast as Cat Valentine in the Nickelodeon television program Victorious. The show ran until 2012, at which time Grande's Cat Valentine was spun off into a show called Sam & Cat, which also starred Jennette McCurdy of iCarly.\n\nAs she kept herself busy with television, Grande began to pursue a musical career. She frequently made appearances at sporting events and with symphonies, and she made her first appearances on record with the soundtrack to Victorious. In 2011, she released the single \"Put Your Hearts Up,\" which was cut during sessions for a teen-oriented pop album; she later disowned the single due to its kiddie feel. Grande felt much more comfortable with \"The Way,\" her 2013 single featuring Mac Miller. This signaled a mature direction and audiences responded, taking it to the Top Ten in the U.S., where it was eventually certified triple platinum. It was the first single from her 2013 debut, Yours Truly, which also featured hits in \"Baby I\" and \"Right There.\"\n\nAt the end of the year, she released a seasonal EP called Christmas Kisses, but her real efforts went into the recording of her second album, My Everything. Preceded by the single \"Problem\" -- a song that featured a guest spot from Iggy Azalea, the \"It girl\" of the summer of 2014; it peaked at two on the U.S. charts and was certified double platinum -- the album featured a host of different producers, including Max Martin, Shellback, Ryan Tedder, and Benny Blanco. It was released at the end of August 2014, hitting number one on charts across the globe. Subsequent singles featured assists by Zedd (\"Break Free\"), Jessy J & Nicki Minaj (\"Bang Bang\"), and the Weeknd (\"Love Me Harder\"). At one point in 2014, three of her songs were in the Billboard Top Ten at the same time, a feat matched only by Adele. By the time fifth single \"One Last Time\" charted in early 2015, My Everything had sold nearly 600,000 copies.\n\nAs that album's cycle wound down, Grande guest-starred on Ryan Murphy's campy slasher series Scream Queens and she also recorded another holiday EP, Christmas & Chill. In October 2015, Grande released the single \"Focus\", which debuted at number seven on the Hot 100 and was certified platinum the following January. That February, she announced her third album, Dangerous Woman, and released the album's title track as a single in March. The song hit number eight on the Hot 100, making Grande the first artist to have the lead single from each of her first three albums debut in the Top Ten. Featuring collaborations with Macy Gray, Future, and Nicki Minaj, the album appeared in May 2016 and debuted at number two. It eventually went platinum, helped by a trio of Top Ten hits and a Grammy nomination for Best Pop Vocal Album. Grande began 2017 by duetting with John Legend on \"Beauty and the Beast,\" the title track for Disney's live-action remake of the 1991 animated classic. She then mounted her Dangerous Woman Tour, performing across North America and Europe during the first half of 2017.\n\nTragedy struck on May 22, 2017, when a suicide bomber attacked Grande's concert at the Manchester Arena in Manchester, England. Grande returned to performing on June 4, when she held a star-studded charity concert called One Love Manchester to aid the victims of the bombing. Following the show, she resumed the Dangerous Woman Tour, which concluded in Hong Kong that September.\n\nIn April 2018, Grande kicked off promotion for her fourth album, Sweetener, by issuing the single \"No Tears Left to Cry,\" which debuted at number three on the Hot 100.\n\nThree months after the release of Sweetener, Grande returned with the non-LP single \"Thank U, Next.\" Quickly becoming an internet sensation, \"Thank U, Next\" shot to number one throughout the world, as did Grande's next single, \"7 Rings.\" Both songs were featured on the full-length album Thank U, Next, which appeared in February 2019. Her fourth U.S. number one, the set also topped the charts in over a dozen countries, further buoyed by third single \"Break Up with Your Girlfriend, I'm Bored.\" Mere months after the release of Thank U, Next, Grande moved on with a series of collaborations, including \"Monopoly\" with Victoria Monet, \"Boyfriend\" with Social House, and the Charlie's Angels reboot theme \"Don't Call Me Angel\" with Miley Cyrus and Lana Del Rey. Capping off the year, Grande was nominated for five Grammy Awards: Album of the Year and Best Pop Vocal Album for Thank U, Next, Record of the Year and Best Pop Solo Performance for \"7 Rings,\" and Best Pop Duo/Group Performance for \"Boyfriend.\" She capped this prolific period with k bye for now, a live album recorded at various stops throughout her 2019 Sweetener World Tour.\n\nGrande had duets reach the top of the Billboard charts in early 2020 -- first it was \"Stuck with U\" with Justin Bieber, then it was \"Rain on Me\" with Lady Gaga -- before she launched her next album, Positions, with the release of its title track. The single reached number one just before the October 30 release of the album, which became her fifth to top the Billboard 200. \"34+35\" kept her planted toward the upper reaches of the singles chart, boosted by a 2021 remix with Doja Cat and Megan Thee Stallion. That same year, she teamed up with the Weeknd on a remix of his song \"Save Your Tears,\" delivering another chart-topper for both artists. They repeated this same success two years later when Grande appeared on a remix of \"Die for You\" from the Weeknd's Starboy album. During this time, Grande had also pivoted back to acting, appearing in the 2021 ensemble satire Don't Look Up, for which she recorded \"Just Look Up\" with Kid Cudi. She was also cast as Glinda in the film adaptation of Wicked, which began filming in 2022. In 2023, Grande celebrated a decade since her debut with the Yours Truly (Tenth Anniversary Edition) reissue.\n\nThe following year, she kicked off her next album cycle with the chart-topping, '90s-club-inspired \"yes, and?\" and a remix version featuring Mariah Carey. The single paved the way for her seventh overall album, Eternal Sunshine, which arrived in March 2024. A conceptual journey through divorce and the sparks of new love, the set featured production by Max Martin and Ilya Salmanzadeh, and balanced upbeat empowerment with reflective vulnerability. The album, which also spawned the Hot 100 singles \"We Can't Be Friends (Wait for Your Love)\" and \"The Boy Is Mine,\" topped the Billboard 200. It also picked up three Grammy nominations, including Best Pop Vocal Album. ~ Stephen Thomas Erlewine, Rovi"
+    }
+  },
+  {
+    "path": "6qqNVTkY8uBg9cP3Jd7DAH",
+    "id": 3,
+    "name": "Billie Eilish",
+    "verified": true,
+    "followed": true,
+    "color": "7, 32, 63",
+    "artistimage": "/billieeilish.jpg",
+    "artistbackimage": "/billieeilish_back.jpg",
+    "monthlylisteners": 105954005,
+    "populartracks": [
+      "6dOtVTDdiauQNBQEDOtlAB",
+      "3QaPy1KgI7nu9FJEQUgn6h",
+      "7BRD7x5pt8Lqa1eGYC4dzj"
+    ],
+    "artistpick": {
+      "path": "7aJuG4TFXa2hmE4z1yxc3n",
+      "coverpath": "/hitmehardandsoft.jpg",
+      "albumname": "HIT ME HARD AND SOFT"
+    },
+    "discography": {
+      "all": [
+        "7aJuG4TFXa2hmE4z1yxc3n",
+        "0S0KGZnfBGSIssfF54WSJh"
+      ],
+      "popular": [
+        "7aJuG4TFXa2hmE4z1yxc3n",
+        "0S0KGZnfBGSIssfF54WSJh"
+      ]
+    },
+    "about": {
+      "rankintheworld": 4,
+      "followers": 107049866,
+      "mostlistenedplaces": [
+        {
+          "place": "Jakarta, ID",
+          "listenersnumber": 3050754
+        },
+        {
+          "place": "London, GB",
+          "listenersnumber": 1332197
+        },
+        {
+          "place": "Sydney, AU",
+          "listenersnumber": 1202824
+        },
+        {
+          "place": "Mexico City, MX",
+          "listenersnumber": 1069728
+        },
+        {
+          "place": "São Paulo, BR",
+          "listenersnumber": 1055996
+        }
+      ],
+      "socialmediaweb": [
+        {
+          "Facebook": "https://www.facebook.com/billieeilish/",
+          "Instagram": "https://www.instagram.com/billieeilish/",
+          "Twitter": "https://www.x.com/billieeilish/",
+          "Wikipedia": "https://uz.wikipedia.org/wiki/Billie_Eilish"
+        }
+      ],
+      "briefinfo": "Billie Eilish remains one of the biggest stars to emerge in the 21st century. Her third studio album, HIT ME HARD AND SOFT features 10 tracks written and recorded in her hometown of Los Angeles, with her brother and producer FINNEAS. In 2019, her debut album WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? debuted at No. 1 in 18 countries, and was the most streamed album of that year. In 2021, her sophomore album 'Happier Than Ever’ debuted at #1 in 20 countries. Both albums were critically acclaimed worldwide and were written, produced, and recorded entirely by Billie Eilish and FINNEAS. 9-time GRAMMY® Award-winning Billie Eilish has made history as the youngest artist to receive nominations and win in all the major GRAMMY® categories, receiving an award for Best New Artist, Album of the Year, Record of the Year, Song of the Year, and Best Pop Vocal Album, and is the youngest artist to write and record an official James Bond theme song, ‘No Time To Die,’ which won an Academy Award for Best Original Song in 2022. In 2023, Eilish also wrote and released the critically acclaimed song “What Was I Made For?” for the Greta Gerwig-directed motion picture Barbie, which also won Academy and Golden Globe Award for Best Original Song, two GRAMMY® Awards for Song of the Year and Best Song Written For Visual Media, and has solidified Billie Eilish yet again in the history books as the youngest person ever to win two Academy Awards."
     }
   }
 ]

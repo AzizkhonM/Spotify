@@ -3,8 +3,8 @@
         "path": "7soy1esfTZeX44FXlcIicx",
         "id": 1,
         "playlistname": "2024/25 Winter",
-        "playlistowner": "Azizkhon",
-        "playlistownerimagepath": "/theweeknd.jpg",
+        "playlistowner": "JDU",
+        "playlistownerimagepath": "/jdu.png",
         "tracksnumber": 50,
         "timehour": 3,
         "timeminute": 15,
@@ -12,6 +12,7 @@
         "upcolorcode": "#8291a6",
         "downcolorcode": "#48505b",
         "textcolorcode": "#c3c6cb",
-        "coverpath": "/202425winter.jpg"
+        "coverpath": "/202425winter.jpg",
+        "tracks": ["5QO79kh1waicV47BqGRL3g", "1Es7AUAhQvapIcoh3qMKDL"]
     }
 ]

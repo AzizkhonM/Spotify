@@ -67,7 +67,7 @@
             </div>
         </div>
         <hr style="border-top: 1px solid #b3b3b3; transform: scaleY(0.2);">
-        <div class="pt-10 grid bottomfooter">
+        <div class="py-10 grid bottomfooter">
             <div class="flex justify-start gap-4">
                 <a v-for="el in footerAbout[0].footerbottom" :href="el.link">
                     <span class="text-[#B3B3B3] text-[14px] hover:text-white hover:cursor-pointer hover:underline">{{ el.text }}</span>

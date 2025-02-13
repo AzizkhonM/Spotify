@@ -16,7 +16,7 @@
                                 fill="white"></path>
                         </svg>
                     </button>
-                    <div class="hs-dropdown-menu transition-[opacity,margin] delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
+                    <div class="hs-dropdown-menu transition-[opacity,margin] z-50 delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
                         role="menu" aria-orientation="vertical" aria-labelledby="hs-dropdown-hover-event">
                         <div class="p-1 space-y-0.5 text-white">
                             Home
@@ -35,7 +35,7 @@
                                 d="M10.533 1.27893C5.35215 1.27893 1.12598 5.41887 1.12598 10.5579C1.12598 15.697 5.35215 19.8369 10.533 19.8369C12.767 19.8369 14.8235 19.0671 16.4402 17.7794L20.7929 22.132C21.1834 22.5226 21.8166 22.5226 22.2071 22.132C22.5976 21.7415 22.5976 21.1083 22.2071 20.7178L17.8634 16.3741C19.1616 14.7849 19.94 12.7634 19.94 10.5579C19.94 5.41887 15.7138 1.27893 10.533 1.27893ZM3.12598 10.5579C3.12598 6.55226 6.42768 3.27893 10.533 3.27893C14.6383 3.27893 17.94 6.55226 17.94 10.5579C17.94 14.5636 14.6383 17.8369 10.533 17.8369C6.42768 17.8369 3.12598 14.5636 3.12598 10.5579Z"
                                 fill="#9f9f9f"></path>
                         </svg>
-                        <div class="hs-dropdown-menu transition-[opacity,margin] delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
+                        <div class="hs-dropdown-menu transition-[opacity,margin] z-50 delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
                             role="menu" aria-orientation="vertical" aria-labelledby="hs-dropdown-hover-event">
                             <div class="p-1 space-y-0.5 text-white">
                                 Search
@@ -56,7 +56,7 @@
                                 d="M1.513 9.37A1 1 0 0 1 2.291 9h19.418a1 1 0 0 1 .979 1.208l-2.339 11a1 1 0 0 1-.978.792H4.63a1 1 0 0 1-.978-.792l-2.339-11a1 1 0 0 1 .201-.837zM3.525 11l1.913 9h13.123l1.913-9H3.525zM4 2a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v4h-2V3H6v3H4V2z"
                                 fill="#9f9f9f"></path>
                         </svg>
-                        <div class="hs-dropdown-menu transition-[opacity,margin] delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
+                        <div class="hs-dropdown-menu transition-[opacity,margin] z-50 delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
                             role="menu" aria-orientation="vertical" aria-labelledby="hs-dropdown-hover-event">
                             <div class="p-1 space-y-0.5 text-white">
                                 Browse
@@ -78,7 +78,7 @@
                             fill="white"></path>
                     </svg>
                 </button>
-                <div class="hs-dropdown-menu transition-[opacity,margin] delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
+                <div class="hs-dropdown-menu transition-[opacity,margin] z-50 delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
                     role="menu" aria-orientation="vertical" aria-labelledby="hs-dropdown-hover-event">
                     <div class="p-1 space-y-0.5 text-white">
                         Home
@@ -97,7 +97,7 @@
                             d="M10.533 1.27893C5.35215 1.27893 1.12598 5.41887 1.12598 10.5579C1.12598 15.697 5.35215 19.8369 10.533 19.8369C12.767 19.8369 14.8235 19.0671 16.4402 17.7794L20.7929 22.132C21.1834 22.5226 21.8166 22.5226 22.2071 22.132C22.5976 21.7415 22.5976 21.1083 22.2071 20.7178L17.8634 16.3741C19.1616 14.7849 19.94 12.7634 19.94 10.5579C19.94 5.41887 15.7138 1.27893 10.533 1.27893ZM3.12598 10.5579C3.12598 6.55226 6.42768 3.27893 10.533 3.27893C14.6383 3.27893 17.94 6.55226 17.94 10.5579C17.94 14.5636 14.6383 17.8369 10.533 17.8369C6.42768 17.8369 3.12598 14.5636 3.12598 10.5579Z"
                             fill="#9f9f9f"></path>
                     </svg>
-                    <div class="hs-dropdown-menu transition-[opacity,margin] delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
+                    <div class="hs-dropdown-menu transition-[opacity,margin] z-50 delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
                         role="menu" aria-orientation="vertical" aria-labelledby="hs-dropdown-hover-event">
                         <div class="p-1 space-y-0.5 text-white">
                             Search
@@ -118,7 +118,7 @@
                             d="M1.513 9.37A1 1 0 0 1 2.291 9h19.418a1 1 0 0 1 .979 1.208l-2.339 11a1 1 0 0 1-.978.792H4.63a1 1 0 0 1-.978-.792l-2.339-11a1 1 0 0 1 .201-.837zM3.525 11l1.913 9h13.123l1.913-9H3.525zM4 2a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v4h-2V3H6v3H4V2z"
                             fill="#9f9f9f"></path>
                     </svg>
-                    <div class="hs-dropdown-menu transition-[opacity,margin] delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
+                    <div class="hs-dropdown-menu transition-[opacity,margin] z-50 delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
                         role="menu" aria-orientation="vertical" aria-labelledby="hs-dropdown-hover-event">
                         <div class="p-1 space-y-0.5 text-white">
                             Browse
@@ -147,7 +147,7 @@
                         d="M8 1.5a4 4 0 0 0-4 4v3.27a.75.75 0 0 1-.1.373L2.255 12h11.49L12.1 9.142a.75.75 0 0 1-.1-.374V5.5a4 4 0 0 0-4-4zm-5.5 4a5.5 5.5 0 0 1 11 0v3.067l2.193 3.809a.75.75 0 0 1-.65 1.124H10.5a2.5 2.5 0 0 1-5 0H.957a.75.75 0 0 1-.65-1.124L2.5 8.569V5.5zm4.5 8a1 1 0 1 0 2 0H7z"
                         fill="#9f9f9f"></path>
                 </svg>
-                <div class="hs-dropdown-menu transition-[opacity,margin] delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
+                <div class="hs-dropdown-menu transition-[opacity,margin] z-50 delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
                     role="menu" aria-orientation="vertical" aria-labelledby="hs-dropdown-hover-event">
                     <div class="p-1 space-y-0.5 text-white">
                         What's New
@@ -160,7 +160,7 @@
                     aria-haspopup="menu" aria-expanded="false" aria-label="Dropdown">
                     <img src="/public/jdu.png" class="rounded-full w-7" alt="">
                 </button>
-                <div class="hs-dropdown-menu transition-[opacity,margin] delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
+                <div class="hs-dropdown-menu transition-[opacity,margin] z-50 delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
                     role="menu" aria-orientation="vertical" aria-labelledby="hs-dropdown-hover-event">
                     <div class="p-1 space-y-0.5 text-white">
                         JDU

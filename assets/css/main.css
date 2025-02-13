@@ -8,6 +8,10 @@
 }
 
 
+img{
+    user-select: none;
+    -webkit-user-drag: none;
+}
 
 *{
     margin: 0;

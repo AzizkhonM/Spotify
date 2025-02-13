@@ -1,20 +1,25 @@
 <template>
-  <div class="wrapped">
-    <div class="albumheader" :style="{
+  <div class="wrapped" ref="wrapped" @scroll="handleScroll">
+
+    <div ref="header" class="sticky-header" :style="{ opacity: opacitySticky, backgroundColor: main.downcolorcode }">
+      <h1 class="text-[24px] select-none" style="font-family: SpotifyMixBold;">{{ main.albumname }}</h1>
+    </div>
+
+    <div class="albumheader mt-[-68px]" ref="header" :style="{
       backgroundImage: `linear-gradient(${main.upcolorcode}, ${main.downcolorcode})`,
     }">
       <div>
         <img id="maincover" :src="main.coverpath" width="232px"
-          class="hover:scale-[1.02] duration-200 hover:cursor-pointer rounded" style="width: clamp(155px, calc(155px + (77 * ((100vw - 800px) / 320))), 232px);" :alt="main.albumname" />
+          class="hover:scale-[1.02] duration-200 hover:cursor-pointer rounded"
+          style="width: clamp(155px, calc(155px + (77 * ((100vw - 800px) / 320))), 232px);" :alt="main.albumname" />
       </div>
       <div class="grid grid-cols-1 justify-items-start items-end px-6">
         <p class="text-[0.875rem] mb-[-40px]">
           <span v-if="main.isSingle">Single</span>
           <span v-else>Album</span>
         </p>
-        <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis">
-          <p class="font-bold mb-[-15px] mainalbumname overflow-hidden"
-            style="font-family: SpotifyMixExtrabold; letter-spacing: -4px; font-size: clamp(48px, 6vw, 96px); user-select: none ;">
+        <div ref="container" class="album-container">
+          <p ref="text" class="albumname mt-5 lg:mt-0 w-full">
             {{ main.albumname }}
           </p>
         </div>
@@ -99,7 +104,10 @@
             </svg>
           </div>
           <div class="pl-2 grid grid-cols-1">
-            <div class="text-white"><span class="hover:cursor-pointer hover:underline">{{ el.trackname }}</span></div>
+            <div class="text-white">
+              <NuxtLink :to="`/track/${el.path}`"><span class="hover:cursor-pointer hover:underline">{{ el.trackname
+                  }}</span></NuxtLink>
+            </div>
             <div class="flex items-center gap-1 text-[14px]"><abbr v-if="el.explicit == true" title="Explicit"
                 class="hover:cursor-pointer">
                 <span class="text-black text-[10.5px] bg-[#9f9f9f] font-bold h-4 w-4 flex justify-center items-center"
@@ -108,9 +116,14 @@
                 </span>
               </abbr>
 
-              <span class="p-singer hover:underline hover:cursor-pointer" v-for="(item, index) in el.singers"
-                :key="index">
-                {{ item }}<span v-if="index < el.singers.length - 1">, </span>
+              <span v-for="(item, index) in el.singers" :key="index">
+                <NuxtLink v-if="getArtistPath(item)" :to="`/artist/${getArtistPath(item)}`"
+                  class="p-singer hover:underline hover:cursor-pointer">
+                  {{ item }}
+                </NuxtLink>
+                <span v-else class="p-singer">{{ item }}</span>
+
+                <span v-if="index < el.singers.length - 1">, </span>
               </span>
             </div>
           </div>
@@ -146,8 +159,10 @@
         <div class="grid grid-cols-2 items-end">
           <div><span class="text-[24px]" style="font-family: SpotifyMixBold;">More by {{ main.albumsinger }}</span>
           </div>
-          <div style="text-align: end;"><span
-              class="text-[#b3b3b3] text-[14px] hover:underline hover:cursor-pointer">See discography</span></div>
+          <div style="text-align: end;">
+            <NuxtLink :to="{ path: `/artist/${main.albumsingerpath}/discography/all` }"
+              class="text-[#b3b3b3] text-[14px] hover:underline hover:cursor-pointer">See discography</NuxtLink>
+          </div>
         </div>
         <div class="morediscography">
           <NuxtLink
@@ -176,13 +191,15 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from "vue";
+import { ref, onMounted, watch, onUnmounted, nextTick } from "vue";
 import { useRoute } from "vue-router";
 import albums from "../../static/albums.json";
+import artists from "~/static/artists.json"
 import FooterAbout from "~/components/little_comps/FooterAbout.vue";
 
+const container = ref(null);
+const text = ref(null);
 const { $fitty } = useNuxtApp()
-
 const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 
 let arrfordiscog = []
@@ -246,6 +263,90 @@ setTimeout(() => {
   });
 }, 100);
 
+const getArtistPath = (name) => {
+  const artist = artists.find((a) => a.name === name);
+  return artist ? artist.path : null;
+};
+
+const adjustFontSize = () => {
+  if (!container.value || !text.value) return;
+
+  let fontSize = 96; // Start with max size
+  text.value.style.fontSize = fontSize + "px";
+  text.value.style.whiteSpace = "nowrap"; // Prevent multiple lines initially
+
+  while (text.value.scrollWidth > container.value.clientWidth && fontSize > 32) {
+    if (fontSize > 72) {
+      fontSize = 72;
+    } else if (fontSize > 48) {
+      fontSize = 48;
+    } else {
+      fontSize = 32; // Minimum size
+    }
+
+    text.value.style.fontSize = fontSize + "px";
+
+    // Change letter-spacing when font size is 48px or lower
+    text.value.style.letterSpacing = fontSize <= 48 ? "0px" : "-4px";
+    text.value.style.marginTop = fontSize <= 48 ? "20px" : "0px";
+    text.value.style.marginBottom = fontSize <= 48 ? "0px" : "-10px";
+  }
+
+  // If the text still doesn't fit at 32px, allow max 2 lines
+  if (text.value.scrollWidth > container.value.clientWidth) {
+    text.value.style.whiteSpace = "normal"; // Allow wrapping
+    text.value.style.overflow = "hidden";
+    text.value.style.display = "-webkit-box";
+    text.value.style.webkitLineClamp = "2"; // Max 2 lines
+    text.value.style.webkitBoxOrient = "vertical";
+  }
+};
+
+onMounted(() => {
+  adjustFontSize();
+  window.addEventListener("resize", adjustFontSize);
+});
+
+watch(() => main.albumname, adjustFontSize);
+
+
+const wrapped = ref(null);
+const divHeight = ref(0); // Threshold for full opacity
+const opacitySticky = ref(0);
+const header = ref(0)
+
+// Handles scroll event and updates opacity
+const handleScroll = () => {
+  if (!wrapped.value) return;
+  const scrollTop = wrapped.value.scrollTop;
+  opacitySticky.value = Math.min(scrollTop / divHeight.value, 1); // Fade-in effect
+  console.log("Scroll Top:", scrollTop, "Opacity:", opacitySticky.value);
+};
+
+const getDivHeight = () => {
+  if (header.value) {
+    divHeight.value = header.value.offsetHeight - 68; // Get height
+    console.log("Div height:", divHeight.value);
+  }
+};
+
+// Add event listener when mounted
+onMounted(() => {
+  nextTick(() => {
+        getDivHeight(); // Ensure DOM is fully rendered before getting height
+    });
+  if (wrapped.value) {
+    wrapped.value.addEventListener("scroll", handleScroll);
+  }
+});
+
+// Remove event listener when unmounted
+onUnmounted(() => {
+  if (wrapped.value) {
+    wrapped.value.removeEventListener("scroll", handleScroll);
+  }
+});
+
 useHead({
   title: `${main.albumname} ・ ${main.albumsinger}`,
   link: [
@@ -273,11 +374,30 @@ useHead({
   font-size: 0.875rem;
 }
 
+.album-container {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+  /* Ensure container width is defined */
+}
+
+.albumname {
+  font-weight: bold;
+  font-family: SpotifyMixExtrabold;
+  letter-spacing: -4px;
+  user-select: none;
+  margin-bottom: -10px;
+  overflow: hidden;
+  display: inline-block;
+}
+
 .wrapped {
   color: white;
   border-radius: 10px;
-  overflow-y: scroll;
+  overflow-y: auto; /* Allow scrolling */
   height: calc(100vh - 180px);
+  position: relative; /* Ensures sticky header stays inside */
 }
 
 .albumheader {
@@ -420,7 +540,7 @@ useHead({
     grid-template-columns: repeat(8, 1fr);
   }
 
-  .morediscography>div:nth-child(n+9) {
+  .morediscography>a:nth-child(n+9) {
     display: none;
   }
 }
@@ -430,7 +550,7 @@ useHead({
     grid-template-columns: repeat(7, 1fr);
   }
 
-  .morediscography>div:nth-child(n+8) {
+  .morediscography>a:nth-child(n+8) {
     display: none;
   }
 }
@@ -440,7 +560,7 @@ useHead({
     grid-template-columns: repeat(6, 1fr);
   }
 
-  .morediscography>div:nth-child(n+7) {
+  .morediscography>a:nth-child(n+7) {
     display: none;
   }
 }
@@ -450,7 +570,7 @@ useHead({
     grid-template-columns: repeat(5, 1fr);
   }
 
-  .morediscography>div:nth-child(n+6) {
+  .morediscography>a:nth-child(n+6) {
     display: none;
   }
 }
@@ -460,7 +580,7 @@ useHead({
     grid-template-columns: repeat(4, 1fr);
   }
 
-  .morediscography>div:nth-child(n+5) {
+  .morediscography>a:nth-child(n+5) {
     display: none;
   }
 }
@@ -470,7 +590,7 @@ useHead({
     grid-template-columns: repeat(3, 1fr);
   }
 
-  .morediscography>div:nth-child(n+4) {
+  .morediscography>a:nth-child(n+4) {
     display: none;
   }
 }
@@ -478,5 +598,16 @@ useHead({
 ::selection {
   background-color: #1ED760;
   color: white;
+}
+
+.sticky-header {
+  position: sticky; /* Instead of sticky */
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 16px 24px;
+  font-size: 20px;
+  font-weight: bold;
+  opacity: 0; /* Initially hidden */
 }
 </style>

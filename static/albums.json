@@ -666,6 +666,7 @@
         "isCompilation": false,
         "albumname": "eternal sunshine",
         "albumsinger": "Ariana Grande",
+        "albumsingerpath": "66CXWjxzNUsdJxJ2JdwvnR",
         "albumsingerimagepath": "/arianagrande.jpg",
         "albumreleaseyear": 2024,
         "albumreleasemonth": 3,
@@ -1489,7 +1490,7 @@
         "id": 13,
         "isSingle": true,
         "isCompilation": false,
-        "albumname": "Dance The Night",
+        "albumname": "Dance The Night (From Barbie The Album)",
         "albumsingerpath": "6M2wZ9GZgrQXHCFfjv46we",
         "albumsinger": "Dua Lipa",
         "albumsingerimagepath": "/dualipa.jpg",
@@ -1516,6 +1517,391 @@
                 "singers": ["Dua Lipa"],
                 "explicit": false,
                 "duration": "2:56"
+            }
+        ]
+    },
+    {
+        "path": "3euz4vS7ezKGnNSwgyvKcd",
+        "id": 14,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Positions",
+        "albumsinger": "Ariana Grande",
+        "albumsingerpath": "66CXWjxzNUsdJxJ2JdwvnR",
+        "albumsingerimagepath": "/arianagrande.jpg",
+        "albumreleaseyear": 2020,
+        "albumreleasemonth": 10,
+        "albumreleasedate": 30,
+        "tracksnumber": 14,
+        "timehour": 0,
+        "timeminute": 41,
+        "timesecond": 14,
+        "upcolorcode": "#698880",
+        "downcolorcode": "#1b3a32",
+        "textcolorcode": "#b2d5cc",
+        "coverpath": "/positions.jpg",
+        "credits": [
+            "© 2020 Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2020 Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "3ko9jEHNt4O5fjKN65ULJp",
+                "trackname": "shut up",
+                "singers": ["Ariana Grande"],
+                "explicit": true,
+                "duration": "2:37"
+            },
+            {
+                "id": 2,
+                "path": "6Im9k8u9iIzKMrmV7BWtlF",
+                "trackname": "34+35",
+                "singers": ["Ariana Grande"],
+                "explicit": true,
+                "duration": "2:53"
+            },
+            {
+                "id": 3,
+                "path": "5GkQIP5mWPi4KZLLXeuFTT",
+                "trackname": "motive (with Doja Cat)",
+                "singers": ["Ariana Grande", "Doja Cat"],
+                "explicit": true,
+                "duration": "2:47"
+            },
+            {
+                "id": 4,
+                "path": "7Dx9Z6Aon1qPS2N0rHSWTe",
+                "trackname": "just like magic",
+                "singers": ["Ariana Grande"],
+                "explicit": false,
+                "duration": "2:29"
+            },
+            {
+                "id": 5,
+                "path": "7E1jVNoWuemqUryI4FxsVD",
+                "trackname": "off the table (with The Weeknd)",
+                "singers": ["Ariana Grande", "The Weeknd"],
+                "explicit": false,
+                "duration": "3:59"
+            },
+            {
+                "id": 6,
+                "path": "2IKJtXeR5UsaUjZB46fTOK",
+                "trackname": "six thirty",
+                "singers": ["Ariana Grande"],
+                "explicit": true,
+                "duration": "3:03"
+            },
+            {
+                "id": 7,
+                "path": "14gkWVFMwdxBMyqBw1wmIg",
+                "trackname": "safety net (feat. Ty Dolla $ign)",
+                "singers": ["Ariana Grande", "Ty Dolla $ign"],
+                "explicit": false,
+                "duration": "3:28"
+            },
+            {
+                "id": 8,
+                "path": "6u7gmPOz7pzzaeR9xSBpsR",
+                "trackname": "my hair",
+                "singers": ["Ariana Grande"],
+                "explicit": false,
+                "duration": "2:38"
+            },
+            {
+                "id": 9,
+                "path": "0sci7ppTZFm4mjcH3nu8yO",
+                "trackname": "nasty",
+                "singers": ["Ariana Grande"],
+                "explicit": true,
+                "duration": "3:20"
+            },
+            {
+                "id": 10,
+                "path": "1whfVLMKWqAX3uk97VXsNN",
+                "trackname": "west side",
+                "singers": ["Ariana Grande"],
+                "explicit": false,
+                "duration": "2:12"
+            },
+            {
+                "id": 11,
+                "path": "6NYtLvyThMT0oALFdJFdzq",
+                "trackname": "love language",
+                "singers": ["Ariana Grande"],
+                "explicit": true,
+                "duration": "2:59"
+            },
+            {
+                "id": 12,
+                "path": "35mvY5S1H3J2QZyna3TFe0",
+                "trackname": "positions",
+                "singers": ["Ariana Grande"],
+                "explicit": true,
+                "duration": "2:52"
+            },
+            {
+                "id": 13,
+                "path": "0q85C1JiECyYIQthz1posA",
+                "trackname": "obvious",
+                "singers": ["Ariana Grande"],
+                "explicit": true,
+                "duration": "2:26"
+            },
+            {
+                "id": 14,
+                "path": "3UoULw70kMsiVXxW0L3A33",
+                "trackname": "pov",
+                "singers": ["Ariana Grande"],
+                "explicit": true,
+                "duration": "3:21"
+            }
+        ]
+    },
+    {
+        "path": "7aJuG4TFXa2hmE4z1yxc3n",
+        "id": 15,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "HIT ME HARD AND SOFT",
+        "albumsinger": "Billie Eilish",
+        "albumsingerpath": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "albumsingerimagepath": "/billieeilish.jpg",
+        "albumreleaseyear": 2024,
+        "albumreleasemonth": 5,
+        "albumreleasedate": 17,
+        "tracksnumber": 10,
+        "timehour": 0,
+        "timeminute": 43,
+        "timesecond": 50,
+        "upcolorcode": "#07203f",
+        "downcolorcode": "#07203f",
+        "textcolorcode": "#b1d0fa",
+        "coverpath": "/hitmehardandsoft.jpg",
+        "credits": [
+            "© 2024 Darkroom/Interscope Records",
+            "℗ 2024 Darkroom/Interscope Records"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "1CsMKhwEmNnmvHUuO5nryA",
+                "trackname": "SKINNY",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "3:39"
+            },
+            {
+                "id": 2,
+                "path": "629DixmZGHc7ILtEntuiWE",
+                "trackname": "LUNCH",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "2:59"
+            },
+            {
+                "id": 3,
+                "path": "7BRD7x5pt8Lqa1eGYC4dzj",
+                "trackname": "CHIHIRO",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "5:03"
+            },
+            {
+                "id": 4,
+                "path": "6dOtVTDdiauQNBQEDOtlAB",
+                "trackname": "BIRDS OF A FEATHER",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "3:30"
+            },
+            {
+                "id": 5,
+                "path": "3QaPy1KgI7nu9FJEQUgn6h",
+                "trackname": "WILDFLOWER",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "4:21"
+            },
+            {
+                "id": 6,
+                "path": "6TGd66r0nlPaYm3KIoI7ET",
+                "trackname": "THE GREATEST",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "4:53"
+            },
+            {
+                "id": 7,
+                "path": "6fPan2saHdFaIHuTSatORv",
+                "trackname": "L'AMOUR DE MA VIE",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "5:33"
+            },
+            {
+                "id": 8,
+                "path": "1LLUoftvmTjVNBHZoQyveF",
+                "trackname": "THE DINER",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "3:06"
+            },
+            {
+                "id": 9,
+                "path": "7DpUoxGSdlDHfqCYj0otzU",
+                "trackname": "BITTERSUITE",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "4:58"
+            },
+            {
+                "id": 10,
+                "path": "2prqm9sPLj10B4Wg0wE5x9",
+                "trackname": "BLUE",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "5:43"
+            }
+        ]
+    },
+    {
+        "path": "0S0KGZnfBGSIssfF54WSJh",
+        "id": 16,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "albumsinger": "Billie Eilish",
+        "albumsingerpath": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "albumsingerimagepath": "/billieeilish.jpg",
+        "albumreleaseyear": 2019,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 29,
+        "tracksnumber": 14,
+        "timehour": 0,
+        "timeminute": 42,
+        "timesecond": 55,
+        "upcolorcode": "#9f9888",
+        "downcolorcode": "#3b3527",
+        "textcolorcode": "#d5cdbc",
+        "coverpath": "/whenweallfallasleepwheredowego.jpg",
+        "credits": [
+            "© 2019 Darkroom/Interscope Records",
+            "℗ 2019 Darkroom/Interscope Records"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "0rQtoQXQfwpDW0c7Fw1NeM",
+                "trackname": "!!!!!!!",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "0:13"
+            },
+            {
+                "id": 2,
+                "path": "2Fxmhks0bxGSBdJ92vM42m",
+                "trackname": "bad guy",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "3:14"
+            },
+            {
+                "id": 3,
+                "path": "4QIo4oxwzzafcBWkKjDpXY",
+                "trackname": "xanny",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "4:03"
+            },
+            {
+                "id": 4,
+                "path": "3XF5xLJHOQQRbWya6hBp7d",
+                "trackname": "you should see me in a crown",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "3:00"
+            },
+            {
+                "id": 5,
+                "path": "6IRdLKIyS4p7XNiP8r6rsx",
+                "trackname": "all the good girls go to hell",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "2:48"
+            },
+            {
+                "id": 6,
+                "path": "3Fj47GNK2kUF0uaEDgXLaD",
+                "trackname": "wish you were gay",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "3:41"
+            },
+            {
+                "id": 7,
+                "path": "43zdsphuZLzwA9k4DJhU0I",
+                "trackname": "when the party's over",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "3:16"
+            },
+            {
+                "id": 8,
+                "path": "6X29iaaazwho3ab7GNue5r",
+                "trackname": "8",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "2:53"
+            },
+            {
+                "id": 9,
+                "path": "3Tc57t9l2O8FwQZtQOvPXK",
+                "trackname": "my strange addiction",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "2:59"
+            },
+            {
+                "id": 10,
+                "path": "4SSnFejRGlZikf02HLewEF",
+                "trackname": "bury a friend",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "3:13"
+            },
+            {
+                "id": 11,
+                "path": "7qEKqBCD2vE5vIBsrUitpD",
+                "trackname": "ilomilo",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "2:36"
+            },
+            {
+                "id": 12,
+                "path": "0tMSssfxAL2oV8Vri0mFHE",
+                "trackname": "listen before i go",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "4:02"
+            },
+            {
+                "id": 13,
+                "path": "6CcJMwBtXByIz4zQLzFkKc",
+                "trackname": "i love you",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "4:51"
+            },
+            {
+                "id": 14,
+                "path": "3LgWsmilsrWXiPYQFRD0T7",
+                "trackname": "goodbye",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "1:59"
             }
         ]
     }
