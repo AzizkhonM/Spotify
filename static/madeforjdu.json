@@ -1,50 +1,76 @@
 [
     {
+        "path": "48k7dQGF9R82Np5YbyA3Z9",
         "id": 1,
-        "path": "",
-        "coverpath": "lanadelrey.jpg",
-        "description": "Lana Del Rey, Ariana Grande, Maroon 5 and more"
+        "coverpath": "/lanadelrey.jpg",
+        "description": "Lana Del Rey, Ariana Grande, Metro Boomin and more",
+        "playlistname": "Daily Mix 1",
+        "playlistowner": "Spotify",
+        "playlistownerimagepath": "/favicon.png",
+        "tracksnumber": 18,
+        "timehour": 1,
+        "timeminute": 4,
+        "timesecond": 40,
+        "upcolorcode": "#a8030a",
+        "downcolorcode": "#540206",
+        "textcolorcode": "#d0b4b3",
+        "tracks": [
+            "5wG3HvLhF6Y5KTGlK0IW3J",
+            "1fewSx2d5KIZ04wsooEBOz",
+            "0vjeOZ3Ft5jvAi9SBFJm1j",
+            "35mvY5S1H3J2QZyna3TFe0",
+            "2vtmY2mSccRzKGjtcHSzI3",
+            "0AluA5RNsa4Cx6XRhf2hWZ",
+            "3taCbWWTilb7eNMsAzOBq4",
+            "51ZQ1vr10ffzbwIjDCwqm4",
+            "2Hh3ETdQKrmSI3QS0hme7g",
+            "7HE1FnMtSsRotzIAQPXpr5",
+            "5D34wRmbFS29AjtTOP2QJe",
+            "1Tr5FhvxC4IlRXYJHCXJdZ",
+            "2dHHgzDwk4BJdRwy9uXhTO",
+            "3BJe4B8zGnqEdQPMvfVjuS",
+            "0Lmbke3KNVFXtoH2mMSHCw",
+            "5Y6nVaayzitvsD5F7nr3DV",
+            "7E1jVNoWuemqUryI4FxsVD",
+            "5hzey1kBGjy3B8tDGcyRTY"
+          ]
     },
     {
         "id": 2,
-        "path": "",
-        "coverpath": "travisscott.jpg",
-        "description": "Travis Scott, Future, Post Malone and more"
-    },
-    {
-        "id": 3,
-        "path": "",
-        "coverpath": "fam0uz.jpg",
-        "description": "fam0uz, LXNGVX, zaichkou888 and more"
-    },
-    {
-        "id": 4,
-        "path": "",
-        "coverpath": "coldplay.jpg",
-        "description": "Coldplay, Harry Styles, Selena Gomez and more"
-    },
-    {
-        "id": 5,
-        "path": "",
-        "coverpath": "avicii.jpg",
-        "description": "Avicii, Calvin Harris, Swedish House Mafia and more"
-    },
-    {
-        "id": 6,
-        "path": "",
-        "coverpath": "justinbieber.jpg",
-        "description": "Justin Bieber, The Kid Laroi, Juice WRLD and more"
-    },
-    {
-        "id": 7,
-        "path": "",
-        "coverpath": "charlieputh.jpg",
-        "description": "Charlie Puth, Ed Sheeran, Shawn Mendez and more"
-    },
-    {
-        "id": 8,
-        "path": "",
-        "coverpath": "theweeknd.jpg",
-        "description": "The Weeknd, Tory Lanez, SZA and more"
+        "path": "97b6dQZF2X41My3LpFA8N9",
+        "coverpath": "/travisscott.jpg",
+        "description": "Travis Scott, Future, Post Malone and more",
+        "playlistname": "Daily Mix 2",
+        "playlistowner": "Spotify",
+        "playlistownerimagepath": "/favicon.png",
+        "tracksnumber": 20,
+        "timehour": 1,
+        "timeminute": 14,
+        "timesecond": 18,
+        "upcolorcode": "#3b3c41",
+        "downcolorcode": "#1d1c21",
+        "textcolorcode": "#bdbdbd",
+        "tracks": [
+            "42VsgItocQwOQC3XWZ8JNA",
+            "0vjeOZ3Ft5jvAi9SBFJm1j",
+            "2Hh3ETdQKrmSI3QS0hme7g",
+            "7221xIgOnuakPdLqT0F3nP",
+            "5wG3HvLhF6Y5KTGlK0IW3J",
+            "6FZjiSBSQoj1geAgXjvqez",
+            "2tudvzsrR56uom6smgOcSf",
+            "7dt6x5M1jzdTEt8oCbisTK",
+            "6gBFPUFcJLzWGx4lenP6h2",
+            "7sVbKoBdhXtYCEOO6qC1SN",
+            "4gh0ZnHzaTMT1sDga7Ek0N",
+            "21jGcNKet2qwijlDFuPiPb",
+            "0RiRZpuVRbi7oqRdSMwhQY",
+            "6fgSKdHloRioPrZ9oJC7FH",
+            "0lOQaZwX9AkAiSvObh4G70",
+            "1FIwzmULOKGNmo5bOJqW0P",
+            "637oNhilCI9UlkWkUW4Grt",
+            "4GL9GMX9t7Qkprvf1YighZ",
+            "2gyHr9WqZeMtzJOpWGuGo6",
+            "28drn6tQo95MRvO0jQEo5C"
+          ]
     }
 ]

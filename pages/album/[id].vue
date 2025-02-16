@@ -24,12 +24,22 @@
           </p>
         </div>
         <div class="flex gap-1 mt-[-20px] items-end">
-          <img :src="main.albumsingerimagepath" class="rounded-full" width="24px" />
-          <NuxtLink :to="{ name: 'artist-id', params: { id: main.albumsingerpath } }"
+          <img v-if="!main.isSingle" :src="main.albumsingerimagepath" class="rounded-full" width="24px" />
+          <NuxtLink v-if="!main.isSingle" :to="{ name: 'artist-id', params: { id: main.albumsingerpath } }"
             class="hover:underline hover:cursor-pointer"
             style="font-family: SpotifyMixBold; font-size: 0.875rem; user-select: none;">
             {{ main.albumsinger }}
           </NuxtLink>
+          <span v-else-if="main.isSingle" v-for="(item, index) in main.albumsinger" :key="index">
+            <NuxtLink v-if="getArtistPath(item)" :to="`/artist/${getArtistPath(item)}`"
+              class="hover:underline hover:cursor-pointer"
+              style="font-family: SpotifyMixBold; font-size: 0.875rem; user-select: none;">
+              {{ item }}
+            </NuxtLink>
+            <span v-else class="" style="font-family: SpotifyMixBold; font-size: 0.875rem; user-select: none;">{{ item }}</span>
+
+            <span v-if="index < main.albumsinger.length - 1"> • </span>
+          </span>
           <p class="color-texts">•</p>
           <p class="color-texts">{{ main.albumreleaseyear }}</p>
           <p class="color-texts">•</p>
@@ -92,52 +102,122 @@
     </div>
     <div class="px-6 bg-[#121212] pt-4" style="user-select: none;">
       <div class="pb-8">
-        <div v-for="el in main.tracks" class="px-4 flex items-center h-14 gap-4 data text-[#9f9f9f] hover:bg-[#2a2a2a]"
-          tabindex="0" style="border-bottom: 0;">
-          <div class="flex justify-center items-center">
-            <h1 class="numinid">{{ el.id }}</h1>
-            <svg data-encore-id="icon" role="img" aria-hidden="true"
-              class="Svg-sc-ytk21e-0 bneLcE e-9541-icon w-4 h-4 playinid" viewBox="0 0 24 24">
-              <path
-                d="m7.05 3.606 13.49 7.788a.7.7 0 0 1 0 1.212L7.05 20.394A.7.7 0 0 1 6 19.788V4.212a.7.7 0 0 1 1.05-.606z"
-                fill="white"></path>
-            </svg>
-          </div>
-          <div class="pl-2 grid grid-cols-1">
-            <div class="text-white">
-              <NuxtLink :to="`/track/${el.path}`"><span class="hover:cursor-pointer hover:underline">{{ el.trackname
-                  }}</span></NuxtLink>
+        <div v-if="main.tracks[0] && typeof main.tracks[0] === 'object' && !Array.isArray(main.tracks[0])">
+          <div v-for="(el, ind) in main.tracks"
+            class="px-4 flex items-center h-14 gap-4 data text-[#9f9f9f] hover:bg-[#2a2a2a]" tabindex="0"
+            style="border-bottom: 0;">
+            <div class="flex justify-center items-center">
+              <h1 class="numinid">{{ ind + 1 }}</h1>
+              <svg data-encore-id="icon" role="img" aria-hidden="true"
+                class="Svg-sc-ytk21e-0 bneLcE e-9541-icon w-4 h-4 playinid" viewBox="0 0 24 24">
+                <path
+                  d="m7.05 3.606 13.49 7.788a.7.7 0 0 1 0 1.212L7.05 20.394A.7.7 0 0 1 6 19.788V4.212a.7.7 0 0 1 1.05-.606z"
+                  fill="white"></path>
+              </svg>
             </div>
-            <div class="flex items-center gap-1 text-[14px]"><abbr v-if="el.explicit == true" title="Explicit"
-                class="hover:cursor-pointer">
-                <span class="text-black text-[10.5px] bg-[#9f9f9f] font-bold h-4 w-4 flex justify-center items-center"
-                  style="font-family: SpotifyMixBold">
-                  E
+            <div class="pl-2 grid grid-cols-1">
+              <div class="text-white">
+                <NuxtLink :to="`/track/${el.path}`"><span class="hover:cursor-pointer hover:underline">{{ el.trackname
+                    }}</span></NuxtLink>
+              </div>
+              <div class="flex items-center gap-1 text-[14px]"><abbr v-if="el.explicit == true" title="Explicit"
+                  class="hover:cursor-pointer">
+                  <span class="text-black text-[10.5px] bg-[#9f9f9f] font-bold h-4 w-4 flex justify-center items-center"
+                    style="font-family: SpotifyMixBold">
+                    E
+                  </span>
+                </abbr>
+
+                <span v-for="(item, index) in el.singers" :key="index">
+                  <NuxtLink v-if="getArtistPath(item)" :to="`/artist/${getArtistPath(item)}`"
+                    class="p-singer hover:underline hover:cursor-pointer">
+                    {{ item }}
+                  </NuxtLink>
+                  <span v-else class="p-singer">{{ item }}</span>
+
+                  <span v-if="index < el.singers.length - 1">, </span>
                 </span>
-              </abbr>
-
-              <span v-for="(item, index) in el.singers" :key="index">
-                <NuxtLink v-if="getArtistPath(item)" :to="`/artist/${getArtistPath(item)}`"
-                  class="p-singer hover:underline hover:cursor-pointer">
-                  {{ item }}
-                </NuxtLink>
-                <span v-else class="p-singer">{{ item }}</span>
-
-                <span v-if="index < el.singers.length - 1">, </span>
-              </span>
+              </div>
+            </div>
+            <div class="flex justify-center text-[14px]">
+              {{ el.duration }}
+            </div>
+            <div>
+              <svg data-encore-id="icon" role="img" aria-hidden="true"
+                class="Svg-sc-ytk21e-0 cqasRA e-9541-icon dataoftrack hover:cursor-pointer h-5 w-5" viewBox="0 0 24 24">
+                <path
+                  d="M4.5 13.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm15 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm-7.5 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"
+                  fill="#fff">
+                </path>
+              </svg>
             </div>
           </div>
-          <div class="flex justify-center text-[14px]">
-            {{ el.duration }}
-          </div>
-          <div>
-            <svg data-encore-id="icon" role="img" aria-hidden="true"
-              class="Svg-sc-ytk21e-0 cqasRA e-9541-icon dataoftrack hover:cursor-pointer h-5 w-5" viewBox="0 0 24 24">
-              <path
-                d="M4.5 13.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm15 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm-7.5 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"
-                fill="#fff">
-              </path>
-            </svg>
+        </div>
+        <div v-else>
+          <div v-for="(el1, ind1) in main.tracks">
+            <div class="px-4 flex items-center h-14 gap-4 data text-[#9f9f9f]" style="border-bottom: 0;">
+              <svg data-encore-id="icon" role="img" aria-hidden="true" class="Svg-sc-ytk21e-0 dYnaPI e-9541-icon"
+                viewBox="0 0 16 16">
+                <path d="M8 1.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8z"
+                  fill="#9f9f9f"></path>
+                <path d="M8 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zM5 8a3 3 0 1 1 6 0 3 3 0 0 1-6 0z" fill="#9f9f9f">
+                </path>
+              </svg>
+              <div>
+                <h1 class="pl-2" style="font-family: SpotifyMixBold;">Disc {{ ind1 + 1 }}</h1>
+              </div>
+            </div>
+            <div v-for="(el, ind) in el1"
+              class="px-4 flex items-center h-14 gap-4 data text-[#9f9f9f] hover:bg-[#2a2a2a]" tabindex="0"
+              style="border-bottom: 0;">
+              <div class="flex justify-center items-center">
+                <h1 class="numinid">{{ ind + 1 }}</h1>
+                <svg data-encore-id="icon" role="img" aria-hidden="true"
+                  class="Svg-sc-ytk21e-0 bneLcE e-9541-icon w-4 h-4 playinid" viewBox="0 0 24 24">
+                  <path
+                    d="m7.05 3.606 13.49 7.788a.7.7 0 0 1 0 1.212L7.05 20.394A.7.7 0 0 1 6 19.788V4.212a.7.7 0 0 1 1.05-.606z"
+                    fill="white"></path>
+                </svg>
+              </div>
+              <div class="pl-2 grid grid-cols-1">
+                <div class="text-white">
+                  <NuxtLink :to="`/track/${el.path}`"><span class="hover:cursor-pointer hover:underline">{{ el.trackname
+                      }}</span></NuxtLink>
+                </div>
+                <div class="flex items-center gap-1 text-[14px]"><abbr v-if="el.explicit == true" title="Explicit"
+                    class="hover:cursor-pointer">
+                    <span
+                      class="text-black text-[10.5px] bg-[#9f9f9f] font-bold h-4 w-4 flex justify-center items-center"
+                      style="font-family: SpotifyMixBold">
+                      E
+                    </span>
+                  </abbr>
+
+                  <span v-for="(item, index) in el.singers" :key="index">
+                    <NuxtLink v-if="getArtistPath(item)" :to="`/artist/${getArtistPath(item)}`"
+                      class="p-singer hover:underline hover:cursor-pointer">
+                      {{ item }}
+                    </NuxtLink>
+                    <span v-else class="p-singer">{{ item }}</span>
+
+                    <span v-if="index < el.singers.length - 1">, </span>
+                  </span>
+                </div>
+              </div>
+              <div class="flex justify-center text-[14px]">
+                {{ el.duration }}
+              </div>
+              <div>
+                <svg data-encore-id="icon" role="img" aria-hidden="true"
+                  class="Svg-sc-ytk21e-0 cqasRA e-9541-icon dataoftrack hover:cursor-pointer h-5 w-5"
+                  viewBox="0 0 24 24">
+                  <path
+                    d="M4.5 13.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm15 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm-7.5 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"
+                    fill="#fff">
+                  </path>
+                </svg>
+              </div>
+            </div>
           </div>
         </div>
         <div class="mt-8 px-4">
@@ -157,7 +237,10 @@
 
       <div v-if="arrfordiscog.length > 0" class="grid grid-cols-1 gap-4 px-4 pb-8">
         <div class="grid grid-cols-2 items-end">
-          <div><span class="text-[24px]" style="font-family: SpotifyMixBold;">More by {{ main.albumsinger }}</span>
+          <div><span v-if="!main.isSingle" class="text-[24px]" style="font-family: SpotifyMixBold;">More by {{
+            main.albumsinger }}</span>
+            <span v-else class="text-[24px]" style="font-family: SpotifyMixBold;">More by {{ main.albumsinger[0]
+              }}</span>
           </div>
           <div style="text-align: end;">
             <NuxtLink :to="{ path: `/artist/${main.albumsingerpath}/discography/all` }"
@@ -212,10 +295,26 @@ for (let i of albums) {
   console.log(main);
 }
 
-for (let i of albums) {
-  if (i.albumsinger == main.albumsinger) {
-    if (i.path != route.params.id) {
-      arrfordiscog.push(i)
+for (let i of artists) {
+  if (!main.isSingle) {
+    if (i.name == main.albumsinger) {
+      for(let j of i.discography.popular){
+        for(let k of albums){
+          if(j == k.path){
+            arrfordiscog.push(k)
+          }
+        }
+      }
+    }
+  } else {
+    if (i.name.includes(main.albumsinger[0])) {
+      for(let j of i.discography.popular){
+        for(let k of albums){
+          if(j == k.path){
+            arrfordiscog.push(k)
+          }
+        }
+      }
     }
   }
 }
@@ -320,21 +419,19 @@ const handleScroll = () => {
   if (!wrapped.value) return;
   const scrollTop = wrapped.value.scrollTop;
   opacitySticky.value = Math.min(scrollTop / divHeight.value, 1); // Fade-in effect
-  console.log("Scroll Top:", scrollTop, "Opacity:", opacitySticky.value);
 };
 
 const getDivHeight = () => {
   if (header.value) {
     divHeight.value = header.value.offsetHeight - 68; // Get height
-    console.log("Div height:", divHeight.value);
   }
 };
 
 // Add event listener when mounted
 onMounted(() => {
   nextTick(() => {
-        getDivHeight(); // Ensure DOM is fully rendered before getting height
-    });
+    getDivHeight(); // Ensure DOM is fully rendered before getting height
+  });
   if (wrapped.value) {
     wrapped.value.addEventListener("scroll", handleScroll);
   }
@@ -347,16 +444,40 @@ onUnmounted(() => {
   }
 });
 
-useHead({
-  title: `${main.albumname} ・ ${main.albumsinger}`,
-  link: [
-    {
-      rel: 'icon',
-      type: 'image/png',
-      href: 'favicon.png'  // Path to your custom favicon
-    }
-  ]
-})
+if (main.isSingle) {
+  useHead({
+    title: `${main.albumname} - Single by ${main.albumsinger.join(", ")} | Spotify`,
+    link: [
+      {
+        rel: 'icon',
+        type: 'image/png',
+        href: 'favicon.png'  // Path to your custom favicon
+      }
+    ]
+  })
+} else if (main.isCompilation) {
+  useHead({
+    title: `${main.albumname} - Compilation by ${main.albumsinger} | Spotify`,
+    link: [
+      {
+        rel: 'icon',
+        type: 'image/png',
+        href: 'favicon.png'  // Path to your custom favicon
+      }
+    ]
+  })
+} else {
+  useHead({
+    title: `${main.albumname} - Album by ${main.albumsinger} | Spotify`,
+    link: [
+      {
+        rel: 'icon',
+        type: 'image/png',
+        href: 'favicon.png'  // Path to your custom favicon
+      }
+    ]
+  })
+}
 </script>
 
 <style scoped>
@@ -395,9 +516,11 @@ useHead({
 .wrapped {
   color: white;
   border-radius: 10px;
-  overflow-y: auto; /* Allow scrolling */
+  overflow-y: auto;
+  /* Allow scrolling */
   height: calc(100vh - 180px);
-  position: relative; /* Ensures sticky header stays inside */
+  position: relative;
+  /* Ensures sticky header stays inside */
 }
 
 .albumheader {
@@ -601,13 +724,15 @@ useHead({
 }
 
 .sticky-header {
-  position: sticky; /* Instead of sticky */
+  position: sticky;
+  /* Instead of sticky */
   top: 0;
   left: 0;
   width: 100%;
   padding: 16px 24px;
   font-size: 20px;
   font-weight: bold;
-  opacity: 0; /* Initially hidden */
+  opacity: 0;
+  /* Initially hidden */
 }
 </style>

@@ -2,18 +2,18 @@
   <div class="footer text-white">
     <div class="music_data min-w-52">
       <div class="w-16 h-16 flex justify-center items-center mx-[6px]">
-        <img src="../public/jdu.png" width="50px" alt="">
+        <img src="../public/hurryuptomorrow.jpg" width="50px" alt="">
       </div>
       <div class="grid grid-rows-2 text-white ml-3 text-sm songInfo">
         <div ref="textContainer1" class="flex items-end songTitle scrolling-text-container1">
-          <p ref="textElement1" class="scrolling-text1 text-[14px] hover:underline hover:cursor-pointer">Moth To A Flame
+          <p ref="textElement1" class="scrolling-text1 text-[14px] hover:underline hover:cursor-pointer">Reflections Laughing (feat. Travis Scott, Florence + The Machine)
           </p>
         </div>
         <div ref="textContainer2" class="songArtist scrolling-text-container2">
           <p ref="textElement2"
             class="scrolling-text2 font-[200] text-[12px] text-[#9f9f9f] hover:underline hover:text-white hover:cursor-pointer"
             style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">
-            Swedish House Mafia, The Weeknd
+            The Weeknd, Travis Scott, Florence + The Machine
           </p>
         </div>
       </div>
@@ -111,7 +111,7 @@
         </svg>
 
 
-        <div class="">
+        <div class="flex items-center">
           <div class="footer2">
             <div class="volume-slider-container">
               <input type="range" id="volume-slider" class="volume-slider" min="0" max="100" value="90" />
@@ -389,6 +389,7 @@ onMounted(() => {
 .footer {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  gap: 6px;
 }
 
 .music_data {
@@ -442,6 +443,8 @@ onMounted(() => {
   /* Smooth transition for background changes */
   background: linear-gradient(to right, white 90%);
   /* Passed part turns green on hover */
+  display: flex;
+  align-items: center
   ;
 }
 

@@ -88,7 +88,7 @@
                                         <img :src="el.coverpath" width="40" alt="" class="rounded mr-3">
                                         <div class="grid grid-cols-1 content-center">
                                             <NuxtLink :to="`/track/${el.path}`">
-                                                <h1 class="hover:underline hover:cursor-pointer">{{ el.trackname }}</h1>
+                                                <h1 class="hover:underline hover:cursor-pointer" style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap;">{{ el.trackname }}</h1>
                                             </NuxtLink>
                                             <span v-if="el.explicit"
                                                 class="text-black text-[10.5px] bg-[#9f9f9f] font-bold h-4 w-4 flex justify-center items-center"
@@ -292,7 +292,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="text-[#B3B3B3] text-[14px] text-start">
+                        <div class="text-[#B3B3B3] text-[16px] text-start">
                             <h1 class=" whitespace-pre-line">{{ main.about.briefinfo }}</h1>
                             <div class="mt-5">
                                 <div class="flex items-center gap-3"><img :src="main.artistimage" width="32px"
@@ -365,11 +365,23 @@ let count = 1
 for (let i of main.populartracks) {
     for (let j of albums) {
         for (let k of j['tracks']) {
-            if (i == k.path) {
-                k.coverpath = j.coverpath
-                k.id = count
-                popularsongs.push(k)
-                count++
+            if (Array.isArray(k)) {
+                for (let l of k) {
+                    if (i == l.path) {
+                        l.coverpath = j.coverpath
+                        l.id = count
+                        popularsongs.push(l)
+                        count++
+                        console.log(l);
+                    }
+                }
+            } else {
+                if (i == k.path) {
+                    k.coverpath = j.coverpath
+                    k.id = count
+                    popularsongs.push(k)
+                    count++
+                }
             }
         }
     }
@@ -397,7 +409,7 @@ for (let i of main.discography.popular) {
 }
 
 for (let i of allalbumsofartist) {
-    if (i.albumsinger == main.name && i.isSingle) {
+    if (i.isSingle) {
         singles.push(i)
     }
 }
@@ -510,25 +522,24 @@ const opacitySticky = ref(0);
 
 // Handles scroll event and updates opacity
 const handleScroll = () => {
-  if (!wrapped.value) return;
-  const scrollTop = wrapped.value.scrollTop;
-  opacitySticky.value = Math.min(scrollTop / (285 - 68), 1); // Fade-in effect
-  console.log("Scroll Top:", scrollTop, "Opacity:", opacitySticky.value);
+    if (!wrapped.value) return;
+    const scrollTop = wrapped.value.scrollTop;
+    opacitySticky.value = Math.min(scrollTop / (285 - 68), 1); // Fade-in effect
 };
 
 
 // Add event listener when mounted
 onMounted(() => {
-  if (wrapped.value) {
-    wrapped.value.addEventListener("scroll", handleScroll);
-  }
+    if (wrapped.value) {
+        wrapped.value.addEventListener("scroll", handleScroll);
+    }
 });
 
 // Remove event listener when unmounted
 onUnmounted(() => {
-  if (wrapped.value) {
-    wrapped.value.removeEventListener("scroll", handleScroll);
-  }
+    if (wrapped.value) {
+        wrapped.value.removeEventListener("scroll", handleScroll);
+    }
 });
 
 useHead({
@@ -840,15 +851,16 @@ useHead({
 }
 
 .sticky-header {
-  position: sticky; /* Instead of sticky */
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 10;
-  padding: 16px 24px;
-  font-size: 20px;
-  font-weight: bold;
-  opacity: 0; /* Initially hidden */
+    position: sticky;
+    /* Instead of sticky */
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    padding: 16px 24px;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0;
+    /* Initially hidden */
 }
-
 </style>

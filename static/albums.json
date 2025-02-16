@@ -797,8 +797,11 @@
         "isCompilation": false,
         "albumname": "Currents",
         "albumsinger": "Tame Impala",
+        "albumsingerpath": "5INjqkS1o8h1imAzPqGZBb",
         "albumsingerimagepath": "/tameimpala.jpg",
         "albumreleaseyear": 2015,
+        "albumreleasemonth": 7,
+        "albumreleasedate": 17,
         "tracksnumber": 13,
         "timehour": 0,
         "timeminute": 51,
@@ -807,8 +810,112 @@
         "downcolorcode": "#422e4a",
         "textcolorcode": "#e0c4ea",
         "coverpath": "/currents.jpg",
+        "credits" : ["© 2015 Modular Recordings", "℗ 2015 Modular Recordings, under exclusive license to Universal Music Australia Pty Limited"],
         "tracks": [
-
+            {
+                "id": 1,
+                "path": "2X485T9Z5Ly0xyaghN73ed",
+                "trackname": "Let It Happen",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "7:47"
+            },
+            {
+                "id": 2,
+                "path": "1cCbsojaA6GIT7Y3zuMJ1q",
+                "trackname": "Nangs",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "1:47"
+            },
+            {
+                "id": 3,
+                "path": "1UYj8qTWjneZJDVjUMwMub",
+                "trackname": "The Moment",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "4:15"
+            },
+            {
+                "id": 4,
+                "path": "0xtIp0lgccN85GfGOekS5L",
+                "trackname": "Yes I'm Changing",
+                "singers": ["Tame Impala"],
+                "explicit": true,
+                "duration": "4:30"
+            },
+            {
+                "id": 5,
+                "path": "5M4yti0QxgqJieUYaEXcpw",
+                "trackname": "Eventually",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "5:18"
+            },
+            {
+                "id": 6,
+                "path": "79chzfFIIq7cHkqcYYORk0",
+                "trackname": "Gossip",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "0:55"
+            },
+            {
+                "id": 7,
+                "path": "6K4t31amVTZDgR3sKmwUJJ",
+                "trackname": "The Less I Know The Better",
+                "singers": ["Tame Impala"],
+                "explicit": true,
+                "duration": "3:36"
+            },
+            {
+                "id": 8,
+                "path": "4a9fW33mYR8LhXBOLUhbfF",
+                "trackname": "Past Life",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "3:48"
+            },
+            {
+                "id": 9,
+                "path": "2gNfxysfBRfl9Lvi9T3v6R",
+                "trackname": "Disciples",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "1:48"
+            },
+            {
+                "id": 10,
+                "path": "2O99aywAVBhaPrsiJ6zbSS",
+                "trackname": "'Cause I'm A Man",
+                "singers": ["Tame Impala"],
+                "explicit": true,
+                "duration": "4:01"
+            },
+            {
+                "id": 11,
+                "path": "3I7OmVsk4Hm5LBbs2GmhlD",
+                "trackname": "Reality In Motion",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "4:12"
+            },
+            {
+                "id": 12,
+                "path": "5h9hkYIBWTZYFRmF6Iz1gt",
+                "trackname": "Love/Paranoia",
+                "singers": ["Tame Impala"],
+                "explicit": true,
+                "duration": "3:05"
+            },
+            {
+                "id": 13,
+                "path": "52ojopYMUzeNcudsoz7O9D",
+                "trackname": "New Person, Same Old Mistakes",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "6:03"
+            }
         ]
     },
     {
@@ -1191,7 +1298,7 @@
         "isSingle": true,
         "isCompilation": false,
         "albumname": "Timeless",
-        "albumsinger": "The Weeknd",
+        "albumsinger": ["The Weeknd", "Playboi Carti"],
         "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
         "albumsingerimagepath": "/theweeknd.jpg",
         "albumreleaseyear": 2024,
@@ -1226,7 +1333,7 @@
         "isSingle": true,
         "isCompilation": false,
         "albumname": "São Paulo",
-        "albumsinger": "The Weeknd",
+        "albumsinger": ["The Weeknd", "Anitta"],
         "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
         "albumsingerimagepath": "/theweeknd.jpg",
         "albumreleaseyear": 2024,
@@ -1261,7 +1368,7 @@
         "isSingle": true,
         "isCompilation": false,
         "albumname": "Dancing In The Flames",
-        "albumsinger": "The Weeknd",
+        "albumsinger": ["The Weeknd"],
         "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
         "albumsingerimagepath": "/theweeknd.jpg",
         "albumreleaseyear": 2024,
@@ -1492,7 +1599,7 @@
         "isCompilation": false,
         "albumname": "Dance The Night (From Barbie The Album)",
         "albumsingerpath": "6M2wZ9GZgrQXHCFfjv46we",
-        "albumsinger": "Dua Lipa",
+        "albumsinger": ["Dua Lipa"],
         "albumsingerimagepath": "/dualipa.jpg",
         "albumreleaseyear": 2023,
         "albumreleasemonth": 5,
@@ -1902,6 +2009,2167 @@
                 "singers": ["Billie Eilish"],
                 "explicit": false,
                 "duration": "1:59"
+            }
+        ]
+    },
+    {
+        "path": "31qVWUdRrlb8thMvts0yYL",
+        "id": 17,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "The Slow Rush",
+        "albumsinger": "Tame Impala",
+        "albumsingerpath": "5INjqkS1o8h1imAzPqGZBb",
+        "albumsingerimagepath": "/tameimpala.jpg",
+        "albumreleaseyear": 2020,
+        "albumreleasemonth": 2,
+        "albumreleasedate": 14,
+        "tracksnumber": 12,
+        "timehour": 0,
+        "timeminute": 57,
+        "timesecond": 27,
+        "upcolorcode": "#8e0800",
+        "downcolorcode": "#640000",
+        "textcolorcode": "#ffbeb0",
+        "coverpath": "/theslowrush.jpg",
+        "credits" : ["An Island Records Australia release", "© 2020 Modular Recordings Pty Ltd", "℗ 2020 Modular Recordings Pty Ltd"],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "5ozqshq2dtU7SYCpCBu0NE",
+                "trackname": "One More Year",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "5:24"
+            },
+            {
+                "id": 2,
+                "path": "6WCXBUFa0z3l9DoOY3k5Xe",
+                "trackname": "Instant Destiny",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "3:14"
+            },
+            {
+                "id": 3,
+                "path": "5hM5arv9KDbCHS0k9uqwjr",
+                "trackname": "Borderline",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "3:57"
+            },
+            {
+                "id": 4,
+                "path": "1KcOU0q9AMXV9xi4tSzzCc",
+                "trackname": "Posthumous Forgiveness",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "6:06"
+            },
+            {
+                "id": 5,
+                "path": "3LbZIhU0smEU5SUnxod4j4",
+                "trackname": "Breath Deeper",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "6:12"
+            },
+            {
+                "id": 6,
+                "path": "666PdikRnUzdvjT9p5wWND",
+                "trackname": "Tomorrow's Dust",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "5:26"
+            },
+            {
+                "id": 7,
+                "path": "0IuE6FnXPCdZ8NLuuvJRhb",
+                "trackname": "On Track",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "5:01"
+            },
+            {
+                "id": 8,
+                "path": "5JWPUEov2wlX7c0jhYZpeB",
+                "trackname": "Lost In Yesterday",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "4:09"
+            },
+            {
+                "id": 9,
+                "path": "6RZmhpvukfyeSURhf4kZ0d",
+                "trackname": "Is It True",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "3:59"
+            },
+            {
+                "id": 10,
+                "path": "558ubozatFQlweufvHa3Ip",
+                "trackname": "It Might Be Time",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "4:33"
+            },
+            {
+                "id": 11,
+                "path": "1unBUyjeQUDiJ8N89XiDrr",
+                "trackname": "Glimmer",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "2:08"
+            },
+            {
+                "id": 12,
+                "path": "0mO6oS60RST2sWmN2FKknP",
+                "trackname": "One More Hour",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "7:12"
+            }
+        ]
+    },
+    {
+        "path": "1ORxRsK3MrSLvh7VQTF01F",
+        "id": 18,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Ultraviolence (Deluxe)",
+        "albumsinger": "Lana Del Rey",
+        "albumsingerpath": "00FQb4jTyendYWaN8pK0wa",
+        "albumsingerimagepath": "/lanadelrey.jpg",
+        "albumreleaseyear": 2014,
+        "albumreleasemonth": 1,
+        "albumreleasedate": 1,
+        "tracksnumber": 14,
+        "timehour": 1,
+        "timeminute": 5,
+        "timesecond": 0,
+        "upcolorcode": "#525252",
+        "downcolorcode": "#353535",
+        "textcolorcode": "#CDCDCD",
+        "coverpath": "/ultraviolencedeluxe.jpg",
+        "credits" : ["© 2014 Lana Del Rey, under exclusive licence to Polydor Ltd. (UK). Under exclusive licence to Interscope Records in the USA", "℗ 2014 Lana Del Rey, under exclusive licence to Polydor Ltd. (UK). Under exclusive licence to Interscope Records in the USA"],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "6ayKgleoMF26lvU1Z7wVm7",
+                "trackname": "Cruel World",
+                "singers": ["Lana Del Rey"],
+                "explicit": true,
+                "duration": "6:39"
+            },
+            {
+                "id": 2,
+                "path": "1y3r6RXiJZNBV1EI0NggpS",
+                "trackname": "Ultraviolence",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "4:11"
+            },
+            {
+                "id": 3,
+                "path": "4VSg5K1hnbmIg4PwRdY6wV",
+                "trackname": "Shades Of Cool",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "5:42"
+            },
+            {
+                "id": 4,
+                "path": "1NZs6n6hl8UuMaX0UC0YTz",
+                "trackname": "Brooklyn Baby",
+                "singers": ["Lana Del Rey"],
+                "explicit": true,
+                "duration": "5:51"
+            },
+            {
+                "id": 5,
+                "path": "5Y6nVaayzitvsD5F7nr3DV",
+                "trackname": "West Coast",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "4:16"
+            },
+            {
+                "id": 6,
+                "path": "11MyiSGZSYSmhhqwGUTtAq",
+                "trackname": "Sad Girl",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "5:17"
+            },
+            {
+                "id": 7,
+                "path": "6PnluwP0fjGnpIBsqTdUTq",
+                "trackname": "Pretty When You Cry",
+                "singers": ["Lana Del Rey"],
+                "explicit": true,
+                "duration": "3:54"
+            },
+            {
+                "id": 8,
+                "path": "7Ms58r8G6Y0r1XLtpwoGxN",
+                "trackname": "Money Power Glory",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "4:30"
+            },
+            {
+                "id": 9,
+                "path": "70Laus6ozJIHDpfTtUSmAZ",
+                "trackname": "Fucked My Way Up To The Top",
+                "singers": ["Lana Del Rey"],
+                "explicit": true,
+                "duration": "3:32"
+            },
+            {
+                "id": 10,
+                "path": "6IfPyMb0Sxptpx6jBUATOS",
+                "trackname": "Old Money",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "4:31"
+            },
+            {
+                "id": 11,
+                "path": "1KuVEZR4xuQVNr1KkanAV4",
+                "trackname": "The Other Woman",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "3:01"
+            },
+            {
+                "id": 12,
+                "path": "63hHlajVLQnlFMAqSyePxO",
+                "trackname": "Black Beauty",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "5:14"
+            },
+            {
+                "id": 13,
+                "path": "0vfPEfQk0ZCHExTZ007Ryr",
+                "trackname": "Guns And Roses",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "4:30"
+            },
+            {
+                "id": 14,
+                "path": "0iQPnK3bi7O27c5T2HBTdr",
+                "trackname": "Florida Kilos",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "4:16"
+            }
+        ]
+    },
+    {
+        "path": "5VoeRuTrGhTbKelUfwymwu",
+        "id": 19,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Born To Die - The Paradise Edition",
+        "albumsinger": "Lana Del Rey",
+        "albumsingerpath": "00FQb4jTyendYWaN8pK0wa",
+        "albumsingerimagepath": "/lanadelrey.jpg",
+        "albumreleaseyear": 2012,
+        "albumreleasemonth": 1,
+        "albumreleasedate": 1,
+        "tracksnumber": 23,
+        "timehour": 1,
+        "timeminute": 33,
+        "timesecond": 0,
+        "upcolorcode": "#ae9656",
+        "downcolorcode": "#463200",
+        "textcolorcode": "#edcb8a",
+        "coverpath": "/borntodie.jpg",
+        "credits" : ["© 2012 Lana Del Rey, under exclusive licence to Polydor Ltd. (UK). Under exclusive licence to Interscope Records in the USA", "℗ 2012 Lana Del Rey, under exclusive licence to Polydor Ltd. (UK). Under exclusive licence to Interscope Records in the USA"],
+        "tracks": [[
+            {
+                "id": 1,
+                "path": "4Ouhoi2lAhrLJKFzUqEzwl",
+                "trackname": "Born To Die",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "4:45"
+            },
+            {
+                "id": 2,
+                "path": "3uUCgL0cbSd0isnqhHCm1f",
+                "trackname": "Off To The Races",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "4:59"
+            },
+            {
+                "id": 3,
+                "path": "4RyK6N4IQ85xxLgguQAFH5",
+                "trackname": "Blue Jeans",
+                "singers": ["Lana Del Rey"],
+                "explicit": true,
+                "duration": "3:29"
+            },
+            {
+                "id": 4,
+                "path": "0fBSs3fRoh1yJcne77fdu9",
+                "trackname": "Video Games",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "4:41"
+            },
+            {
+                "id": 5,
+                "path": "2vtmY2mSccRzKGjtcHSzI3",
+                "trackname": "Diet Mountain Dew",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "3:42"
+            },
+            {
+                "id": 6,
+                "path": "7cNz65PfCatRXoX7QtqM2A",
+                "trackname": "National Anthem",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "3:50"
+            },
+            {
+                "id": 7,
+                "path": "6qqdFWe7C4LsBjWbXQdsHA",
+                "trackname": "Dark Way",
+                "singers": ["Lana Del Rey"],
+                "explicit": true,
+                "duration": "4:03"
+            },
+            {
+                "id": 8,
+                "path": "3taCbWWTilb7eNMsAzOBq4",
+                "trackname": "Radio",
+                "singers": ["Lana Del Rey"],
+                "explicit": true,
+                "duration": "3:34"
+            },
+            {
+                "id": 9,
+                "path": "1FaHPLv48VjsTkPCQOH7bv",
+                "trackname": "Carmen",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "4:08"
+            },
+            {
+                "id": 10,
+                "path": "7LQKuOaqJrNgVIGLFnfvdn",
+                "trackname": "Million Dollar Man",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "3:51"
+            },
+            {
+                "id": 11,
+                "path": "3BJe4B8zGnqEdQPMvfVjuS",
+                "trackname": "Summertime Sadness",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "4:25"
+            },
+            {
+                "id": 12,
+                "path": "1Lw2xRuW5fcieRPfoskgog",
+                "trackname": "This Is What Makes Us Girls",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "3:58"
+            },
+            {
+                "id": 13,
+                "path": "6g4RVB6qiuySTw9FCV1HEM",
+                "trackname": "Without You",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "3:49"
+            },
+            {
+                "id": 14,
+                "path": "4MDpkzAyG2X0dmtOU0ZESX",
+                "trackname": "Lolita",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "3:40"
+            },
+            {
+                "id": 15,
+                "path": "24h1notzzKOcLZSdRYa7yn",
+                "trackname": "Lucky Ones",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "3:45"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "path": "7yFMhCJOsH7khgpdnyrZAZ",
+                "trackname": "Ride",
+                "singers": ["Lana Del Rey"],
+                "explicit": true,
+                "duration": "4:49"
+            },
+            {
+                "id": 2,
+                "path": "1Yfgbr2kZrb3u0NP8ioyuk",
+                "trackname": "American",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "4:08"
+            },
+            {
+                "id": 3,
+                "path": "3I5azi0831uNpYQsfYsW7G",
+                "trackname": "Cola",
+                "singers": ["Lana Del Rey"],
+                "explicit": true,
+                "duration": "4:20"
+            },
+            {
+                "id": 4,
+                "path": "5ZyM4VMzHSaz8OlIZRuZBH",
+                "trackname": "Body Electric",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "3:53"
+            },
+            {
+                "id": 5,
+                "path": "5ZyM4VMzHSaz8OlIZRuZBH",
+                "trackname": "Blue Velvet",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "2:38"
+            },
+            {
+                "id": 6,
+                "path": "4uhSo9cVBVpdDCNxf4MBaP",
+                "trackname": "Monsters",
+                "singers": ["Lana Del Rey"],
+                "explicit": true,
+                "duration": "3:57"
+            },
+            {
+                "id": 7,
+                "path": "2rldjI2fK6nYwlMgaITluf",
+                "trackname": "Yayo",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "5:21"
+            },
+            {
+                "id": 8,
+                "path": "7E8A5k5VOhPmt6pGPDJhxQ",
+                "trackname": "Bel Air",
+                "singers": ["Lana Del Rey"],
+                "explicit": false,
+                "duration": "3:57"
+            }
+        ]
+    ]
+    },
+    {
+        "path": "0NSognr1k6PH6SZZ6uv44G",
+        "id": 20,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Lust for Life (with The Weeknd)",
+        "albumsinger": ["Lana Del Rey", "The Weeknd"],
+        "albumsingerpath": "00FQb4jTyendYWaN8pK0wa",
+        "albumsingerimagepath": "/lanadelrey.jpg",
+        "albumreleaseyear": 2017,
+        "albumreleasemonth": 4,
+        "albumreleasedate": 19,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 4,
+        "timesecond": 24,
+        "upcolorcode": "#47601f",
+        "downcolorcode": "#263b00",
+        "textcolorcode": "#bad794",
+        "coverpath": "/lustforlife_single.jpg",
+        "credits": [
+            "© 2017 Lana Del Rey, under exclusive licence to Polydor Ltd. (UK). Under exclusive licence to Interscope Records in the USA",
+            "℗ 2017 Lana Del Rey, under exclusive licence to Polydor Ltd. (UK). Under exclusive licence to Interscope Records in the USA"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "5hzey1kBGjy3B8tDGcyRTY",
+                "trackname": "Lust for Life (with The Weeknd)",
+                "singers": ["Lana Del Rey", "The Weeknd"],
+                "explicit": false,
+                "duration": "4:24"
+            }
+        ]
+    },
+    {
+        "path": "7txGsnDSqVMoRl6RQ9XyZP",
+        "id": 21,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "HEROES & VILLAINS",
+        "albumsingerpath": "0iEtIxbK0KxaSlF7G42ZOp",
+        "albumsinger": "Metro Boomin",
+        "albumsingerimagepath": "/metroboomin.jpg",
+        "albumreleaseyear": 2022,
+        "albumreleasemonth": 12,
+        "albumreleasedate": 2   ,
+        "tracksnumber": 15,
+        "timehour": 0,
+        "timeminute": 48,
+        "timesecond": 4,
+        "upcolorcode": "#989898",
+        "downcolorcode": "#353535",
+        "textcolorcode": "#CDCDCD",
+        "credits": [
+            "© 2022 Boominati Worldwide, LLC, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2022 Boominati Worldwide, LLC, under exclusive license to Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "coverpath": "/heroesvillains.jpg",
+        "tracks": [
+            {
+                "id": 1,
+                "path": "0YFqKxV9uNu6LUeYkLOKRS",
+                "trackname": "On Time (with John Legend)",
+                "singers": ["Metro Boomin", "John Legend"],
+                "explicit": true,
+                "duration": "2:48"
+            },
+            {
+                "id": 2,
+                "path": "0vjeOZ3Ft5jvAi9SBFJm1j",
+                "trackname": "Superhero (Heroes & Villains) (with Future & Chris Brown)",
+                "singers": ["Metro Boomin", "Future", "Chris Brown"],
+                "explicit": true,
+                "duration": "3:02"
+            },
+            {
+                "id": 3,
+                "path": "2Hh3ETdQKrmSI3QS0hme7g",
+                "trackname": "Too Many Nights (feat. Don Toliver & with Future)",
+                "singers": ["Metro Boomin", "Don Toliver", "Future"],
+                "explicit": true,
+                "duration": "3:19"
+            },
+            {
+                "id": 4,
+                "path": "1pacwLXyRO47ka0v6LTIiY",
+                "trackname": "Raindrops (Insane) [with Travis Scott]",
+                "singers": ["Metro Boomin", "Travis Scott"],
+                "explicit": true,
+                "duration": "3:08"
+            },
+            {
+                "id": 5,
+                "path": "2Yt4SXIgmoaPZHGdRafp4P",
+                "trackname": "Umbrella (with 21 Savage & Young Nudy)",
+                "singers": ["Metro Boomin", "21 Savage", "Young Nudy"],
+                "explicit": true,
+                "duration": "3:42"
+            },
+            {
+                "id": 6,
+                "path": "5wG3HvLhF6Y5KTGlK0IW3J",
+                "trackname": "Trance (with Travis Scott & Young Thug)",
+                "singers": ["Metro Boomin", "Travis Scott", "Young Thug"],
+                "explicit": true,
+                "duration": "3:14"
+            },
+            {
+                "id": 7,
+                "path": "221qmpQeBNV87sUjQeUTVH",
+                "trackname": "Around Me (feat. Don Toliver)",
+                "singers": ["Metro Boomin", "Don Toliver"],
+                "explicit": true,
+                "duration": "3:11"
+            },
+            {
+                "id": 8,
+                "path": "2VtgzixdB967bHDNu5A1nh",
+                "trackname": "Metro Spider (with Young Thug)",
+                "singers": ["Metro Boomin", "Young Thug"],
+                "explicit": true,
+                "duration": "2:54"
+            },
+            {
+                "id": 9,
+                "path": "2N9LEu6Pf8nDcp3GjWJT1Z",
+                "trackname": "I Can't Save You (Interlude) [with Future & feat. Don Toliver]",
+                "singers": ["Metro Boomin", "Future", "Don Toliver"],
+                "explicit": true,
+                "duration": "1:30"
+            },
+            {
+                "id": 10,
+                "path": "2dHHgzDwk4BJdRwy9uXhTO",
+                "trackname": "Creepin' (with The Weeknd & 21 Savage)",
+                "singers": ["Metro Boomin", "The Weeknd", "21 Savage"],
+                "explicit": true,
+                "duration": "3:41"
+            },
+            {
+                "id": 11,
+                "path": "4WuOWVnAqvEQxgSRrspBgt",
+                "trackname": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+                "singers": ["Metro Boomin", "Travis Scott", "21 Savage"],
+                "explicit": true,
+                "duration": "3:27"
+            },
+            {
+                "id": 12,
+                "path": "1UsQe17Ef7tV1ahFqHEFR3",
+                "trackname": "Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa]",
+                "singers": ["Metro Boomin", "21 Savage", "Mustafa"],
+                "explicit": true,
+                "duration": "5:10"
+            },
+            {
+                "id": 13,
+                "path": "0OoNzMdPSgbkM5MkcuEZfm",
+                "trackname": "Lock On Me (with Travis Scott & Future)",
+                "singers": ["Metro Boomin", "Travis Scott", "Future"],
+                "explicit": true,
+                "duration": "2:54"
+            },
+            {
+                "id": 14,
+                "path": "3SsJ17EnPIu1B4GZshqjIS",
+                "trackname": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
+                "singers": ["Metro Boomin", "A$AP Rocky", "Takeoff"],
+                "explicit": true,
+                "duration": "3:09"
+            },
+            {
+                "id": 15,
+                "path": "4a1fh9vJMMoRjNrBmEWoM0",
+                "trackname": "All The Money (with Gunna) [Bonus]",
+                "singers": ["Metro Boomin", "Gunna"],
+                "explicit": true,
+                "duration": "4:31"
+            }
+        ]
+    },
+    {
+        "path": "3IO8IPjwXuzPJnoaqkwYrj",
+        "id": 22,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "albumsingerpath": "0iEtIxbK0KxaSlF7G42ZOp",
+        "albumsinger": "Metro Boomin",
+        "albumsingerimagepath": "/metroboomin.jpg",
+        "albumreleaseyear": 2018,
+        "albumreleasemonth": 11,
+        "albumreleasedate": 6,
+        "tracksnumber": 26,
+        "timehour": 1,
+        "timeminute": 27,
+        "timesecond": 0,
+        "upcolorcode": "#ac340f",
+        "downcolorcode": "#640000",
+        "textcolorcode": "#ffbfa8",
+        "credits": [
+            "© 2018 Metro Boomin Want Some More, LLC., under exclusive license to Republic Records, a division of UMG Recordings, Inc. (Boominati Worldwide)",
+            "℗ 2018 Metro Boomin Want Some More, LLC., under exclusive license to Republic Records, a division of UMG Recordings, Inc. (Boominati Worldwide)"
+        ],
+        "coverpath": "/notallheroeswearcapes.jpg",
+        "tracks": [
+            [
+                {
+                    "id": 1,
+                    "path": "00KjOnN3U40e3lXFUOue7h",
+                    "trackname": "10AM/Save The World (feat. Gucci Mane)",
+                    "singers": ["Metro Boomin", "Gucci Mane"],
+                    "explicit": true,
+                    "duration": "3:46"
+                },
+                {
+                    "id": 2,
+                    "path": "6LyAwkJsHlW7RQ8S1cYAtM",
+                    "trackname": "Overdue (with Travis Scott)",
+                    "singers": ["Metro Boomin", "Travis Scott"],
+                    "explicit": true,
+                    "duration": "2:46"
+                },
+                {
+                    "id": 3,
+                    "path": "2Grb4G6t9VIqo6moKUloom",
+                    "trackname": "Don't Come Out The House (with 21 Savage)",
+                    "singers": ["Metro Boomin", "21 Savage"],
+                    "explicit": true,
+                    "duration": "2:48"
+                },
+                {
+                    "id": 4,
+                    "path": "22ykS8KWpd2r4zcRZ0XMK5",
+                    "trackname": "Dreamcatcher (feat. Swae Lee & Travis Scott)",
+                    "singers": ["Metro Boomin", "Swae Lee", "Travis Scott"],
+                    "explicit": true,
+                    "duration": "3:08"
+                },
+                {
+                    "id": 5,
+                    "path": "1fewSx2d5KIZ04wsooEBOz",
+                    "trackname": "Space Cadet (feat. Gunna)",
+                    "singers": ["Metro Boomin", "Gunna"],
+                    "explicit": true,
+                    "duration": "3:23"
+                },
+                {
+                    "id": 6,
+                    "path": "0AluA5RNsa4Cx6XRhf2hWZ",
+                    "trackname": "10 Freaky Girls (with 21 Savage)",
+                    "singers": ["Metro Boomin", "21 Savage"],
+                    "explicit": true,
+                    "duration": "3:28"
+                },
+                {
+                    "id": 7,
+                    "path": "4RGacGFT2ztXhGgzeaYzIR",
+                    "trackname": "Up To Something (feat. Travis Scott & Young Thug)",
+                    "singers": ["Metro Boomin", "Travis Scott", "Young Thug"],
+                    "explicit": true,
+                    "duration": "3:04"
+                },
+                {
+                    "id": 8,
+                    "path": "4cEqoGTqPRZy76Yl3ymj3V",
+                    "trackname": "Only 1 (Interlude) (with Travis Scott)",
+                    "singers": ["Metro Boomin", "Travis Scott"],
+                    "explicit": true,
+                    "duration": "1:20"
+                },
+                {
+                    "id": 9,
+                    "path": "6vG3Zv9VEA6YbJPJ6ar5Y7",
+                    "trackname": "Lesbian (feat. Gunna & Young Thug)",
+                    "singers": ["Metro Boomin", "Gunna", "Young Thug"],
+                    "explicit": true,
+                    "duration": "3:26"
+                },
+                {
+                    "id": 10,
+                    "path": "0NA5xAtDra50d0Lfs2uvoh",
+                    "trackname": "Borrowed Love (feat. Swae Lee & WizKid)",
+                    "singers": ["Metro Boomin", "Swae Lee", "Wizkid"],
+                    "explicit": true,
+                    "duration": "3:50"
+                },
+                {
+                    "id": 11,
+                    "path": "3XFwOQU8wxXWl8Rxj3lrOi",
+                    "trackname": "Only You (feat. WizKid, Offset & J Balvin)",
+                    "singers": ["Metro Boomin", "J Balvin", "Wizkid", "Offset"],
+                    "explicit": true,
+                    "duration": "3:38"
+                },
+                {
+                    "id": 12,
+                    "path": "42k9e2hgl98IdgkXLg4pxs",
+                    "trackname": "No More (feat. Travis Scott, Kodak Black & 21 Savage)",
+                    "singers": ["Metro Boomin", "Travis Scott", "Kodak Black", "21 Savage"],
+                    "explicit": true,
+                    "duration": "4:25"
+                },
+                {
+                    "id": 13,
+                    "path": "156LzfvMNKuXuiot4uzhGD",
+                    "trackname": "No Complaints (feat. Offset & Drake) (Bonus)",
+                    "singers": ["Metro Boomin", "Offset", "Drake"],
+                    "explicit": true,
+                    "duration": "4:25"
+                }
+            ],
+            [
+                {
+                    "id": 1,
+                    "path": "64wSIBV7Dl5Hmnhfjfsv1U",
+                    "trackname": "10AM/Save The World - Instrumental",
+                    "singers": ["Metro Boomin"],
+                    "explicit": false,
+                    "duration": "3:46"
+                },
+                {
+                    "id": 2,
+                    "path": "0Bas2DXoMaoIZeWu0j0lJU",
+                    "trackname": "Overdue - Instrumental",
+                    "singers": ["Metro Boomin"],
+                    "explicit": false,
+                    "duration": "2:46"
+                },
+                {
+                    "id": 3,
+                    "path": "4m7wjaJF9SdnoZpZVrD113",
+                    "trackname": "Don't Come Out The House - Instrumental",
+                    "singers": ["Metro Boomin"],
+                    "explicit": false,
+                    "duration": "2:48"
+                },
+                {
+                    "id": 4,
+                    "path": "1zBlx8uMzUxl61MG8nQ9UB",
+                    "trackname": "Dreamcatcher - Instrumental",
+                    "singers": ["Metro Boomin"],
+                    "explicit": false,
+                    "duration": "3:31"
+                },
+                {
+                    "id": 5,
+                    "path": "1NeZpPnNi3DblecF4HIA9h",
+                    "trackname": "Space Cadet - Instrumental",
+                    "singers": ["Metro Boomin"],
+                    "explicit": false,
+                    "duration": "3:23"
+                },
+                {
+                    "id": 6,
+                    "path": "4TGw3fSZwRDlowy9JjiH6r",
+                    "trackname": "10 Freaky Girls - Instrumental",
+                    "singers": ["Metro Boomin"],
+                    "explicit": false,
+                    "duration": "3:28"
+                },
+                {
+                    "id": 7,
+                    "path": "3P4W8dTAemA0eMiHdpdRJi ",
+                    "trackname": "Up To Something - Instrumental",
+                    "singers": ["Metro Boomin"],
+                    "explicit": false,
+                    "duration": "3:04"
+                },
+                {
+                    "id": 8,
+                    "path": "6ruaTcDpv8chViJd7UjScW",
+                    "trackname": "Only 1 (Interlude) - Instrumental",
+                    "singers": ["Metro Boomin"],
+                    "explicit": false,
+                    "duration": "1:20"
+                },
+                {
+                    "id": 9,
+                    "path": "6k73HEwCr5IGj1uU28hrD0",
+                    "trackname": "Lesbian - Instrumental",
+                    "singers": ["Metro Boomin"],
+                    "explicit": false,
+                    "duration": "3:26"
+                },
+                {
+                    "id": 10,
+                    "path": "2VCXaStTlLpvxJh3sqA0Hr",
+                    "trackname": "Borrowed Love - Instrumental",
+                    "singers": ["Metro Boomin"],
+                    "explicit": false,
+                    "duration": "3:50"
+                },
+                {
+                    "id": 11,
+                    "path": "3aYzsatxLLI0a9GyXYHSsP",
+                    "trackname": "Only You - Instrumental",
+                    "singers": ["Metro Boomin"],
+                    "explicit": false,
+                    "duration": "3:38"
+                },
+                {
+                    "id": 12,
+                    "path": "27XmhXaP0eM2wJOrJNJmEJ",
+                    "trackname": "No More - Instrumental",
+                    "singers": ["Metro Boomin"],
+                    "explicit": false,
+                    "duration": "4:05"
+                },
+                {
+                    "id": 13,
+                    "path": "4MkqHw5nlC0HUY58KgAHch",
+                    "trackname": "No Complaints (Instrumental) (Bonus)",
+                    "singers": ["Metro Boomin"],
+                    "explicit": false,
+                    "duration": "4:25"
+                }   
+            ]
+        ]
+    },
+    {
+        "path": "3P2UkOkqWp8ucd1EOnVAH7",
+        "id": 23,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Creepin' (Remix)",
+        "albumsinger": ["Metro Boomin", "The Weeknd", "Diddy"],
+        "albumsingerpath": "0iEtIxbK0KxaSlF7G42ZOp",
+        "albumsingerimagepath": "/metroboomin.jpg",
+        "albumreleaseyear": 2023,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 17,
+        "tracksnumber": 3,
+        "timehour": 0,
+        "timeminute": 11,
+        "timesecond": 15,
+        "upcolorcode": "#8f382f",
+        "downcolorcode": "#650b0a",
+        "textcolorcode": "#ffbeb3",
+        "coverpath": "/creepin_single.jpg",
+        "credits": [
+            "© 2023 Boominati Worldwide, LLC, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2023 Boominati Worldwide, LLC, under exclusive license to Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "5Ee4IyhPaOVRMc15fUOeG9",
+                "trackname": "Creepin' (feat. 21 Savage) - Remix",
+                "singers": ["Metro Boomin", "The Weeknd", "Diddy", "21 Savage"],
+                "explicit": true,
+                "duration": "3:52"
+            },
+            {
+                "id": 2,
+                "path": "1Tr5FhvxC4IlRXYJHCXJdZ",
+                "trackname": "Creepin'",
+                "singers": ["Metro Boomin", "The Weeknd", "21 Savage"],
+                "explicit": true,
+                "duration": "3:41"
+            },
+            {
+                "id": 3,
+                "path": "16FRIbCsgA60AiJpTh2wYX",
+                "trackname": "Creepin' - Instrumental",
+                "singers": ["Metro Boomin"],
+                "explicit": true,
+                "duration": "3:41"
+            }
+        ]
+    },
+    {
+        "path": "42j6ji8hAqwHUpvw2H08SU",
+        "id": 24,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Love Me Harder",
+        "albumsinger": ["Ariana Grande", "The Weeknd"],
+        "albumsingerpath": "00FQb4jTyendYWaN8pK0wa",
+        "albumsingerimagepath": "/arianagrande.jpg",
+        "albumreleaseyear": 2014,
+        "albumreleasemonth": 8,
+        "albumreleasedate": 22,
+        "tracksnumber": 3,
+        "timehour": 0,
+        "timeminute": 11,
+        "timesecond": 45,
+        "upcolorcode": "#535353",
+        "downcolorcode": "#353535",
+        "textcolorcode": "#CDCDCD",
+        "coverpath": "/lovemeharder_single.jpg",
+        "credits": [
+            "© 2014 Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2014 Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "7HE1FnMtSsRotzIAQPXpr5",
+                "trackname": "Love Me Harder",
+                "singers": ["Ariana Grande", "The Weeknd"],
+                "explicit": false,
+                "duration": "3:56"
+            },
+            {
+                "id": 2,
+                "path": "071IQ2wufBbCpB95z7VU7i",
+                "trackname": "Love Me Harder - A Capella",
+                "singers": ["Ariana Grande", "The Weeknd"],
+                "explicit": false,
+                "duration": "3:53"
+            },
+            {
+                "id": 3,
+                "path": "5Lrma6e2xfpi8uGBknkQIt",
+                "trackname": "Love Me Harder - Instrumental",
+                "singers": ["Ariana Grande"],
+                "explicit": false,
+                "duration": "3:56"
+            }
+        ]
+    },
+    {
+        "path": "3bSNhnaQQXpC639OQ4pMyP",
+        "id": 25,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "WE STILL DON'T TRUST YOU",
+        "albumsinger": "Future",
+        "albumsingerpath": "1RyvyyTE3xzB2ZywiAwp0i",
+        "albumsingerimagepath": "/future.jpg",
+        "albumreleaseyear": 2024,
+        "albumreleasemonth": 4,
+        "albumreleasedate": 12,
+        "tracksnumber": 25,
+        "timehour": 1,
+        "timeminute": 28,
+        "timesecond": 0,
+        "upcolorcode": "#525252",
+        "downcolorcode": "#353535",
+        "textcolorcode": "#CDCDCD",
+        "coverpath": "/westilldonttrustyou.jpg",
+        "credits" : ["℗ 2024 Wilburn Holding Co. and Boominati Worldwide, under exclusive license to Epic Records, a division of Sony Music Entertainment. With Republic Records, a division of UMG Recordings, Inc."],
+        "tracks": [[
+            {
+                "id": 1,
+                "path": "7sVbKoBdhXtYCEOO6qC1SN",
+                "trackname": "We Still Don't Trust You",
+                "singers": ["Future", "Metro Boomin", "The Weeknd"],
+                "explicit": true,
+                "duration": "4:12"
+            },
+            {
+                "id": 2,
+                "path": "0SdpzQRdK8BdSV57rn6AZZ",
+                "trackname": "Drink N Dance",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:40"
+            },
+            {
+                "id": 3,
+                "path": "2BOpFmZQ89Rjm2wvmud1MU",
+                "trackname": "Out Of My Hands",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "4:03"
+            },
+            {
+                "id": 4,
+                "path": "4k8XSN1nCJ0rMf4OKF3zEz",
+                "trackname": "Jealous",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:44"
+            },
+            {
+                "id": 5,
+                "path": "5pF8pF6U8ZDGTQmTY71hYn",
+                "trackname": "This Sunday",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:18"
+            },
+            {
+                "id": 6,
+                "path": "6Gf8Op8esgwchp44p1tIDp",
+                "trackname": "Luv Bad Bitches",
+                "singers": ["Future", "Metro Boomin", "Brownstone"],
+                "explicit": true,
+                "duration": "3:16"
+            },
+            {
+                "id": 7,
+                "path": "5sOsYuB0SfyKzAeW3BXHjq",
+                "trackname": "Amazing (Interlude)",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "2:24"
+            },
+            {
+                "id": 8,
+                "path": "0lOQaZwX9AkAiSvObh4G70",
+                "trackname": "All to Myself",
+                "singers": ["Future", "Metro Boomin", "The Weeknd"],
+                "explicit": true,
+                "duration": "4:14"
+            },
+            {
+                "id": 9,
+                "path": "6c0rii1TOf2fvq3hhqqExW",
+                "trackname": "Nights Like This",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:52"
+            },
+            {
+                "id": 10,
+                "path": "0ho8zpOysOSWZM9C4jALaV",
+                "trackname": "Came to the Party",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:18"
+            },
+            {
+                "id": 11,
+                "path": "1Aw7MLqN5oqvIva5KWDpGl",
+                "trackname": "Right 4 You",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:56"
+            },
+            {
+                "id": 12,
+                "path": "20BnS6yXNbYNVgPepicE1W",
+                "trackname": "Mile High Memories",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:39"
+            },
+            {
+                "id": 13,
+                "path": "2Cl3OfIwpKJFyJIimbGPCx",
+                "trackname": "Overload",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:44"
+            },
+            {
+                "id": 14,
+                "path": "3qm3IN6Yx53r3NIououTey",
+                "trackname": "Gracious",
+                "singers": ["Future", "Metro Boomin", "Ty Dolla $ign"],
+                "explicit": true,
+                "duration": "3:06"
+            },
+            {
+                "id": 15,
+                "path": "7lsepdNR69a3PS9pWMNICd",
+                "trackname": "Beat It",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:38"
+            },
+            {
+                "id": 16,
+                "path": "1FIwzmULOKGNmo5bOJqW0P",
+                "trackname": "Always Be My Fault",
+                "singers": ["Future", "Metro Boomin", "The Weeknd"],
+                "explicit": true,
+                "duration": "4:06"
+            },
+            {
+                "id": 17,
+                "path": "40vqMm30NcrokceG9auURz",
+                "trackname": "One Big Family",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "4:05"
+            },
+            {
+                "id": 18,
+                "path": "4Dx4e0X5dR6TW85dtFU42x",
+                "trackname": "Red Leather",
+                "singers": ["Future", "Metro Boomin", "J. Cole"],
+                "explicit": true,
+                "duration": "6:54"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "path": "1oq77Ic0whhb0W7f2a1sh4",
+                "trackname": "#1 (Intro)",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "0:41"
+            },
+            {
+                "id": 2,
+                "path": "7nQXU7lu0RhVOSmsa3teKj",
+                "trackname": "Nobody Knows My Struggle",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:25"
+            },
+            {
+                "id": 3,
+                "path": "6J9ULUfgdVZfWnofbtLkfh",
+                "trackname": "All My Life",
+                "singers": ["Future", "Metro Boomin", "Lil Baby"],
+                "explicit": true,
+                "duration": "3:10"
+            },
+            {
+                "id": 4,
+                "path": "3CWXBLm0HSyJQIoTCFM12e",
+                "trackname": "Crossed Out",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "2:22"
+            },
+            {
+                "id": 5,
+                "path": "3GlQVf7QbQv1bro2mPL3K4",
+                "trackname": "Crazy Clientele",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:09"
+            },
+            {
+                "id": 6,
+                "path": "0cGn4vxyoBftN61XUv2aQk",
+                "trackname": "Show of Hands",
+                "singers": ["Future", "Metro Boomin", "A$AP Rocky"],
+                "explicit": true,
+                "duration": "3:33"
+            },
+            {
+                "id": 7,
+                "path": "4Orf7Hvci6SZrPIoUjGuFY",
+                "trackname": "Streets Made Me A King",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:04"
+            }
+        ]
+    ]
+    },
+    {
+        "path": "4iqbFIdGOTzXeDtt9owjQn",
+        "id": 26,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "WE DON'T TRUST YOU",
+        "albumsinger": "Future",
+        "albumsingerpath": "1RyvyyTE3xzB2ZywiAwp0i",
+        "albumsingerimagepath": "/future.jpg",
+        "albumreleaseyear": 2024,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 22,
+        "tracksnumber": 17,
+        "timehour": 0,
+        "timeminute": 59,
+        "timesecond": 47,
+        "upcolorcode": "#c80000",
+        "downcolorcode": "#640000",
+        "textcolorcode": "#ffbeb1",
+        "coverpath": "/wedonttrustyou.jpg",
+        "credits" : ["℗ 2024 Wilburn Holding Co. and Boominati Worldwide, under exclusive license to Epic Records, a division of Sony Music Entertainment. With Republic Records, a division of UMG Recordings, Inc."],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "1pnDvUuAEd6z8bKEsbAjk1",
+                "trackname": "We Don't Trust You",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:36"
+            },
+            {
+                "id": 2,
+                "path": "3OxL6MuctgZp1e0zxoAZhH",
+                "trackname": "Young Metro",
+                "singers": ["Future", "Metro Boomin", "The Weeknd"],
+                "explicit": true,
+                "duration": "3:25"
+            },
+            {
+                "id": 3,
+                "path": "70ToiXlzl8N1EgfC07ZcZE",
+                "trackname": "Ice Attack",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:19"
+            },
+            {
+                "id": 4,
+                "path": "28drn6tQo95MRvO0jQEo5C",
+                "trackname": "Type Shit",
+                "singers": ["Future", "Metro Boomin", "Travis Scott", "Playboi Carti"],
+                "explicit": true,
+                "duration": "3:48"
+            },
+            {
+                "id": 5,
+                "path": "57ELn9TPDIhrpl0dasS465",
+                "trackname": "Claustrophobic",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:42"
+            },
+            {
+                "id": 6,
+                "path": "2tudvzsrR56uom6smgOcSf",
+                "trackname": "Like That",
+                "singers": ["Future", "Metro Boomin", "Kendrick Lamar"],
+                "explicit": true,
+                "duration": "4:27"
+            },
+            {
+                "id": 7,
+                "path": "2GLWhy9iiO1wrLUF5l4FtJ",
+                "trackname": "Slimed In",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:14"
+            },
+            {
+                "id": 8,
+                "path": "7pBcryEKcUEaWHwAu1wUyP",
+                "trackname": "Magic Don Juan (Princess Diana)",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:40"
+            },
+            {
+                "id": 9,
+                "path": "0hKtu53OlIFXVuYkZwcn3o",
+                "trackname": "Cinderella",
+                "singers": ["Future", "Metro Boomin", "Travis Scott"],
+                "explicit": true,
+                "duration": "2:49"
+            },
+            {
+                "id": 10,
+                "path": "4q7y1JFDBJSBSLqXVgcI51",
+                "trackname": "Runnin Outta Time",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:25"
+            },
+            {
+                "id": 11,
+                "path": "28xOPIPw0joNPwYd0asIT5",
+                "trackname": "Fried (She a Vibe)",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:30"
+            },
+            {
+                "id": 12,
+                "path": "72qABvaqn3TP6drO2tByA6",
+                "trackname": "Ain't No Love",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:02"
+            },
+            {
+                "id": 13,
+                "path": "3Vg7nPYlOrCkcV1abKbRQ1",
+                "trackname": "Everyday Hustle",
+                "singers": ["Future", "Metro Boomin", "Rick Ross"],
+                "explicit": true,
+                "duration": "3:46"
+            },
+            {
+                "id": 14,
+                "path": "4XF9fk0STp9hx8xn5Suwpz",
+                "trackname": "GTA",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "3:53"
+            },
+            {
+                "id": 15,
+                "path": "5imsnhkfPCm3wajS9ksb21",
+                "trackname": "Seen it All",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "2:59"
+            },
+            {
+                "id": 16,
+                "path": "1xwvjqcwflD2NEqRCNcCo2",
+                "trackname": "WTFYM",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "4:52"
+            },
+            {
+                "id": 17,
+                "path": "30TcFxtFyju8isK6Hjo9KY",
+                "trackname": "Where My Twin @ - Bonus",
+                "singers": ["Future", "Metro Boomin"],
+                "explicit": true,
+                "duration": "2:02"
+            }
+        ]
+    },
+    {
+        "path": "0wWL6KM5LuMupJdO4SGiMe",
+        "id": 27,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Undefeated (feat. Lil Keed)",
+        "albumsinger": ["Future"],
+        "albumsingerpath": "1RyvyyTE3xzB2ZywiAwp0i",
+        "albumsingerimagepath": "/future.jpg",
+        "albumreleaseyear": 2019,
+        "albumreleasemonth": 7,
+        "albumreleasedate": 23,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 2,
+        "timesecond": 36,
+        "upcolorcode": "#87080f",
+        "downcolorcode": "#640000",
+        "textcolorcode": "#ffbdb4",
+        "coverpath": "/undefeated_single.jpg",
+        "credits": [
+            "℗ 2019 Epic Records, a division of Sony Music Entertainment. With Freebandz."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "6FZjiSBSQoj1geAgXjvqez",
+                "trackname": "Undefeated (feat. Lil Keed)",
+                "singers": ["Future", "Lil Keed"],
+                "explicit": true,
+                "duration": "2:36"
+            }
+        ]
+    },
+    {
+        "path": "18NOKLkZETa4sWwLMIm0UZ",
+        "id": 28,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "UTOPIA",
+        "albumsinger": "Travis Scott",
+        "albumsingerpath": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "albumsingerimagepath": "/travisscott.jpg",
+        "albumreleaseyear": 2023,
+        "albumreleasemonth": 7,
+        "albumreleasedate": 28,
+        "tracksnumber": 19,
+        "timehour": 1,
+        "timeminute": 13,
+        "timesecond": 0,
+        "upcolorcode": "#504040",
+        "downcolorcode": "#413131",
+        "textcolorcode": "#ddc9c9",
+        "coverpath": "/utopia.jpg",
+        "credits" : ["℗ 2023 Cactus Jack Records under exclusive license to Epic Records, a division of Sony Music Entertainment"],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "0hL9gOw6XBWsygEUcVjxEc",
+                "trackname": "HYAENA",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "3:42"
+            },
+            {
+                "id": 2,
+                "path": "1PH2MDbcBAU094DlgTIND1",
+                "trackname": "THANK GOD",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "3:04"
+            },
+            {
+                "id": 3,
+                "path": "3KCNiDi9Pza6ZD8FggNoaw",
+                "trackname": "MODERN JAM (feat. Teezo Touchdown)",
+                "singers": ["Travis Scott", "Teezo Touchdown"],
+                "explicit": true,
+                "duration": "4:15"
+            },
+            {
+                "id": 4,
+                "path": "4kjI1gwQZRKNDkw1nI475M",
+                "trackname": "MY EYES",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "4:11"
+            },
+            {
+                "id": 5,
+                "path": "04WxWo7XeVyx22xEsrWRUb",
+                "trackname": "COUNTRY",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "2:07"
+            },
+            {
+                "id": 6,
+                "path": "7LSpFCvRZZot2AlmkUzy9k",
+                "trackname": "SIRENS",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "3:24"
+            },
+            {
+                "id": 7,
+                "path": "67nepsnrcZkowTxMWigSbb",
+                "trackname": "MELTDOWN (feat. Drake)",
+                "singers": ["Travis Scott", "Drake"],
+                "explicit": true,
+                "duration": "4:06"
+            },
+            {
+                "id": 8,
+                "path": "42VsgItocQwOQC3XWZ8JNA",
+                "trackname": "FE!N (feat. Playboi Carti)",
+                "singers": ["Travis Scott", "Playboi Carti"],
+                "explicit": true,
+                "duration": "3:11"
+            },
+            {
+                "id": 9,
+                "path": "0OEe83mMZ5kaNw5uZQ7ilG",
+                "trackname": "DELRESTO (ECHOES) (feat. Beyoncé)",
+                "singers": ["Travis Scott", "Beyoncé"],
+                "explicit": false,
+                "duration": "4:34"
+            },
+            {
+                "id": 10,
+                "path": "6wsqVwoiVH2kde4k4KKAFU",
+                "trackname": "I KNOW?",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "3:31"
+            },
+            {
+                "id": 11,
+                "path": "0lodMO0qK83vfPiiD7FMEt",
+                "trackname": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
+                "singers": ["Travis Scott", "Rob49", "21 Savage"],
+                "explicit": true,
+                "duration": "3:43"
+            },
+            {
+                "id": 12,
+                "path": "4GL9GMX9t7Qkprvf1YighZ",
+                "trackname": "CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)",
+                "singers": ["Travis Scott", "The Weeknd", "Swae Lee"],
+                "explicit": true,
+                "duration": "4:18"
+            },
+            {
+                "id": 13,
+                "path": "2Q0aElTZQtEUsoiaQfizu6",
+                "trackname": "PARASAIL (feat. Yung Lean & Dave Chappelle)",
+                "singers": ["Travis Scott", "Yung Lean", "Dave Chappelle"],
+                "explicit": true,
+                "duration": "2:34"
+            },
+            {
+                "id": 14,
+                "path": "0bkV1iQHSxBaksUqgEkcbc",
+                "trackname": "SKITZO (feat. Young Thug)",
+                "singers": ["Travis Scott", "Young Thug"],
+                "explicit": true,
+                "duration": "6:06   "
+            },
+            {
+                "id": 15,
+                "path": "7EiUtdeoWcKqLi5ELZCjYf",
+                "trackname": "LOST FOREVER (feat. Westside Gunn)",
+                "singers": ["Travis Scott", "Westside Gunn"],
+                "explicit": true,
+                "duration": "2:43"
+            },
+            {
+                "id": 16,
+                "path": "0a4SMs889NwP8oWI7Vemle",
+                "trackname": "LOOOVE (feat. Kid Cudi)",
+                "singers": ["Travis Scott", "Kid Cudi"],
+                "explicit": true,
+                "duration": "3:46"
+            },
+            {
+                "id": 17,
+                "path": "4o82J5zr4DFEs9yj5szCVX",
+                "trackname": "K-POP (feat. Bad Bunny & The Weeknd)",
+                "singers": ["Travis Scott", "Bad Bunny", "The Weeknd"],
+                "explicit": true,
+                "duration": "3:05"
+            },
+            {
+                "id": 18,
+                "path": "1i9lZvlaDdWDPyXEE95aiq",
+                "trackname": "TELEKINESIS (feat. SZA & Future)",
+                "singers": ["Travis Scott", "SZA", "Future"],
+                "explicit": true,
+                "duration": "5:53"
+            },
+            {
+                "id": 19,
+                "path": "76gcXhY3Zv6wW0BTe9nHJo",
+                "trackname": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
+                "singers": ["Travis Scott", "James Blake", "21 Savage"],
+                "explicit": true,
+                "duration": "5:14"
+            }
+        ]
+    },
+    {
+        "path": "42WVQWuf1teDysXiOupIZt",
+        "id": 29,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Birds In The Trap Sing McKnight",
+        "albumsinger": "Travis Scott",
+        "albumsingerpath": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "albumsingerimagepath": "/travisscott.jpg",
+        "albumreleaseyear": 2016,
+        "albumreleasemonth": 9,
+        "albumreleasedate": 16,
+        "tracksnumber": 14,
+        "timehour": 0,
+        "timeminute": 53,
+        "timesecond": 45,
+        "upcolorcode": "#af4e47",
+        "downcolorcode": "#640408",
+        "textcolorcode": "#ffbdb4",
+        "coverpath": "/birdsinthetrapsingmcknight.jpg",
+        "credits" : ["℗ 2016 Cactus Jack Records, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment"],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "33zbOXJSwW7uf4VXXWow2O",
+                "trackname": "the ends",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "3:21"
+            },
+            {
+                "id": 2,
+                "path": "2Zy7XVdxyZQB8xp5xbpJdl",
+                "trackname": "way back",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "4:32"
+            },
+            {
+                "id": 3,
+                "path": "7pas6O1LYbaeChEFQBhPFU",
+                "trackname": "coordinate",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "3:46"
+            },
+            {
+                "id": 4,
+                "path": "1Ci4wASMY4xtKVMeHA6Sd5",
+                "trackname": "through the late night",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "4:46"
+            },
+            {
+                "id": 5,
+                "path": "0ESJlaM8CE1jRWaNtwSNj8",
+                "trackname": "beibs in the trap",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "3:33"
+            },
+            {
+                "id": 6,
+                "path": "4gh0ZnHzaTMT1sDga7Ek0N",
+                "trackname": "sdp interlude",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "3:11"
+            },
+            {
+                "id": 7,
+                "path": "01Ch5LzVStxCFPKkT1xg6k",
+                "trackname": "sweet sweet",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "3:42"
+            },
+            {
+                "id": 8,
+                "path": "177WEvlLsCc0FzCTWslawr",
+                "trackname": "outside",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "2:56"
+            },
+            {
+                "id": 9,
+                "path": "6gBFPUFcJLzWGx4lenP6h2",
+                "trackname": "goosebumps",
+                "singers": ["Travis Scott"],
+                "explicit": false,
+                "duration": "4:34"
+            },
+            {
+                "id": 10,
+                "path": "6wwruKU956ldDyz55DZTt1",
+                "trackname": "first take",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "5:13"
+            },
+            {
+                "id": 11,
+                "path": "20dP2DaMHIAmwWAbp7peSr",
+                "trackname": "pick up the phone",
+                "singers": ["Young Thug", "Travis Scott"],
+                "explicit": true,
+                "duration": "4:12"
+            },
+            {
+                "id": 12,
+                "path": "2AGUFka8kBWCM47h5uTlDb",
+                "trackname": "lose",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "3:20"
+            },
+            {
+                "id": 13,
+                "path": "2c2csx4OTYtbkzvbSTXlGY",
+                "trackname": "guidance",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "3:27"
+            },
+            {
+                "id": 14,
+                "path": "1cZlBZwnwGPtYeRIeQcoFh",
+                "trackname": "wonderful",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "3:36"
+            }
+        ]
+    },
+    {
+        "path": "5HAxzyUfyay8NElNaehsNe",
+        "id": 30,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "4X4",
+        "albumsinger": ["Travis Scott"],
+        "albumsingerpath": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "albumsingerimagepath": "/travisscott.jpg",
+        "albumreleaseyear": 2025,
+        "albumreleasemonth": 1,
+        "albumreleasedate": 24,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 3,
+        "timesecond": 10,
+        "upcolorcode": "#382020",
+        "downcolorcode": "#382020",
+        "textcolorcode": "#e7c6c5",
+        "coverpath": "/4x4_single.jpg",
+        "credits": [
+            "℗ 2025 Cactus Jack Records under exclusive license to Epic Records, a division of Sony Music Entertainment"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "6s8WSX1MxNThrot8ThI6fG",
+                "trackname": "4X4",
+                "singers": ["Travis Scott"],
+                "explicit": true,
+                "duration": "3:10"
+            }
+        ]
+    },
+    {
+        "path": "4g1ZRSobMefqF6nelkgibi",
+        "id": 31,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Hollywood's Bleeding",
+        "albumsinger": "Post Malone",
+        "albumsingerpath": "246dkjvS1zLTtiykXe5h60",
+        "albumsingerimagepath": "/postmalone.jpg",
+        "albumreleaseyear": 2019,
+        "albumreleasemonth": 4,
+        "albumreleasedate": 27,
+        "tracksnumber": 18,
+        "timehour": 1,
+        "timeminute": 4,
+        "timesecond": 0,
+        "upcolorcode": "#277685",
+        "downcolorcode": "#003a48",
+        "textcolorcode": "#8cd9ea",
+        "coverpath": "/hollywoodsbleeding.jpg",
+        "credits" : [
+            "© 2019 Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2019 Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "7sWRlDoTDX8geTR8zzr2vt",
+                "trackname": "Hollywood's Bleeding",
+                "singers": ["Post Malone"],
+                "explicit": false,
+                "duration": "2:36"
+            },
+            {
+                "id": 2,
+                "path": "05mDaV9Vb3wrzjF6OPZnhq",
+                "trackname": "Saint-Tropez",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "2:30"
+            },
+            {
+                "id": 3,
+                "path": "0Xek5rqai2jcOWCYWJfVCF",
+                "trackname": "Enemies (feat. DaBaby)",
+                "singers": ["Post Malone", "DaBaby"],
+                "explicit": true,
+                "duration": "3:16"
+            },
+            {
+                "id": 4,
+                "path": "1YscJ7yVTlFxW3eF6pv5ba",
+                "trackname": "Allergic",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "2:36"
+            },
+            {
+                "id": 5,
+                "path": "2J0NXdHr6MYvKDSxB7k3V2",
+                "trackname": "A Thousand Bad Times",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "3:41"
+            },
+            {
+                "id": 6,
+                "path": "21jGcNKet2qwijlDFuPiPb",
+                "trackname": "Circles",
+                "singers": ["Post Malone"],
+                "explicit": false,
+                "duration": "3:35"
+            },
+            {
+                "id": 7,
+                "path": "2C6WXnmZ66tHhHlnvwePiK",
+                "trackname": "Die For Me (feat. Future & Halsey)",
+                "singers": ["Post Malone", "Halsey", "Future"],
+                "explicit": true,
+                "duration": "4:05"
+            },
+            {
+                "id": 8,
+                "path": "12Fkyg9lpmaz2zmKOfw2Y2",
+                "trackname": "On The Road (feat. Meek Mill & Lil Baby)",
+                "singers": ["Post Malone", "Meek Mill", "Lil Baby"],
+                "explicit": true,
+                "duration": "3:38"
+            },
+            {
+                "id": 9,
+                "path": "7CZyCXKG6d5ALeq41sLzbw",
+                "trackname": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
+                "singers": ["Post Malone", "Ozzy Osbourne", "Travis Scott"],
+                "explicit": false,
+                "duration": "3:49"
+            },
+            {
+                "id": 10,
+                "path": "1ckLp8lCl8LipXI0ypX72m",
+                "trackname": "I'm Gonna Be",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "3:20"
+            },
+            {
+                "id": 11,
+                "path": "5KE9b4x7Zj2A8XtbkqhqTe",
+                "trackname": "Staring At The Sun (feat. SZA)",
+                "singers": ["Post Malone", "SZA"],
+                "explicit": true,
+                "duration": "2:48"
+            },
+            {
+                "id": 12,
+                "path": "0RiRZpuVRbi7oqRdSMwhQY",
+                "trackname": "Sunflower - Spider-Man: Into the Spider-Verse",
+                "singers": ["Post Malone", "Swae Lee"],
+                "explicit": false,
+                "duration": "2:37"
+            },
+            {
+                "id": 13,
+                "path": "0KAzP1Rbp0Vz5pw8i1KDDI",
+                "trackname": "Internet",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "2:03"
+            },
+            {
+                "id": 14,
+                "path": "0t3ZvGKlmYmVsDzBJAXK8C",
+                "trackname": "Goodbyes (feat. Young Thug)",
+                "singers": ["Post Malone", "Young Thug"],
+                "explicit": true,
+                "duration": "2:54"
+            },
+            {
+                "id": 15,
+                "path": "2cvOfKHOHgwQlLiuLKP2xR",
+                "trackname": "Myself",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "2:38"
+            },
+            {
+                "id": 16,
+                "path": "6b2mfHMqWCA74XmUuVJm8r",
+                "trackname": "I Know",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "2:21"
+            },
+            {
+                "id": 17,
+                "path": "7xQAfvXzm3AkraOtGPWIZg",
+                "trackname": "Wow.",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "2:29"
+            }
+        ]
+    },
+    {
+        "path": "6trNtQUgC8cgbWcqoMYkOR",
+        "id": 32,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "beerbongs & bentleys",
+        "albumsinger": "Post Malone",
+        "albumsingerpath": "246dkjvS1zLTtiykXe5h60",
+        "albumsingerimagepath": "/postmalone.jpg",
+        "albumreleaseyear": 2018,
+        "albumreleasemonth": 4,
+        "albumreleasedate": 27,
+        "tracksnumber": 18,
+        "timehour": 1,
+        "timeminute": 4,
+        "timesecond": 0,
+        "upcolorcode": "#989898",
+        "downcolorcode": "#353535",
+        "textcolorcode": "#CDCDCD",
+        "coverpath": "/beerbongsbentleys.jpg",
+        "credits" : [
+            "© 2019 Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2019 Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "3fpVWegR6YOS1Yk5HSMYIq",
+                "trackname": "Paranoid",
+                "singers": ["Post Malone"],
+                "explicit": false,
+                "duration": "3:41"
+            },
+            {
+                "id": 2,
+                "path": "5VuxWXbt7XENQCtE9TzpTv",
+                "trackname": "Spoil My Night (feat. Swae Lee)",
+                "singers": ["Post Malone", "Swae Lee"],
+                "explicit": true,
+                "duration": "3:14"
+            },
+            {
+                "id": 3,
+                "path": "2VdT56BGpdqNHUgOe1j5vc",
+                "trackname": "Rich & Sad",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "3:16"
+            },
+            {
+                "id": 4,
+                "path": "5lZZmityu9TAjNvSY6GLhR",
+                "trackname": "Zack And Codeine",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "3:24"
+            },
+            {
+                "id": 5,
+                "path": "5ffntNJnJOeFv7b7DCd0Bw",
+                "trackname": "Takin' Shots",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "3:36"
+            },
+            {
+                "id": 6,
+                "path": "0e7ipj03S05BNilyu5bRzt",
+                "trackname": "rockstar (feat. 21 Savage)",
+                "singers": ["Post Malone", "21 Savage"],
+                "explicit": true,
+                "duration": "3:38"
+            },
+            {
+                "id": 7,
+                "path": "09IOPhEh1OMe0HD9b36FJk",
+                "trackname": "Over Now",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "4:06"
+            },
+            {
+                "id": 8,
+                "path": "3swc6WTsr7rl9DqQKQA55C",
+                "trackname": "Psycho (feat. Ty Dolla $ign)",
+                "singers": ["Post Malone", "Ty Dolla $ign"],
+                "explicit": true,
+                "duration": "3:41"
+            },
+            {
+                "id": 9,
+                "path": "7dt6x5M1jzdTEt8oCbisTK",
+                "trackname": "Better Now",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "3:51"
+            },
+            {
+                "id": 10,
+                "path": "6IaieqiCVvsNvEt6Y7yOFa",
+                "trackname": "Ball For Me (feat. Nicki Minaj)",
+                "singers": ["Post Malone", "Nicki Minaj"],
+                "explicit": true,
+                "duration": "3:26"
+            },
+            {
+                "id": 11,
+                "path": "4qWCFTuNnmGNdY4egtb4ZY",
+                "trackname": "Otherside",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "3:48"
+            },
+            {
+                "id": 12,
+                "path": "4H7WNRErSbONkM06blBoGc",
+                "trackname": "Stay",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "3:24"
+            },
+            {
+                "id": 13,
+                "path": "1ZemPoaj7LBj1RAQrb89EC",
+                "trackname": "Blame It On Me",
+                "singers": ["Post Malone"],
+                "explicit": false,
+                "duration": "4:21"
+            },
+            {
+                "id": 14,
+                "path": "688QpQAwqsLdBR6lr13wK1",
+                "trackname": "Same Bitches (feat. G-Eazy & YG)",
+                "singers": ["Post Malone", "G-Eazy", "YG"],
+                "explicit": true,
+                "duration": "3:52"
+            },
+            {
+                "id": 15,
+                "path": "0R6Jlsq25eZB3Wftpxi3oF",
+                "trackname": "Jonestown (Interlude)",
+                "singers": ["Post Malone"],
+                "explicit": false,
+                "duration": "1:52"
+            },
+            {
+                "id": 16,
+                "path": "1D2L6MefbXon28PzIk9I3r",
+                "trackname": "92 Explorer",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "3:31"
+            },
+            {
+                "id": 17,
+                "path": "32lItqlMi4LBhb4k0BaSaC",
+                "trackname": "Candy Paint",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "3:47"
+            },
+            {
+                "id": 18,
+                "path": "0MrRAUcB8AZiB9ue2VOBYe",
+                "trackname": "Sugar Wraith",
+                "singers": ["Post Malone"],
+                "explicit": true,
+                "duration": "3:48"
+            }
+        ]
+    },
+    {
+        "path": "6fgSKdHloRioPrZ9oJC7FH",
+        "id": 33,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "One Right Now",
+        "albumsinger": ["Post Malone", "The Weeknd"],
+        "albumsingerpath": "246dkjvS1zLTtiykXe5h60  ",
+        "albumsingerimagepath": "/postmalone.jpg",
+        "albumreleaseyear": 2021,
+        "albumreleasemonth": 11,
+        "albumreleasedate": 5   ,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 3,
+        "timesecond": 13,
+        "upcolorcode": "#c03810",
+        "downcolorcode": "#640000",
+        "textcolorcode": "#ffbeaa",
+        "coverpath": "/onerightnow_single.jpg",
+        "credits": [
+            "© 2021 Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2021 Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "6fgSKdHloRioPrZ9oJC7FH",
+                "trackname": "One Right Now",
+                "singers": ["Post Malone", "The Weeknd"],
+                "explicit": true,
+                "duration": "3:13"
+            }
+        ]
+    },
+    {
+        "path": "1woYXxyyxTQJ0E0AhZE6mj",
+        "id": 34,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "I Had Some Help",
+        "albumsinger": ["Post Malone", "Morgan Wallen"],
+        "albumsingerpath": "246dkjvS1zLTtiykXe5h60",
+        "albumsingerimagepath": "/postmalone.jpg",
+        "albumreleaseyear": 2025,
+        "albumreleasemonth": 5,
+        "albumreleasedate": 10,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 2,
+        "timesecond": 58,
+        "upcolorcode": "#556e8d",
+        "downcolorcode": "#213653",
+        "textcolorcode": "#b5d0f3",
+        "coverpath": "/ihadsomehelp_single.jpg",
+        "credits": [
+            "© 2024 Mercury Records/Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2024 Mercury Records/Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "7221xIgOnuakPdLqT0F3nP",
+                "trackname": "I Had Some Help (Feat. Morgan Wallen)",
+                "singers": ["Post Malone", "Morgan Wallen"],
+                "explicit": true,
+                "duration": "2:58"
             }
         ]
     }

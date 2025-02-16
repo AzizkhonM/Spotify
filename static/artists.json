@@ -28,9 +28,13 @@
         "44MHvpU3h9Wp6SxhsC9GOK",
         "2IRxVVqbSbqHJo8Zx50LYn",
         "0MwPArEeQJx5GMc5Sz7kRV",
+        "3P2UkOkqWp8ucd1EOnVAH7",
         "1OARrXe5sB0gyy3MhQ8h92",
+        "6fgSKdHloRioPrZ9oJC7FH",
         "4yP0hdKOZPNshxUOjY0cZj",
-        "2ODvWsOgouMbaA5xf0RkJe"
+        "0NSognr1k6PH6SZZ6uv44G",
+        "2ODvWsOgouMbaA5xf0RkJe",
+        "42j6ji8hAqwHUpvw2H08SU"
       ],
       "popular": [
         "3OxfaVgvTxUTy7276t7SPU",
@@ -90,7 +94,8 @@
       "6D8y7Bck8h11byRY88Pt2z",
       "5b5cPscqVEMChvDqscVw26",
       "1AVtceapuF36oZqI9gzp0o",
-      "1imMjt1YGNebtrtTAprKV7"
+      "1imMjt1YGNebtrtTAprKV7",
+      "76cy1WJvNGJTj78UqeA5zr"
     ],
     "artistpick": {
       "path": "1Mo92916G2mmG7ajpmSVrc",
@@ -158,7 +163,8 @@
     "artistbackimage": "/arianagrande_back.jpg",
     "monthlylisteners": 84532872,
     "populartracks": [
-      "51ZQ1vr10ffzbwIjDCwqm4"
+      "51ZQ1vr10ffzbwIjDCwqm4",
+      "0Lmbke3KNVFXtoH2mMSHCw"
     ],
     "artistpick": {
       "path": "5EYKrEDnKhhcNxGedaRQeK",
@@ -168,7 +174,8 @@
     "discography": {
       "all": [
         "5EYKrEDnKhhcNxGedaRQeK",
-        "3euz4vS7ezKGnNSwgyvKcd"
+        "3euz4vS7ezKGnNSwgyvKcd",
+        "42j6ji8hAqwHUpvw2H08SU"
       ],
       "popular": [
         "5EYKrEDnKhhcNxGedaRQeK",
@@ -212,7 +219,7 @@
   },
   {
     "path": "6qqNVTkY8uBg9cP3Jd7DAH",
-    "id": 3,
+    "id": 4,
     "name": "Billie Eilish",
     "verified": true,
     "followed": true,
@@ -274,6 +281,428 @@
         }
       ],
       "briefinfo": "Billie Eilish remains one of the biggest stars to emerge in the 21st century. Her third studio album, HIT ME HARD AND SOFT features 10 tracks written and recorded in her hometown of Los Angeles, with her brother and producer FINNEAS. In 2019, her debut album WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? debuted at No. 1 in 18 countries, and was the most streamed album of that year. In 2021, her sophomore album 'Happier Than Ever’ debuted at #1 in 20 countries. Both albums were critically acclaimed worldwide and were written, produced, and recorded entirely by Billie Eilish and FINNEAS. 9-time GRAMMY® Award-winning Billie Eilish has made history as the youngest artist to receive nominations and win in all the major GRAMMY® categories, receiving an award for Best New Artist, Album of the Year, Record of the Year, Song of the Year, and Best Pop Vocal Album, and is the youngest artist to write and record an official James Bond theme song, ‘No Time To Die,’ which won an Academy Award for Best Original Song in 2022. In 2023, Eilish also wrote and released the critically acclaimed song “What Was I Made For?” for the Greta Gerwig-directed motion picture Barbie, which also won Academy and Golden Globe Award for Best Original Song, two GRAMMY® Awards for Song of the Year and Best Song Written For Visual Media, and has solidified Billie Eilish yet again in the history books as the youngest person ever to win two Academy Awards."
+    }
+  },
+  {
+    "path": "5INjqkS1o8h1imAzPqGZBb",
+    "id": 5,
+    "name": "Tame Impala",
+    "verified": true,
+    "followed": true,
+    "color": "53, 53, 53",
+    "artistimage": "/tameimpala.jpg",
+    "artistbackimage": "/tameimpala_back.jpg",
+    "monthlylisteners": 26373751,
+    "populartracks": [
+      "6K4t31amVTZDgR3sKmwUJJ",
+      "5hM5arv9KDbCHS0k9uqwjr",
+      "2X485T9Z5Ly0xyaghN73ed",
+      "52ojopYMUzeNcudsoz7O9D",
+      "5M4yti0QxgqJieUYaEXcpw",
+      "0mO6oS60RST2sWmN2FKknP"
+    ],
+    "artistpick": {
+      "path": "79dL7FLiJFOO0EoehUHQBv",
+      "coverpath": "/currents.jpg",
+      "albumname": "Currents"
+    },
+    "discography": {
+      "all": [
+        "31qVWUdRrlb8thMvts0yYL",
+        "79dL7FLiJFOO0EoehUHQBv"
+      ],
+      "popular": [
+        "79dL7FLiJFOO0EoehUHQBv",
+        "31qVWUdRrlb8thMvts0yYL"
+      ]
+    },
+    "about": {
+      "rankintheworld": 207,
+      "followers": 8587006,
+      "mostlistenedplaces": [
+        {
+          "place": "Sydney, AU",
+          "listenersnumber": 405014
+        },
+        {
+          "place": "London, GB",
+          "listenersnumber": 395138
+        },
+        {
+          "place": "Los Angeles, US",
+          "listenersnumber": 382368
+        },
+        {
+          "place": "Melbourne, AU",
+          "listenersnumber": 353681
+        },
+        {
+          "place": "Mexico City, MX",
+          "listenersnumber": 341103
+        }
+      ],
+      "socialmediaweb": [
+        {
+          "Facebook": "https://www.facebook.com/tameimpala/",
+          "Instagram": "https://www.instagram.com/tameimpala/",
+          "Twitter": "https://www.x.com/tameimpala/",
+          "Wikipedia": "https://en.wikipedia.org/wiki/Tame_Impala"
+        }
+      ],
+      "briefinfo": "Tame Impala (Kevin Parker) has officially released his fourth studio album, The Slow Rush. Featuring the tracks Lost In Yesterday, Borderline & It Might Be Time. The Slow Rush was recorded between Los Angeles and Parker’s studio in his hometown of Fremantle, Australia. The twelve tracks were written, recorded, produced and mixed by Parker. The Slow Rush is Parker’s deep dive into the oceans of time, conjuring the feeling of a lifetime in a lightning bolt, of major milestones whizzing by while you’re looking at your phone, it’s a paean to creation and destruction and the unending cycle of life. In support of The Slow Rush, Tame Impala will tour across North America, Australia & New Zealand, and the UK in the coming months. Thanks to the ravenous demand of fans for a transcendent live performance, Tame Impala has headlined festivals and theatres around the world and released three full length albums - Innerspeaker, Lonerism and Currents. As a writer and producer Parker has collaborated with Travis Scott, SZA, Lady Gaga, Mark Ronson, Kanye West, Kali Uchis, Theophilus London, Miguel, A$AP Rocky and more."
+    }
+  },
+  {
+    "path": "00FQb4jTyendYWaN8pK0wa",
+    "id": 6,
+    "name": "Lana Del Rey",
+    "verified": true,
+    "followed": true,
+    "color": "45, 52, 68",
+    "artistimage": "/lanadelrey.jpg",
+    "artistbackimage": "/lanadelrey_back.jpg",
+    "monthlylisteners": 61389217,
+    "populartracks": [
+      "3BJe4B8zGnqEdQPMvfVjuS",
+      "5ZDKPFRZC6QlJpf8bCIXTs",
+      "5Y6nVaayzitvsD5F7nr3DV",
+      "1NZs6n6hl8UuMaX0UC0YTz",
+      "0fBSs3fRoh1yJcne77fdu9",
+      "2vtmY2mSccRzKGjtcHSzI3"
+    ],
+    "artistpick": {
+      "path": "1ORxRsK3MrSLvh7VQTF01F",
+      "coverpath": "/ultraviolencedeluxe.jpg",
+      "albumname": "Ultraviolence (Deluxe)"
+    },
+    "discography": {
+      "all": [
+        "0NSognr1k6PH6SZZ6uv44G",
+        "1ORxRsK3MrSLvh7VQTF01F",
+        "5VoeRuTrGhTbKelUfwymwu"
+      ],
+      "popular": [
+        "1ORxRsK3MrSLvh7VQTF01F",
+        "5VoeRuTrGhTbKelUfwymwu"
+      ]
+    },
+    "about": {
+      "rankintheworld": 26,
+      "followers": 44687754,
+      "mostlistenedplaces": [
+        {
+          "place": "Jakarta, ID",
+          "listenersnumber": 1330185
+        },
+        {
+          "place": "London, GB",
+          "listenersnumber": 772081
+        },
+        {
+          "place": "São Paulo, BR",
+          "listenersnumber": 647234
+        },
+        {
+          "place": "Mexico City, MX",
+          "listenersnumber": 629197
+        },
+        {
+          "place": "Sydney, AU",
+          "listenersnumber": 581897
+        }
+      ],
+      "socialmediaweb": [
+        {
+          "Facebook": "https://www.facebook.com/lanadelrey/",
+          "Instagram": "https://www.instagram.com/lanadelrey/",
+          "Twitter": "https://www.x.com/lanadelrey/",
+          "Wikipedia": "https://uz.wikipedia.org/wiki/Lana_Del_Rey"
+        }
+      ],
+      "briefinfo": "."
+    }
+  },
+  {
+    "path": "0iEtIxbK0KxaSlF7G42ZOp",
+    "id": 7,
+    "name": "Metro Boomin",
+    "verified": true,
+    "followed": false,
+    "color": "8, 55, 71",
+    "artistimage": "/metroboomin.jpg",
+    "artistbackimage": "/metroboomin_back.jpg",
+    "monthlylisteners": 49674236,
+    "populartracks": [
+      "2tudvzsrR56uom6smgOcSf",
+      "2Hh3ETdQKrmSI3QS0hme7g",
+      "5wG3HvLhF6Y5KTGlK0IW3J",
+      "2dHHgzDwk4BJdRwy9uXhTO",
+      "0vjeOZ3Ft5jvAi9SBFJm1j",
+      "1fewSx2d5KIZ04wsooEBOz"
+    ],
+    "artistpick": {
+      "path": "7txGsnDSqVMoRl6RQ9XyZP",
+      "coverpath": "/heroesvillains.jpg",
+      "albumname": "Heroes & Villains"
+    },
+    "discography": {
+      "all": [
+        "3bSNhnaQQXpC639OQ4pMyP",
+        "4iqbFIdGOTzXeDtt9owjQn",
+        "3P2UkOkqWp8ucd1EOnVAH7",
+        "7txGsnDSqVMoRl6RQ9XyZP",
+        "3IO8IPjwXuzPJnoaqkwYrj"
+      ],
+      "popular": [
+        "7txGsnDSqVMoRl6RQ9XyZP",
+        "4iqbFIdGOTzXeDtt9owjQn",
+        "3IO8IPjwXuzPJnoaqkwYrj",
+        "3bSNhnaQQXpC639OQ4pMyP"
+      ]
+    },
+    "about": {
+      "rankintheworld": 53,
+      "followers": 10423586,
+      "mostlistenedplaces": [
+        {
+          "place": "Los Angeles, US",
+          "listenersnumber": 691937
+        },
+        {
+          "place": "Chicago, US",
+          "listenersnumber": 668386
+        },
+        {
+          "place": "London, GB",
+          "listenersnumber": 648196
+        },
+        {
+          "place": "New York City, US",
+          "listenersnumber": 610025
+        },
+        {
+          "place": "Dallas, US",
+          "listenersnumber": 606030
+        }
+      ],
+      "socialmediaweb": [
+        {
+          "Facebook": "https://www.facebook.com/MetroBoomin/",
+          "Instagram": "https://www.instagram.com/metroboomin/",
+          "Twitter": "https://www.x.com/MetroBoomin/",
+          "Wikipedia": "https://en.wikipedia.org/wiki/Metro_Boomin"
+        }
+      ],
+      "briefinfo": "St. Louis-raised, Atlanta-based producer Metro Boomin is the master of a street-oriented sound that is jet-black and low-gloss, sufficiently reflected in his alias. Within five years of his first output with Future,  he amassed well over a dozen Top 20 R&B/hip-hop hits and a similar quantity of gold and platinum RIAA certifications. Since his early half-decade roll of success working with the likes of Future, iLoveMakkonen, Drake, Migos, and Post Malone -- with \"Honest,\" \"Tuesday,\" \"Jumpman,\" \"Bad and Boujee,\" and \"Congratulations\" among his biggest hits -- Metro has remained a marquee name. He crowned the Billboard 200 with Not All Heroes Wear Capes (2018), his first solo album, and made return trips to the top spot with Savage Mode II (a 2020 duo LP with 21 Savage) and his Grammy-nominated sophomore set, Heroes & Villains (2022). He branched out to film in 2023, helming the soundtrack to Spider-Man: Across the Spider-Verse. WE DON'T TRUST YOU and WE STILL DON'T TRUST YOU, his first two full albums co-billed with Future, topped the charts in 2024.\n\nMetro Boomin got into production during his early teens and also rapped, though he eventually opted to devote all his energy to beatmaking. He connected with artists through social media, and prior to graduating high school, he'd logged thousands of miles on round trips to Atlanta, where he worked with the likes of OJ da Juiceman and, eventually, Gucci Mane and Future. Metro fulfilled his mother's dream with his acceptance to the conveniently located Morehouse College, but he dropped out and invested more in making music than in studying business management.\n\nIn 2013, Metro's name was on Billboard charts for the first time as the producer of Future's \"Karate Chop\" and \"Honest.\" Just after the latter single was officially released, he self-released 19 & Boomin. Once iLoveMakkonen's \"Tuesday,\" another early triumph, hit the R&B/hip-hop Top Ten the following year, Metro was a constant presence near the top of that chart. Drake and Future's \"Jumpman\" and Future's \"Low Life\" were among the early 2016 hits, followed later in the year by \"X\" -- taken from Savage Mode, his self-released EP made with 21 Savage -- and Migos' \"Bad and Boujee,\" which eventually topped the R&B/hip-hop and pop charts.\n\nAmong Metro Boomin's subsequent hits throughout a notable 2017 were Big Sean's \"Bounce Back,\" Post Malone's \"Congratulations,\" Kodak Black's \"Tunnel Vision,\" and Future's \"Mask Off.\" The year remained a busy one, as Metro later released a trio of collaborative mixtapes: Perfect Timing (with NAV), Without Warning (with Offset and 21 Savage), and Double or Nothing (Big Sean). The following year brought even more success for Metro, not only for his input on notable albums by Nicki Minaj and Lil Wayne but also for his own project, Not All Heroes Wear Capes. The album topped the Billboard 200 upon release in November 2018 and yielded a pair of platinum singles with \"No Complaints,\" featuring Offset and Drake, and \"Space Cadet,\" on which Metro was joined by Gunna.\n\nIn 2020, Metro Boomin resumed his partnership with 21 Savage and delivered another Billboard 200 topper, Savage Mode II. Four of its tracks, including \"Glock in My Lap,\" hit the Top 40. Metro scored a third Billboard 200 album in 2022 with his sophomore album, Heroes & Villains. The set contained another quartet of Top 40 entries, most notably the chart-topping platinum hit \"Creepin',\" a collaboration with the Weeknd and 21 Savage that interpolated Mario Winans' \"I Don't Wanna Know.\" He kept the train of number ones rolling in 2023 with the soundtrack to Spider-Man: Across the Spider-Verse, which arrived that June alongside the animated blockbuster. In addition to featuring the likes of Lil Wayne, Offset, Future, James Blake, and many more, the compilation also included the hit single \"Calling\" with Swae Lee, Nav, and A Boogie wit da Hoodie. Heroes & Villains received a nomination for Best Rap Album at the 66th Annual Grammy Awards, while Metro Boomin himself was nominated for Producer of the Year, Non-Classical. After contributing heavily to 21 Savage's chart-topping 2024 album, American Dream, Metro Boomin teamed up with longtime collaborator Future for the full-length WE DON'T TRUST YOU. The album topped the Billboard 200 in its opening week, while the single \"Like That\" was also a number one hit. Three weeks after the album was released, it was followed by WE STILL DON'T TRUST YOU, a distinct album and not a deluxe edition of the first collaboration. Once again, it reached number one. ~ Andy Kellman, Rovi"
+    }
+  },
+  {
+    "path": "1RyvyyTE3xzB2ZywiAwp0i",
+    "id": 8,
+    "name": "Future",
+    "verified": true,
+    "followed": false,
+    "color": "53, 53, 53",
+    "artistimage": "/future.jpg",
+    "artistbackimage": "/future_back.jpg",
+    "monthlylisteners": 59513113,
+    "populartracks": [
+      "2tudvzsrR56uom6smgOcSf",
+      "28drn6tQo95MRvO0jQEo5C",
+      "2Hh3ETdQKrmSI3QS0hme7g",
+      "637oNhilCI9UlkWkUW4Grt",
+      "0vjeOZ3Ft5jvAi9SBFJm1j",
+      "6FZjiSBSQoj1geAgXjvqez"
+    ],
+    "artistpick": {
+      "path": "3bSNhnaQQXpC639OQ4pMyP",
+      "coverpath": "/westilldonttrustyou.jpg",
+      "albumname": "WE STILL DON'T TRUST YOU"
+    },
+    "discography": {
+      "all": [
+        "3bSNhnaQQXpC639OQ4pMyP",
+        "4iqbFIdGOTzXeDtt9owjQn",
+        "0wWL6KM5LuMupJdO4SGiMe"
+      ],
+      "popular": [
+        "4iqbFIdGOTzXeDtt9owjQn",
+        "3bSNhnaQQXpC639OQ4pMyP"
+      ]
+    },
+    "about": {
+      "rankintheworld": 32,
+      "followers": 20423951,
+      "mostlistenedplaces": [
+        {
+          "place": "London, GB",
+          "listenersnumber": 952017
+        },
+        {
+          "place": "Los Angeles, US",
+          "listenersnumber": 875439
+        },
+        {
+          "place": "Chicago, US",
+          "listenersnumber": 843857
+        },
+        {
+          "place": "New York City, US",
+          "listenersnumber": 809932
+        },
+        {
+          "place": "Dallas, US",
+          "listenersnumber": 772969
+        }
+      ],
+      "socialmediaweb": [
+        {
+          "Instagram": "https://www.instagram.com/future/",
+          "Twitter": "https://www.x.com/1future",
+          "Wikipedia": "https://en.wikipedia.org/wiki/Future_(rapper)"
+        }
+      ],
+      "briefinfo": "Chart-topping and influential rapper Future is known for a uniquely fluid and melodic yet mumbling vocal style. He busted out of the South at the dawn of the 2010s with a flurry of mixtapes, high-charting albums, certified platinum singles, and contributions to several other hits as a featured artist, then continued to hover at the top of his game, both commercially and creatively, in the years that followed. After he scored his first hit via a guest spot on YC's \"Racks\" (2011), Future quickly became a key factor in Atlanta's grip on the Billboard charts, often with production support from fellow ATL natives and dwellers such as Metro Boomin, Mike WiLL Made-It, Sonny Digital, and Southside. By the end of 2017, Future had amassed 32 Top Ten R&B/hip-hop hits as a headliner and featured artist. Meanwhile, 11 full-length projects -- including an all-platinum run of DS2 (2015), Evol (2016), and Future (2017) -- debuted within the Top Five of the Billboard 200. Future capped off the 2010s by adding to his Top 20 tally with the Grammy-winning \"King's Dead,\" co-producing a remake of Super Fly, and hitting the top of the Billboard 200 again with The Wizrd (2019). He has since returned to the throne with several projects, including High Off Life (2020), WE DON'T TRUST YOU/WE STILL DON'T TRUST YOU (with Metro Boomin, 2024), and Mixtape Pluto (2024).\n\nBorn Nayvadius Wilburn, Future grew up in his city's Zone 6 section with roots in the ATL's Dungeon Family, who dubbed him \"the Future.\" Mentored by cousin and fellow Dungeon Family member Rico Wade of the revered Organized Noize, Future released his first mixtapes in 2010 and early 2011, which left him poised for a mainstream breakthrough. A few months after the January 2011 release of his third mixtape, Future was featured on YC's \"Racks,\" a single that bubbled up to the Top Ten of Billboard's Hot R&B/Hip-Hop chart. Shortly thereafter, the rapper signed with major label Epic, and \"Tony Montana,\" his proper debut single, subsequently peaked just outside the Top 20. Its parent album, Pluto, landed the following April and debuted at number two on the Billboard 200, supported by the number two R&B/hip-hop hit \"Turn on the Lights,\" which earned Future his first RIAA platinum certification. No new studio albums were released in 2013, but Future's year was productive as a guest artist. He appeared on four Top Ten R&B/hip-hop hits that went either gold or platinum: Lil Wayne's \"Love Me,\" Ace Hood's \"Bugatti,\" Rich Gang's \"Tapout,\" and Rocko's \"U.O.E.N.O.\" He also appeared on a remix of \"Body Party\" by Ciara, who became his fiancée that October.\n\nFuture's second full-length album, Honest, was issued in April 2014. It earned both critical acclaim and popular success and peaked at number two. Two singles from the album, \"Move That Dope\" (featuring Pharrel, Pusha T, and Casino) and \"I Won\" (co-produced by frequent collaborator Metro Boomin and featuring Kanye West), went gold. A few months after the album's release, Future and Ciara's split was made public. Late 2014 and early 2015 brought three mixtapes and another hit single, \"Fuck Up Some Commas.\" They primed Future fans for third album DS2, which debuted at number one in July 2015. Only two months later, What a Time to Be Alive, a mixtape collaboration with Drake, reached the same spot.\n\nIn early 2016, Future released Evol, which arrived unannounced but still debuted at number one on the Billboard 200. Its single \"Low Life,\" a collaboration with the Weeknd, quickly went double platinum. In November of that year, Future issued another Drake-assisted hit, \"Used to This,\" from his Beast Mode 16 mixtape. The roll continued through 2017 with a pair of full-lengths, Future and HNDRXX. Issued during consecutive weeks that February, the two albums kept Future's streak of number ones intact, while the former, featuring the Top Ten pop hit \"Mask Off,\" became the rapper's third consecutive platinum solo full-length. Later that year, he hopped onto Ty Dolla $ign's \"Don't Judge Me\" with Swae Lee before issuing Super Slimey, a joint effort with Young Thug.\n\nFuture followed with a pair of soundtrack contributions in 2018. First, he joined Jay Rock, Kendrick Lamar, and James Blake for a hit single from the Black Panther soundtrack, \"King's Dead,\" and a few months later released \"No Shame\" from Superfly. He not only contributed to the soundtrack but presented it as well, and was among the film's co-producers. Future started 2019 with the release of his seventh album, The Wizrd, which became his fifth solo chart-topper (and sixth overall). The set featured appearances by Young Thug and Gunna, while Travis Scott assisted \"First Off,\" one of its three charting singles. Less than a month after the release of that album, Future won a Grammy for Best Rap Performance for his contribution to \"King's Dead.\" He returned later in 2019 with the darker and more pained Save Me, a seven-track EP that reached number five.\n\nFuture got an early start on the new decade in January 2020 with \"Life Is Good,\" another Drake collaboration. The single became his second Top Ten pop hit as a headliner and reached quadruple-platinum status by the time he issued High Off Life in May. Originally intended to be titled after the preceding hit -- Future opted to go with a less contentious title due to the COVID-19 pandemic -- High Off Life entered the Billboard 200 at number one. Among its follow-up singles were \"Tycoon\" and \"Trillionaire,\" the latter featuring YoungBoy Never Broke Again. Before the year was over, Future teamed up with Lil Uzi Vert for the collaborative album Pluto x Baby Pluto. The record was released in November 2020 and debuted at number two on the Billboard chart.\n\nFuture remained relatively quiet in 2021, but he returned in 2022 for his ninth solo LP, I NEVER LIKED YOU, which once again topped the U.S. charts. WE DON'T TRUST YOU, Future's first album co-billed with longtime producer Metro Boomin, appeared in 2024, and was another chart-topping success. Three weeks after it was released, it was followed by WE STILL DON'T TRUST YOU, a distinct album and not a deluxe edition of the first collaboration. Once again, it reached number one. The feature-free Mixtape Pluto became Future's third chart-topping release of 2024. ~ David Jeffries & Andy Kellman, Rovi"
+    }
+  },
+  {
+    "path": "0Y5tJX1MQlPlqiwlOH1tJY",
+    "id": 9,
+    "name": "Travis Scott",
+    "verified": true,
+    "followed": false,
+    "color": "98, 20, 10",
+    "artistimage": "/travisscott.jpg",
+    "artistbackimage": "/travisscott_back.jpg",
+    "monthlylisteners": 74529022,
+    "populartracks": [
+      "6s8WSX1MxNThrot8ThI6fG",
+      "42VsgItocQwOQC3XWZ8JNA",
+      "2gyHr9WqZeMtzJOpWGuGo6",
+      "28drn6tQo95MRvO0jQEo5C",
+      "5wG3HvLhF6Y5KTGlK0IW3J",
+      "4kjI1gwQZRKNDkw1nI475M",
+      "4GL9GMX9t7Qkprvf1YighZ"
+    ],
+    "artistpick": {
+      "path": "3bSNhnaQQXpC639OQ4pMyP",
+      "coverpath": "/westilldonttrustyou.jpg",
+      "albumname": "WE STILL DON'T TRUST YOU"
+    },
+    "discography": {
+      "all": [
+        "5HAxzyUfyay8NElNaehsNe",
+        "18NOKLkZETa4sWwLMIm0UZ",
+        "42WVQWuf1teDysXiOupIZt"
+      ],
+      "popular": [
+        "5HAxzyUfyay8NElNaehsNe",
+        "18NOKLkZETa4sWwLMIm0UZ",
+        "42WVQWuf1teDysXiOupIZt"
+      ]
+    },
+    "about": {
+      "rankintheworld": 14,
+      "followers": 36936080,
+      "mostlistenedplaces": [
+        {
+          "place": "Los Angeles, US",
+          "listenersnumber": 969075
+        },
+        {
+          "place": "London, GB",
+          "listenersnumber": 964429
+        },
+        {
+          "place": "Chicago, US",
+          "listenersnumber": 891888
+        },
+        {
+          "place": "Jakarta, ID",
+          "listenersnumber": 886731
+        },
+        {
+          "place": "New York City, US",
+          "listenersnumber": 860188
+        }
+      ],
+      "socialmediaweb": [
+        
+      ],
+      "briefinfo": "Houston-born rapper and producer Travis Scott's psychedelic trap style makes him one of the more distinctive talents to have risen to the height of mainstream commercial popularity. His heavily processed, half-sung/half-rapped style set him apart early on, and he grew from affiliations with Kanye West's GOOD Music and T.I.'s Grand Hustle in the early 2010s to chart-dominating popularity before the close of the decade. After his first studio album, 2015's Rodeo, debuted in the number three position, Scott followed with a pair of number one full-lengths, Birds in the Trap Sing McKnight (2016) and Astroworld (2018), all the while assisting on platinum singles headlined by the likes of Rihanna (\"Bitch Better Have My Money\"), SZA (\"Love Galore\"), and Frake (\"Portland\"), and working extensively with Quavo as Huncho Jack. Whether leading or supporting, Scott's presence was unmistakable, and he quickly accumulated Grammys, endorsement deals, and appearances in more than 80 charting songs. By the 2020s, Scott was one of the most successful living artists on the planet. This level of fame played into both extreme success and profound tragedy, with Scott being at the center of controversy surrounding the deaths and injuries of hundreds of fans at his 2021 Astroworld festival before debuting his genre-crossing, Grammy-nominated fourth album, 2023's UTOPIA. He was then featured on a variety of tracks with 21 Savage, Metro Boomin, Asake, and others.\n\nBorn Jacques Webster, Travis Scott grew up in a suburb of Houston and began making music as a teenager. He formed a duo called the Graduates with Chris Holloway, and they released an EP in 2009. The following year, he formed another duo, the Classmates, with OG Chess. Scott produced the pair's two full-lengths, Buddy Rich and Cruis'n USA, but they broke up near the end of 2011. After dropping out of college, Scott moved to Los Angeles and began recording music on his own. He met T.I. and eventually Kanye West. Scott was hired as an in-house producer for GOOD Music, and appeared on the label's Cruel Summer compilation in 2012. Scott's debut, Owl Pharaoh, was originally scheduled to be released as a free mixtape in 2012, but as his profile grew (including a placement in XXL Magazine's Freshman Class of 2013), and sample clearance issues, the album wasn't released until May 2013. Featuring guest appearances by T.I. and 2 Chainz (on the single \"Upper Echelon\") as well as Toro y Moi and Justin Vernon of Bon Iver, Owl Pharaoh eventually garnered a nomination for Best Mixtape at the 2013 BET Hip Hop Awards.\n\nThe buildup to Scott's first proper studio album involved the Days Before Rodeo mixtape, promoted with the singles \"Don't Play\" and \"Mamacita,\" and the March 2015 U.S. Rodeo Tour, headlined by Scott and supported by Young Thug and Metro Boomin. Several of the dates sold out. The same month, Rihanna's Scott-produced hit single \"Bitch Better Have My Money\" was released. \"3500\" and \"Antidote\" were issued ahead of Rodeo, Scott's second full-length, which followed in September on Grand Hustle/Epic and debuted at number three on the Billboard 200. Toward the end of the year, \"Antidote\" peaked at number 16 on the Hot 100 and became Scott's first platinum single.\n\nChatter regarding a follow-up, along with numerous delays, ensued throughout much of 2016. Meanwhile, Scott extended his commercial presence with featured spots on Wiz Khalifa's \"Bake Sale,\" Rihanna's \"Woo,\" and Kanye West's \"FML,\" as well as a collaboration with Young Thug and Quavo, \"Pick Up the Phone,\" a mid-year hit issued as the lead single of Young Thug's JEFFERY. Three months later, after \"Bitch Better Have My Money\" earned platinum certification, Scott's second proper album arrived. Titled Birds in the Trap Sing McKnight after one of Quavo's lines in \"Pick Up the Phone,\" the woozy, mostly midtempo set featured that hit and contributions from the likes of André 3000, Kid Cudi, and Kendrick Lamar. It went straight to the top of the Billboard 200.\n\nLeading up to his third LP, Scott was featured on a slew of tracks, including platinum singles headlined by SZA (\"Love Galore\"), Drake (\"Portland\"), Miguel (\"Sky Walker\"), 2 Chainz (\"4 AM\"), and Trippie Redd (\"Dark Knight Dummo\"). Scott's own \"Butterfly Effect\" arrived during this torrent of hits in May 2017 and promptly went platinum as well. Seven months later, Huncho Jack, Jack Huncho, a collaborative full-length with Quavo, entered the Billboard 200 at number three. The following May, Scott released \"Watch,\" a non-album track featuring Kanye West and Lil Uzi Vert, and within three months released Astroworld, which he considered the true follow-up to Rodeo. Featuring \"Butterfly Effect,\" the album -- named after a demolished Houston amusement park -- debuted at number one and was supported with a second single, \"Sicko Mode.\" Scott closed out 2018 by appearing on multiple tracks of Metro Boomin's Not All Heroes Wear Capes album.\n\nAfter collaborating with Young Thug and J. Cole on 2019's \"The London\" and being featured on Ed Sheeran's \"Antisocial,\" Scott issued his own solo single, \"Highest in the Room.\" JackBoys, a brief compilation showcasing artists from Scott's Cactus Jack Records label, appeared at the end of the year. The release subsequently became the first number one album of the 2020s. Another Young Thug collaboration, \"Franchise,\" also featuring M.I.A., debuted in September 2020 on top of the Billboard 200.\n\nIn January 2021, Spanish DJ HVME released a deep house reworking of Scott and Kendrick Lamar's song \"Goosebumps,\" eventually topping Billboard's Hot Dance/Electronic Songs Chart. Two more tracks appeared that November, with both \"Escape Plan\" and \"Mafia\" arriving concurrently and hitting the Top Ten of Billboard's Hot R&B/Hip-Hop Songs chart.\n\nOn November 5, 2021, there was a fatal crowd crush during Scott's performance at his third annual Astroworld Festival in Houston, Texas. The event resulted in the death of 10 people with over 300 being treated for injuries. The rapper apologized and the rest of the festival was canceled. Scott and others involved in the festival were investigated, though a Texas grand jury ultimately declined to indict them.\n\nIn May 2022, Scott performed at the Billboard Music Awards, his first live appearance since the Astroworld Festival tragedy. He also contributed to four tracks on Metro Boomin's Heroes & Villains album. In July 2023, he released his fourth studio album, UTOPIA. An ambitious, genre-crossing concept album in the vein of Kanye West's Yeezus, it featured a bevy of producers, including Scott, James Blake, WondaGurl, and others. Also featured were many guests, such as Bad Bunny and the Weeknd on the lead single, \"K-pop,\" and Beyoncé and Bon Iver on \"Delresto (Echoes).\" UTOPIA topped both the Billboard 200 and R&B/Hip-Hop Albums charts and earned a Grammy nomination for Best Rap Album. Scott's work throughout much of 2024 largely consisted of features on records by 21 Savage, Future and Metro Boomin, Mustard, and Asake. ~ Paul Simpson & Andy Kellman, Rovi"
+    }
+  },
+  {
+    "path": "246dkjvS1zLTtiykXe5h60",
+    "id": 10,
+    "name": "Post Malone",
+    "verified": true,
+    "followed": false,
+    "color": "53, 53, 53",
+    "artistimage": "/postmalone.jpg",
+    "artistbackimage": "/postmalone_back.jpg",
+    "monthlylisteners": 69613576,
+    "populartracks": [
+      "0RiRZpuVRbi7oqRdSMwhQY",
+      "21jGcNKet2qwijlDFuPiPb",
+      "0e7ipj03S05BNilyu5bRzt",
+      "7221xIgOnuakPdLqT0F3nP",
+      "6fgSKdHloRioPrZ9oJC7FH",
+      "7dt6x5M1jzdTEt8oCbisTK"
+    ],
+    "artistpick": {
+      "path": "4g1ZRSobMefqF6nelkgibi",
+      "coverpath": "/hollywoodsbleeding.jpg",
+      "albumname": "Hollywood's Bleeding"
+    },
+    "discography": {
+      "all": [
+        "1woYXxyyxTQJ0E0AhZE6mj",
+        "6fgSKdHloRioPrZ9oJC7FH",
+        "4g1ZRSobMefqF6nelkgibi",
+        "6trNtQUgC8cgbWcqoMYkOR"
+      ],
+      "popular": [
+        "4g1ZRSobMefqF6nelkgibi",
+        "6trNtQUgC8cgbWcqoMYkOR",
+        "6fgSKdHloRioPrZ9oJC7FH",
+        "1woYXxyyxTQJ0E0AhZE6mj"
+      ]
+    },
+    "about": {
+      "rankintheworld": 19,
+      "followers": 46517384,
+      "mostlistenedplaces": [
+        {
+          "place": "Sydney, AU",
+          "listenersnumber": 1162422
+        },
+        {
+          "place": "London, GB",
+          "listenersnumber": 934361
+        },
+        {
+          "place": "Melbourne, AU",
+          "listenersnumber": 908162
+        },
+        {
+          "place": "Brisbane, AU",
+          "listenersnumber": 810982
+        },
+        {
+          "place": "Chicago, US",
+          "listenersnumber": 800293
+        }
+      ],
+      "socialmediaweb": [
+        {
+          "Facebook": "https://www.facebook.com/postmalone/",
+          "Instagram": "https://www.instagram.com/postmalone/",
+          "Twitter": "https://www.x.com/postmalone/",
+          "Wikipedia": "https://en.wikipedia.org/wiki/Post_Malone"
+        }
+      ],
+      "briefinfo": "Diamond-certified American hitmaker Post Malone bridges the gap between the worlds of rap and the pop mainstream. Within five years of his debut, he went from underground genre novelty to certified superstar, amassing a string of Top Ten singles with a hybrid style that combined his unique vocal delivery, pained lyrics, and hip-hop production inspired as much by Tim McGraw as Kanye West. After the release of his 2015 quintuple-platinum single \"White Iverson,\" off his debut, Stoney, he quickly ascended to the top of the pop mainstream in the late 2010s with a succession of multi-platinum hits that included chart-toppers \"Rockstar\" with 21 Savage and \"Psycho\" with Ty Dolla $ign from 2018's Grammy-nominated Beerbongs & Bentleys and one of the highest-certified singles in RIAA history, \"Sunflower\" with Swae Lee, from 2019's pop-leaning Hollywood's Bleeding. After dialing things back with 2022's vulnerable Twelve Carat Toothache, he made a further push into guitar-based pop with 2023's Austin."
     }
   }
 ]

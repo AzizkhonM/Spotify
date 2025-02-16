@@ -22,14 +22,14 @@
 
         <UCarousel v-slot="{ item }" loop arrows dots :items="madeforjdu">
             <!-- <img :src="item.coverpath" width="234" height="234" class="rounded-lg"> -->
-            <div
+            <NuxtLink :to="`playlist/${item.path}`"
                 class="p-3 w-[200px] h-[250px] grid grid-cols-1 content-start rounded-[6px] hover:bg-[#1f1f1f] hover:cursor-pointer duration-200 gap-2">
                 <div style="width: 100%; height: 100%;"><img style=" border-radius: 6px;" :src="item.coverpath"
                         width="100%" alt=""></div>
                 <div>
                     <h1 class="line-clamp-2 text-[14px] text-[#B3B3B3]">{{ item.description }}</h1>
                 </div>
-            </div>
+            </NuxtLink>
         </UCarousel>
 
         <FooterAbout />

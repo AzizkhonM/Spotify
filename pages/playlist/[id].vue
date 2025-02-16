@@ -116,7 +116,8 @@
             </div>
           </div>
           <div class="albumname text-[#b3b3b3]">
-            <NuxtLink :to="`/album/${getAlbumPath(el)}`" style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap;">
+            <NuxtLink :to="`/album/${getAlbumPath(el)}`"
+              style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap;">
               <h1 class="hover:underline w-max hover:cursor-pointer">{{ getAlbum(el) }}</h1>
             </NuxtLink>
           </div>
@@ -212,7 +213,7 @@
           </div>
         </div> -->
         <div class="px-4 mt-10">
-          <FooterAbout/>
+          <FooterAbout />
         </div>
       </div>
     </div>
@@ -231,6 +232,7 @@ import { useRoute } from "vue-router";
 import playlists from "../../static/playlists.json";
 import albums from "~/static/albums.json"
 import artists from "~/static/artists.json"
+import madeforjdu from "~/static/madeforjdu.json"
 import FooterAbout from "~/components/little_comps/FooterAbout.vue";
 
 const isOpen = ref(false)
@@ -244,16 +246,42 @@ const months = ["January", "February", "March", "April", "May", "June", "July", 
 let main = {};
 console.log(route.params.id);
 for (let i of playlists) {
-  if ((i.path = route.params.id)) {
+  if ((i.path == route.params.id)) {
     main = i;
   }
+}
+console.log(madeforjdu);
+console.log(main);
+
+
+if (Object.keys(main).length === 0) {
+  for (let i of madeforjdu) {
+    if ((i.path == route.params.id)) {
+      main = i;
+    }
+  }
+  useHead({
+    title: `${main.playlistname} | Spotify Playlist`
+  })
+} else {
+  useHead({
+    title: `${main.playlistname} - playlist by ${main.playlistowner} | Spotify`
+  })
 }
 
 const getCover = (path) => {
   for (let i of albums) {
     for (let j of i.tracks) {
-      if (j.path == path) {
-        return i.coverpath
+      if (i.tracks[0] && typeof i.tracks[0] === 'object' && !Array.isArray(i.tracks[0])) {
+        if (j.path == path) {
+          return i.coverpath
+        }
+      } else {
+        for (let k of j) {
+          if (k.path == path) {
+            return i.coverpath
+          }
+        }
       }
     }
   }
@@ -262,8 +290,16 @@ const getCover = (path) => {
 const getTrackname = (path) => {
   for (let i of albums) {
     for (let j of i.tracks) {
-      if (j.path == path) {
-        return j.trackname
+      if (i.tracks[0] && typeof i.tracks[0] === 'object' && !Array.isArray(i.tracks[0])) {
+        if (j.path == path) {
+          return j.trackname
+        }
+      } else {
+        for (let k of j) {
+          if (k.path == path) {
+            return k.trackname
+          }
+        }
       }
     }
   }
@@ -272,8 +308,16 @@ const getTrackname = (path) => {
 const isExplicit = (path) => {
   for (let i of albums) {
     for (let j of i.tracks) {
-      if (j.path == path) {
-        return j.explicit
+      if (i.tracks[0] && typeof i.tracks[0] === 'object' && !Array.isArray(i.tracks[0])) {
+        if (j.path == path) {
+          return j.explicit
+        }
+      } else {
+        for (let k of j) {
+          if (k.path == path) {
+            return k.explicit
+          }
+        }
       }
     }
   }
@@ -282,8 +326,16 @@ const isExplicit = (path) => {
 const getArtists = (path) => {
   for (let i of albums) {
     for (let j of i.tracks) {
-      if (j.path == path) {
-        return j.singers
+      if (i.tracks[0] && typeof i.tracks[0] === 'object' && !Array.isArray(i.tracks[0])) {
+        if (j.path == path) {
+          return j.singers
+        }
+      } else {
+        for (let k of j) {
+          if (k.path == path) {
+            return k.singers
+          }
+        }
       }
     }
   }
@@ -292,8 +344,16 @@ const getArtists = (path) => {
 const getAlbum = (path) => {
   for (let i of albums) {
     for (let j of i.tracks) {
-      if (j.path == path) {
-        return i.albumname
+      if (i.tracks[0] && typeof i.tracks[0] === 'object' && !Array.isArray(i.tracks[0])) {
+        if (j.path == path) {
+          return i.albumname
+        }
+      } else {
+        for (let k of j) {
+          if (k.path == path) {
+            return i.albumname
+          }
+        }
       }
     }
   }
@@ -302,8 +362,16 @@ const getAlbum = (path) => {
 const getAlbumPath = (path) => {
   for (let i of albums) {
     for (let j of i.tracks) {
-      if (j.path == path) {
-        return i.path
+      if (i.tracks[0] && typeof i.tracks[0] === 'object' && !Array.isArray(i.tracks[0])) {
+        if (j.path == path) {
+          return i.path
+        }
+      } else {
+        for (let k of j) {
+          if (k.path == path) {
+            return i.path
+          }
+        }
       }
     }
   }
@@ -312,8 +380,16 @@ const getAlbumPath = (path) => {
 const getTrackLength = (path) => {
   for (let i of albums) {
     for (let j of i.tracks) {
-      if (j.path == path) {
-        return j.duration
+      if (i.tracks[0] && typeof i.tracks[0] === 'object' && !Array.isArray(i.tracks[0])) {
+        if (j.path == path) {
+          return j.duration
+        }
+      } else {
+        for (let k of j) {
+          if (k.path == path) {
+            return k.duration
+          }
+        }
       }
     }
   }
@@ -434,10 +510,6 @@ onUnmounted(() => {
     wrapped.value.removeEventListener("scroll", handleScroll);
   }
 });
-
-useHead({
-  title: `${main.playlistname} - playlist by ${main.playlistowner} | Spotify`
-})
 
 </script>
 
