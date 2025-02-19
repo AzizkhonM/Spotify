@@ -9239,5 +9239,320 @@
                 "duration": "4:09"
             }
         ]
+    },
+    {
+        "path": "18sR8zHx4zsVJUI4bHWuPC",
+        "id": 81,
+        "isSingle": false,
+        "isCompilation": true,
+        "albumname": "The Highlights (Deluxe)",
+        "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2024,
+        "albumreleasemonth": 2,
+        "albumreleasedate": 9,
+        "tracksnumber": 36,
+        "timehour": 2,
+        "timeminute": 30,
+        "timesecond": 0,
+        "upcolorcode": "#500001",
+        "downcolorcode": "#500001",
+        "textcolorcode": "#ffbeb1",
+        "coverpath": "/thehighlightsdeluxe.jpg",
+        "credits": [
+            "© 2024 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.",
+            "℗ This Compilation ℗ 2024 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "2vz6HIZBaQOnWCH7kKhKQH",
+                "trackname": "Die For You",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:20"
+            },
+            {
+                "id": 2,
+                "path": "218WdV0d4ijtTtPTKGuf1E",
+                "trackname": "Starboy (feat. Daft Punk)",
+                "singers": ["The Weeknd", "Daft Punk"],
+                "explicit": true,
+                "duration": "3:50"
+            },
+            {
+                "id": 3,
+                "path": "6YckHetPOkzxtXXaYx0Gt1",
+                "trackname": "Save Your Tears",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:35"
+            },
+            {
+                "id": 4,
+                "path": "04948IGlqY1vSh7AHbueiQ",
+                "trackname": "Blinding Lights",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:20"
+            },
+            {
+                "id": 5,
+                "path": "4SD0V2HMxkBupk6ml9alm4",
+                "trackname": "In Your Eyes",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:57"
+            },
+            {
+                "id": 6,
+                "path": "2x8uHFZoDuCwXDWhagx3Av",
+                "trackname": "Wicked Games",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:25"
+            },
+            {
+                "id": 7,
+                "path": "6iKlSDvBLyQP0AWygx01XT",
+                "trackname": "Can't Feel My Face",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:33"
+            },
+            {
+                "id": 8,
+                "path": "2RzZMPIZIEomnQDq4eYIaW",
+                "trackname": "I Feel It Coming (feat. Daft Punk)",
+                "singers": ["The Weeknd", "Daft Punk"],
+                "explicit": false,
+                "duration": "4:29"
+            },
+            {
+                "id": 9,
+                "path": "5W3Mi5lW7CIr3eTj1cc69p",
+                "trackname": "Pray For Me (with Kendrick Lamar)",
+                "singers": ["The Weeknd", "Kendrick Lamar"],
+                "explicit": true,
+                "duration": "3:31"
+            },
+            {
+                "id": 10,
+                "path": "7hIozlEu6hrYrtsXJj45A4",
+                "trackname": "Heartless",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:18"
+            },
+            {
+                "id": 11,
+                "path": "0h5DkbfNEAxsquWRxqzOaO",
+                "trackname": "The Hills",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:02"
+            },
+            {
+                "id": 12,
+                "path": "1DLL8tOoiayr5qBRrJZKn4",
+                "trackname": "The Morning",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:15"
+            },
+            {
+                "id": 13,
+                "path": "0kXG39GnyM0YtG3ct38P6u",
+                "trackname": "Call Out My Name",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:48"
+            },
+            {
+                "id": 14,
+                "path": "1mqoRXYWx8z842pmq6njeH",
+                "trackname": "Often",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:09"
+            },
+            {
+                "id": 15,
+                "path": "7ugGN2cNJtdu10hAMH6ygQ",
+                "trackname": "Love Me Harder (with The Weeknd)",
+                "singers": ["Ariana Grande", "The Weeknd"],
+                "explicit": false,
+                "duration": "3:56"
+            },
+            {
+                "id": 16,
+                "path": "5cTYNNvFtfVtRbGj6073U3",
+                "trackname": "Earned It (Fifty Shades Of Grey)",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:37"
+            },
+            {
+                "id": 17,
+                "path": "17UoqnSRKmsWbhInoFGq4F",
+                "trackname": "Acquainted",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:48"
+            },
+            {
+                "id": 18,
+                "path": "4gc7qfGOq1gNUBd54YHrHZ",
+                "trackname": "After Hours",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "6:01"
+            },
+            {
+                "id": 19,
+                "path": "1VNWdmXSbaNrnWod10WIL0",
+                "trackname": "One of the Girls (with JENNIE, Lily-Rose Depp)",
+                "singers": ["The Weeknd", "JENNIE", "Lily-Rose Depp"],
+                "explicit": false,
+                "duration": "4:04"
+            },
+            {
+                "id": 20,
+                "path": "4jy7MUJliwsbX0IxIpxc3F",
+                "trackname": "I Was Never There (with Gesaffelstein)",
+                "singers": ["The Weeknd", "Gesaffelstein"],
+                "explicit": false,
+                "duration": "4:01"
+            },
+            {
+                "id": 21,
+                "path": "0Heg7xuh81isHE7TCCLxxz",
+                "trackname": "House Of Balloons / Glass Table Girls",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "6:47"
+            },
+            {
+                "id": 22,
+                "path": "0a2zAX33ZMrd5J73H1Ii9O",
+                "trackname": "Less Than Zero",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:31"
+            },
+            {
+                "id": 23,
+                "path": "5XXPBP7Y5efnNitAWxWn80",
+                "trackname": "Is There Someone Else?",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:19"
+            },
+            {
+                "id": 24,
+                "path": "3RzEhrrHxO4wvn8MUfHMqy",
+                "trackname": "Party Monster",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:09"
+            },
+            {
+                "id": 25,
+                "path": "4b59G0rp6YFyhgYKuSmJSG",
+                "trackname": "Stargirl Interlude (feat. Lana Del Rey)",
+                "singers": ["The Weeknd", "Lana Del Rey"],
+                "explicit": false,
+                "duration": "1:51"
+            },
+            {
+                "id": 26,
+                "path": "7GUhiAHLoVy1V8ucQuZ3CB",
+                "trackname": "Popular (with Playboi Carti & Madonna)",
+                "singers": ["The Weeknd", "Playboi Carti", "Madonna"],
+                "explicit": true,
+                "duration": "3:35"
+            },
+            {
+                "id": 27,
+                "path": "2POhSUOXkU7xEIi2z2nEDE",
+                "trackname": "Tell Your Friends",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:34"
+            },
+            {
+                "id": 28,
+                "path": "3A5WXYwdFVlnFufww717dq",
+                "trackname": "Sacrifice",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:08"
+            },
+            {
+                "id": 29,
+                "path": "045g99gDVveOIJIlrJ2D8H",
+                "trackname": "Reminder",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:38"
+            },
+            {
+                "id": 30,
+                "path": "6DLxSl32CR7dklfpQLcxVY",
+                "trackname": "In The Night",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:55"
+            },
+            {
+                "id": 31,
+                "path": "7tDLiXn8gSZ0KuQubcNVPX",
+                "trackname": "Wasted Times",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:48"
+            },
+            {
+                "id": 32,
+                "path": "13EPC0roxU5qBKgE6mOyLr",
+                "trackname": "Take My Breath",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:39"
+            },
+            {
+                "id": 33,
+                "path": "5RYMpjhxB8EDCFRvM72VN4",
+                "trackname": "Moth To A Flame (with The Weeknd)",
+                "singers": ["Swedish House Mafia", "The Weeknd"],
+                "explicit": false,
+                "duration": "3:54"
+            },
+            {
+                "id": 34,
+                "path": "2pQufQ915Pve9LgCTWs1r5",
+                "trackname": "Out of Time",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:34"
+            },
+            {
+                "id": 35,
+                "path": "4NueXv4xT4WvQmYbDbjMoM",
+                "trackname": "King of The Fall",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:01"
+            },
+            {
+                "id": 36,
+                "path": "7e3c59O0Ea3NN6yTylcloq",
+                "trackname": "High For This",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:09"
+            }
+        ]
     }
 ]
