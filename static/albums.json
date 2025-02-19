@@ -9554,5 +9554,578 @@
                 "duration": "4:09"
             }
         ]
+    },
+    {
+        "path": "7zCODUHkfuRxsUjtuzNqbd",
+        "id": 82,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "House Of Balloons (Original)",
+        "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2011,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 21,
+        "tracksnumber": 9,
+        "timehour": 0,
+        "timeminute": 49,
+        "timesecond": 23,
+        "upcolorcode": "#535353",
+        "downcolorcode": "#353535",
+        "textcolorcode": "#CDCDCD",
+        "coverpath": "/houseofballoons.jpg",
+        "credits": [
+            "A Republic Records release.",
+            "© 2011 The Weeknd XO, Inc.",
+            "℗ 2011 The Weeknd XO, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "2ye9iWj5V4g6k6HFeTTAKa",
+                "trackname": "High For This",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:09"
+            },
+            {
+                "id": 2,
+                "path": "4Yw8TyBm9J8cpy2guHUYog",
+                "trackname": "What You Need",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:26"
+            },
+            {
+                "id": 3,
+                "path": "2r7BPog74oaTG5shNYiUnV",
+                "trackname": "House Of Balloons / Glass Table Girls",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "6:47"
+            },
+            {
+                "id": 4,
+                "path": "4jBfUB4kQJCWOrjGLQqhO0",
+                "trackname": "The Morning",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:14"
+            },
+            {
+                "id": 5,
+                "path": "00aqkszH1FdUiJJWvX6iEl",
+                "trackname": "Wicked Games",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:25"
+            },
+            {
+                "id": 6,
+                "path": "0GROiXm03OrMC5ltXLhGIu",
+                "trackname": "The Party & The After Party",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "7:39"
+            },
+            {
+                "id": 7,
+                "path": "3mHO1J6kfiArjBo1zhLFGP",
+                "trackname": "Coming Down",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:55"
+            },
+            {
+                "id": 8,
+                "path": "2yBz1hupoOBncorzuKcJ2z",
+                "trackname": "Loft Music",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "6:03"
+            },
+            {
+                "id": 9,
+                "path": "6tjsbysvZh8Pq8DZA5ldrn",
+                "trackname": "The Knowing",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "5:42"
+            }
+        ]
+    },
+    {
+        "path": "6F87lH0I09qlrzvCCKc7lz",
+        "id": 83,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Thursday (Original)",
+        "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2011,
+        "albumreleasemonth": 8,
+        "albumreleasedate": 18,
+        "tracksnumber": 9,
+        "timehour": 0,
+        "timeminute": 50,
+        "timesecond": 19,
+        "upcolorcode": "#ad302e",
+        "downcolorcode": "#640000",
+        "textcolorcode": "#ffbdb6",
+        "coverpath": "/thursday.jpg",
+        "credits": [
+            "Distributed By Republic Records.",
+            "© 2011 The Weeknd XO, Inc.",
+            "℗ 2011 The Weeknd XO, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "5JpSjNcjuP8L9QrYmv3xcn",
+                "trackname": "Lonely Star",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:49"
+            },
+            {
+                "id": 2,
+                "path": "6eJbjaoLRlfwrfWpeS6alF",
+                "trackname": "Life Of The Party",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:56"
+            },
+            {
+                "id": 3,
+                "path": "0l1p13Fbujayv894H0hfpS",
+                "trackname": "Thursday",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "5:20"
+            },
+            {
+                "id": 4,
+                "path": "53qYItjefG5SUf62428dIw",
+                "trackname": "The Zone",
+                "singers": ["The Weeknd", "Drake"],
+                "explicit": true,
+                "duration": "6:58"
+            },
+            {
+                "id": 5,
+                "path": "5SF1kcOiOmtZFUIQNGC4TC",
+                "trackname": "The Birds Pt. 1",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:34"
+            },
+            {
+                "id": 6,
+                "path": "2yYDijitHN6psA2tH0ndXs",
+                "trackname": "The Birds Pt. 2",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:50"
+            },
+            {
+                "id": 7,
+                "path": "7xgYvziLsxNd0UznaEw8Oi",
+                "trackname": "Gone",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "8:06"
+            },
+            {
+                "id": 8,
+                "path": "4dXnS1YXBkn4oAIxRLPJcK",
+                "trackname": "Rolling Stone",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:50"
+            },
+            {
+                "id": 9,
+                "path": "5JQ5Acrgv1VrO9UtMUN052",
+                "trackname": "Heaven Or Las Vegas",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "5:53"
+            }
+        ]
+    },
+    {
+        "path": "04hy4jb1GDD00otiwzsFUB",
+        "id": 84,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Echoes Of Silence (Original)",
+        "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2011,
+        "albumreleasemonth": 12,
+        "albumreleasedate": 21,
+        "tracksnumber": 9,
+        "timehour": 0,
+        "timeminute": 45,
+        "timesecond": 47,
+        "upcolorcode": "#8e110f",
+        "downcolorcode": "#640000",
+        "textcolorcode": "#ffbeb3",
+        "coverpath": "/echoesofsilence.jpg",
+        "credits": [
+            "Distributed By Republic Records.",
+            "© 2011 The Weeknd XO, Inc.",
+            "℗ 2011 The Weeknd XO, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "0WdJTI3UVvUMbLwPk5ObKI",
+                "trackname": "D.D.",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:34"
+            },
+            {
+                "id": 2,
+                "path": "0UGdO687azruy9tFlCxO6F",
+                "trackname": "Montreal",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:10"
+            },
+            {
+                "id": 3,
+                "path": "58yC1Q6XKjmHeWkEWh9O6B",
+                "trackname": "Outside",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:19"
+            },
+            {
+                "id": 4,
+                "path": "0Hs5enNuaAXmJssAybWbOw",
+                "trackname": "XO / The Host",
+                "singers": ["The Weeknd", "Drake"],
+                "explicit": true,
+                "duration": "7:24"
+            },
+            {
+                "id": 5,
+                "path": "3QWENKFYGEgp3itgTnrgq9",
+                "trackname": "Initiation",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:20"
+            },
+            {
+                "id": 6,
+                "path": "37zSTGaP8bfBDGpJnUmSDl",
+                "trackname": "Same Old Song",
+                "singers": ["The Weeknd", "Juicy J"],
+                "explicit": true,
+                "duration": "5:12"
+            },
+            {
+                "id": 7,
+                "path": "0JGoOLSl8A80mSPBL7ya9U",
+                "trackname": "The Fall",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "5:45"
+            },
+            {
+                "id": 8,
+                "path": "6pG3yiKNsX03ZFTFWdOasv",
+                "trackname": "Next",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "6:01"
+            },
+            {
+                "id": 9,
+                "path": "3weHnt82LuCTMa2AnZFM78",
+                "trackname": "Echoes Of Silence",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:59"
+            }
+        ]
+    },
+    {
+        "path": "2XGEyGU76kj55OdHWynX0S",
+        "id": 85,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Trilogy",
+        "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2011,
+        "albumreleasemonth": 12,
+        "albumreleasedate": 21,
+        "tracksnumber": 30,
+        "timehour": 2,
+        "timeminute": 39,
+        "timesecond": 0,
+        "upcolorcode": "#535353",
+        "downcolorcode": "#353535",
+        "textcolorcode": "#CDCDCD",
+        "coverpath": "/trilogy.jpg",
+        "credits": [
+            "© 2023 XO&co., Inc.",
+            "℗ This Compilation ℗ 2023 XO&co., Inc."
+        ],
+        "tracks": [
+            [
+                {
+                    "id": 1,
+                    "path": "36LdTnEWBDLDDA3hEsSLvi",
+                    "trackname": "High For This",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "4:09"
+                },
+                {
+                    "id": 2,
+                    "path": "6zKlGJXteHq8KRKaLnUfCs",
+                    "trackname": "What You Need",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "3:26"
+                },
+                {
+                    "id": 3,
+                    "path": "5d6lYplVOV4xJ37EVCpHqB",
+                    "trackname": "House Of Balloons / Glass Table Girls",
+                    "singers": ["The Weeknd"],
+                    "explicit": true,
+                    "duration": "6:47"
+                },
+                {
+                    "id": 4,
+                    "path": "7wPTyxE1PNemZuyuOOaQ8q",
+                    "trackname": "The Morning",
+                    "singers": ["The Weeknd"],
+                    "explicit": true,
+                    "duration": "5:14"
+                },
+                {
+                    "id": 5,
+                    "path": "7bGF2hNOP6SROacsxo1fCk",
+                    "trackname": "Wicked Games",
+                    "singers": ["The Weeknd"],
+                    "explicit": true,
+                    "duration": "5:25"
+                },
+                {
+                    "id": 6,
+                    "path": "7bvkyTwVkylUGJvz1UMjFk",
+                    "trackname": "The Party & The After Party",
+                    "singers": ["The Weeknd"],
+                    "explicit": true,
+                    "duration": "7:39"
+                },
+                {
+                    "id": 7,
+                    "path": "4q75XguyPrsduy70hcBVFu",
+                    "trackname": "Coming Down",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "4:55"
+                },
+                {
+                    "id": 8,
+                    "path": "78aURwMzynDMan7DfSWwsI",
+                    "trackname": "Loft Music",
+                    "singers": ["The Weeknd"],
+                    "explicit": true,
+                    "duration": "6:03"
+                },
+                {
+                    "id": 9,
+                    "path": "4FuSnjXKARcUOwiPnEnh1p",
+                    "trackname": "The Knowing",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "5:42"
+                },
+                {
+                    "id": 10,
+                    "path": "3dQEShIMs5TW8H3eUh11r7",
+                    "trackname": "Twenty Eight",
+                    "singers": ["The Weeknd"],
+                    "explicit": true,
+                    "duration": "4:18"
+                }
+            ],
+            [
+                {
+                    "id": 1,
+                    "path": "4coENUbKuiuFb0C38uqFTi",
+                    "trackname": "Lonely Star",
+                    "singers": ["The Weeknd"],
+                    "explicit": true,
+                    "duration": "5:49"
+                },
+                {
+                    "id": 2,
+                    "path": "3DBumrwaikaisVDQdcM7jU",
+                    "trackname": "Life Of The Party",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "4:56"
+                },
+                {
+                    "id": 3,
+                    "path": "7Kd39JsnLyJLEXNeWUi3T9",
+                    "trackname": "Thursday",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "5:20"
+                },
+                {
+                    "id": 4,
+                    "path": "6HrLsSVEk6C1X2EKmOEBxA",
+                    "trackname": "The Zone",
+                    "singers": ["The Weeknd", "Drake"],
+                    "explicit": true,
+                    "duration": "6:58"
+                },
+                {
+                    "id": 5,
+                    "path": "6ojrylBvc8SkXGjr02FjRX",
+                    "trackname": "The Birds Pt. 1",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "3:34"
+                },
+                {
+                    "id": 6,
+                    "path": "4Mnnd0fBRucoxGhtG7MccI",
+                    "trackname": "The Birds Pt. 2",
+                    "singers": ["The Weeknd"],
+                    "explicit": true,
+                    "duration": "5:50"
+                },
+                {
+                    "id": 7,
+                    "path": "5e5h9GeNY6janbVi34tn9e",
+                    "trackname": "Gone",
+                    "singers": ["The Weeknd"],
+                    "explicit": true,
+                    "duration": "8:06"
+                },
+                {
+                    "id": 8,
+                    "path": "4vz3UReBbxyPuVqgIjTCeA",
+                    "trackname": "Rolling Stone",
+                    "singers": ["The Weeknd"],
+                    "explicit": true,
+                    "duration": "3:50"
+                },
+                {
+                    "id": 9,
+                    "path": "4WZZeEjRqC4tV8rFljQzEo",
+                    "trackname": "Heaven Or Las Vegas",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "5:53"
+                },
+                {
+                    "id": 10,
+                    "path": "5JaqApg5415jtjdyjY3wa9",
+                    "trackname": "Valerie",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "4:46"
+                }
+            ],
+            [
+                {
+                    "id": 1,
+                    "path": "1JVDTuD60L2oSz9D6TlQiq",
+                    "trackname": "D.D.",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "4:34"
+                },
+                {
+                    "id": 2,
+                    "path": "2cA9RA2kuwsR7OBQ2LIEIe",
+                    "trackname": "Montreal",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "4:10"
+                },
+                {
+                    "id": 3,
+                    "path": "5RgSyslysUK17GhRli5ksZ",
+                    "trackname": "Outside",
+                    "singers": ["The Weeknd"],
+                    "explicit": true,
+                    "duration": "4:19"
+                },
+                {
+                    "id": 4,
+                    "path": "7liZGwyLYFBSobxHLazRAt",
+                    "trackname": "XO / The Host",
+                    "singers": ["The Weeknd", "Drake"],
+                    "explicit": true,
+                    "duration": "7:24"
+                },
+                {
+                    "id": 5,
+                    "path": "7qdfBIElGNUtPijoxJ1mMl",
+                    "trackname": "Initiation",
+                    "singers": ["The Weeknd"],
+                    "explicit": true,
+                    "duration": "4:20"
+                },
+                {
+                    "id": 6,
+                    "path": "2laEnnWXQmXSXaoD3ak5Ve",
+                    "trackname": "Same Old Song",
+                    "singers": ["The Weeknd", "Juicy J"],
+                    "explicit": true,
+                    "duration": "5:12"
+                },
+                {
+                    "id": 7,
+                    "path": "71wzVT1X4S2LTvsnyrWyPt",
+                    "trackname": "The Fall",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "5:45"
+                },
+                {
+                    "id": 8,
+                    "path": "2wRVEpcB2lgsyWbejp8vMt",
+                    "trackname": "Next",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "6:01"
+                },
+                {
+                    "id": 9,
+                    "path": "3WOWPWXE4h0rDIwGZ06yo1",
+                    "trackname": "Echoes Of Silence",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "3:59"
+                },
+                {
+                    "id": 10,
+                    "path": "0kXHpsg9SmpRqsQ4wQvQsK",
+                    "trackname": "Till Dawn (Here Comes The Sun)",
+                    "singers": ["The Weeknd"],
+                    "explicit": false,
+                    "duration": "5:19"
+                }
+            ]
+        ]
     }
 ]

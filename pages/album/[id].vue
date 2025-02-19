@@ -16,6 +16,7 @@
       <div class="grid grid-cols-1 justify-items-start items-end px-6">
         <p class="text-[0.875rem] mb-[-40px]">
           <span v-if="main.isSingle">Single</span>
+          <span v-else-if="main.isCompilation">Compilation</span>
           <span v-else>Album</span>
         </p>
         <div ref="container" class="album-container">
