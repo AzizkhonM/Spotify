@@ -20,7 +20,7 @@
                         {{ maintrack.trackname }}
                     </p>
                 </div>
-                <div class="flex gap-1 mt-[-20px] items-end">
+                <div class="flex flex-wrap gap-1 mt-[-20px] items-center">
                     <img :src="mainalbum.albumsingerimagepath" class="rounded-full" width="24px" />
                     <NuxtLink v-if="!mainalbum.isSingle" :to="{ name: 'artist-id', params: { id: mainalbum.albumsingerpath } }"
                         class="hover:underline hover:cursor-pointer"

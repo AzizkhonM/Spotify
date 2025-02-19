@@ -49,7 +49,7 @@
             about {{ main.timehour }} hour
           </p>
           <p v-if="main.timeminute !== 0" class="color-texts">{{ main.timeminute }} min</p>
-          <p v-if="main.timehour === 0" class="color-texts">
+          <p v-if="main.timehour === 0 && main.timesecond != 0" class="color-texts">
             {{ main.timesecond }} sec
           </p>
         </div>
@@ -116,7 +116,7 @@
               </svg>
             </div>
             <div class="pl-2 grid grid-cols-1">
-              <div class="text-white">
+              <div class="text-white" style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap;">
                 <NuxtLink :to="`/track/${el.path}`"><span class="hover:cursor-pointer hover:underline">{{ el.trackname
                     }}</span></NuxtLink>
               </div>
@@ -260,8 +260,8 @@
             </div>
           </NuxtLink>
         </div>
-        <FooterAbout />
       </div>
+      <FooterAbout />
     </div>
 
     <div class="modal" id="imageModal">
@@ -292,7 +292,6 @@ for (let i of albums) {
   if ((i.path == route.params.id)) {
     main = i;
   }
-  console.log(main);
 }
 
 for (let i of artists) {
@@ -300,7 +299,7 @@ for (let i of artists) {
     if (i.name == main.albumsinger) {
       for(let j of i.discography.popular){
         for(let k of albums){
-          if(j == k.path){
+          if(j == k.path && k.path != route.params.id){
             arrfordiscog.push(k)
           }
         }
@@ -310,7 +309,7 @@ for (let i of artists) {
     if (i.name.includes(main.albumsinger[0])) {
       for(let j of i.discography.popular){
         for(let k of albums){
-          if(j == k.path){
+          if(j == k.path && k.path != route.params.id){
             arrfordiscog.push(k)
           }
         }

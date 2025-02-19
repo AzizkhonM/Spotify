@@ -23,7 +23,7 @@
           <p class="color-texts">{{ main.tracksnumber }} songs</p>
           <p class="color-texts">•</p>
           <p v-if="main.timehour !== 0" class="color-texts">about {{ main.timehour }} hour</p>
-          <p class="color-texts">{{ main.timeminute }} min</p>
+          <p class="color-texts" v-if="main.timeminute">{{ main.timeminute }} min</p>
           <p v-if="main.timehour === 0" class="color-texts">{{ main.timesecond }} sec</p>
         </div>
       </div>
@@ -115,10 +115,9 @@
               </div>
             </div>
           </div>
-          <div class="albumname text-[#b3b3b3]">
-            <NuxtLink :to="`/album/${getAlbumPath(el)}`"
-              style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap;">
-              <h1 class="hover:underline w-max hover:cursor-pointer">{{ getAlbum(el) }}</h1>
+          <div class="albumname text-[#b3b3b3]" style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap;">
+            <NuxtLink :to="`/album/${getAlbumPath(el)}`" style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap;">
+              <h1 class="hover:underline w-max hover:cursor-pointer" style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap;">{{ getAlbum(el) }}</h1>
             </NuxtLink>
           </div>
           <div class="">

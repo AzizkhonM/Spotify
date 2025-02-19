@@ -946,7 +946,7 @@
             {
                 "id": 1,
                 "path": "7MXVkk9YMctZqd1Srtv4MB",
-                "trackname": "Starboy (feat. Daft Punk)",
+                "trackname": "Starboy",
                 "singers": ["The Weeknd", "Daft Punk"],
                 "explicit": true,
                 "duration": "3:50"
@@ -1615,7 +1615,7 @@
             "© 2023 Atlantic Recording Corporation, Warner Bros. Entertainment, Inc. & Mattel, Inc.",
             "℗ 2023 Atlantic Recording Corporation, Warner Bros. Entertainment, Inc. & Mattel, Inc."
         ],
-        "coverpath": "/dancethenight.jpg",
+        "coverpath": "/barbiethealbum.jpg",
         "tracks": [
             {
                 "id": 1,
@@ -4170,6 +4170,5073 @@
                 "singers": ["Post Malone", "Morgan Wallen"],
                 "explicit": true,
                 "duration": "2:58"
+            }
+        ]
+    },
+    {
+        "path": "3iPSVi54hsacKKl1xIR2eH",
+        "id": 35,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Short n' Sweet",
+        "albumsinger": "Sabrina Carpenter",
+        "albumsingerpath": "74KM79TiuVKeVCqs8QtB0B",
+        "albumsingerimagepath": "/sabrinacarpenter.jpg",
+        "albumreleaseyear": 2024,
+        "albumreleasemonth": 8,
+        "albumreleasedate": 23,
+        "tracksnumber": 12,
+        "timehour": 0,
+        "timeminute": 36,
+        "timesecond": 15,
+        "upcolorcode": "#204190",
+        "downcolorcode": "#0f2c7a",
+        "textcolorcode": "#b1cfff",
+        "coverpath": "/shortnsweet.jpg",
+        "credits" : [
+            "© 2024 Island Records, a division of UMG Recordings, Inc.",
+            "℗ 2024 Island Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "5G2f63n7IPVPPjfNIGih7Q",
+                "trackname": "Taste",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": false,
+                "duration": "2:37"
+            },
+            {
+                "id": 2,
+                "path": "2tHwzyyOLoWSFqYNjeVMzj",
+                "trackname": "Please Please Please",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "3:06"
+            },
+            {
+                "id": 3,
+                "path": "102YUQbYmwdBXS7jwamI90",
+                "trackname": "Good Graces",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "3:05"
+            },
+            {
+                "id": 4,
+                "path": "3iPIDAFybaoyqX7hvAfWkl",
+                "trackname": "Sharpest Tool",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "3:38"
+            },
+            {
+                "id": 5,
+                "path": "5oIVNm56t6OIf9ZjdEG3ud",
+                "trackname": "Coincidence",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": false,
+                "duration": "2:44"
+            },
+            {
+                "id": 6,
+                "path": "1UHS8Rf6h5Ar3CDWRd3wjF",
+                "trackname": "Bed Chem",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": false,
+                "duration": "2:51"
+            },
+            {
+                "id": 7,
+                "path": "2HRqTpkrJO5ggZyyK6NPWz",
+                "trackname": "Espresso",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "2:55"
+            },
+            {
+                "id": 8,
+                "path": "5VhvD0AKRprEaFtPNKGBQR",
+                "trackname": "Dumb & Poetic",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "2:13"
+            },
+            {
+                "id": 9,
+                "path": "0XkZmBCCcdMY0EPY8ij6Gb",
+                "trackname": "Slim Pickins",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": false,
+                "duration": "2:32"
+            },
+            {
+                "id": 10,
+                "path": "21B4gaTWnTkuSh77iWEXdS",
+                "trackname": "Juno",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "3:43"
+            },
+            {
+                "id": 11,
+                "path": "5il0jwWUlvgtIzWvzJi12z",
+                "trackname": "Lie To Girls",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "3:22"
+            },
+            {
+                "id": 12,
+                "path": "09LrGvT9KsACH66RHYMDyR",
+                "trackname": "Don’t Smile",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": false,
+                "duration": "3:26"
+            }
+        ]
+    },
+    {
+        "path": "2g4aJTa5ejGpp0O0GKzWAQ",
+        "id": 36,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "emails i can’t send fwd:",
+        "albumsinger": "Sabrina Carpenter",
+        "albumsingerpath": "74KM79TiuVKeVCqs8QtB0B",
+        "albumsingerimagepath": "/sabrinacarpenter.jpg",
+        "albumreleaseyear": 2023,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 17,
+        "tracksnumber": 17,
+        "timehour": 0,
+        "timeminute": 51,
+        "timesecond": 5,
+        "upcolorcode": "#7f2817",
+        "downcolorcode": "#640a01",
+        "textcolorcode": "#ffbead",
+        "coverpath": "/emailsicantsendfwd.jpg",
+        "credits" : [
+            "© 2023 Island Records, a division of UMG Recordings, Inc.",
+            "℗ 2023 Island Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "6xi4KL7KDYjzz3wuvLBeOg",
+                "trackname": "emails i can’t send",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "1:44"
+            },
+            {
+                "id": 2,
+                "path": "3o99q6o0C2HdEiXJbLL5Wb",
+                "trackname": "Vicious",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "2:29"
+            },
+            {
+                "id": 3,
+                "path": "2Irr5XfPM6cyoKijHSCrqM",
+                "trackname": "Read your Mind",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": false,
+                "duration": "3:27"
+            },
+            {
+                "id": 4,
+                "path": "53pcTIVGVE58vWWM7hfYPl",
+                "trackname": "Tornado Warnings",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "3:24"
+            },
+            {
+                "id": 5,
+                "path": "1Y7qOCA4FMQlxJjpekw8X0",
+                "trackname": "because i liked a boy",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "3:16"
+            },
+            {
+                "id": 6,
+                "path": "443Rp7TCj7n3SNDkmRIQb6",
+                "trackname": "Already Over",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": false,
+                "duration": "2:50"
+            },
+            {
+                "id": 7,
+                "path": "6NvlhDdVgFotNgPK30LM2T",
+                "trackname": "how many things",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "4:03"
+            },
+            {
+                "id": 8,
+                "path": "2emeScREzF5sqckc9Lejc4",
+                "trackname": "bet u wanna",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": false,
+                "duration": "3:11"
+            },
+            {
+                "id": 9,
+                "path": "6jSQ6c7OkA4ExGWM61uYcS",
+                "trackname": "Nonsense",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": false,
+                "duration": "2:43"
+            },
+            {
+                "id": 10,
+                "path": "2PF942PpnXkvXgLjphm8gG",
+                "trackname": "Fast Times",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "2:54"
+            },
+            {
+                "id": 11,
+                "path": "436RVcyrHyXdqYNWGYMxx5",
+                "trackname": "skinny dipping",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": false,
+                "duration": "2:57"
+            },
+            {
+                "id": 12,
+                "path": "1pp48yqPWZIsaDSIBrVe0r",
+                "trackname": "Bad for Business",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": false,
+                "duration": "3:08"
+            },
+            {
+                "id": 13,
+                "path": "58AFokYCv4jdJ2T0hEoQ2r",
+                "trackname": "decode",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": false,
+                "duration": "3:08"
+            },
+            {
+                "id": 14,
+                "path": "27Jko74ZSVY1kwt0vMY6Pu",
+                "trackname": "opposite",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": false,
+                "duration": "2:48"
+            },
+            {
+                "id": 15,
+                "path": "2Zo1PcszsT9WQ0ANntJbID",
+                "trackname": "Feather",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "3:05"
+            },
+            {
+                "id": 16,
+                "path": "0HYhOGKAHiOsv8GW4JdMJ8",
+                "trackname": "Lonesome",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "3:07"
+            },
+            {
+                "id": 17,
+                "path": "2t2fnYja6b2pUizMungIo0",
+                "trackname": "things i wish you said",
+                "singers": ["Sabrina Carpenter"],
+                "explicit": true,
+                "duration": "2:42"
+            }
+        ]
+    },
+    {
+        "path": "3LXVxMUrioKZcoheV2zT3u",
+        "id": 37,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Alien",
+        "albumsinger": ["Sabrina Carpenter", "Jonas Blue"],
+        "albumsingerpath": "74KM79TiuVKeVCqs8QtB0B",
+        "albumsingerimagepath": "/sabrinacarpenter.jpg",
+        "albumreleaseyear": 2018,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 16,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 2,
+        "timesecond": 54,
+        "upcolorcode": "#38586f",
+        "downcolorcode": "#17354d",
+        "textcolorcode": "#aed2ee",
+        "coverpath": "/alien_single.jpg",
+        "credits": [
+            "© 2018 Hollywood Records, Inc",
+            "℗ 2018 Hollywood Records, Inc"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "0RUTnY2B3s05fZuCHsNaUP",
+                "trackname": "Alien",
+                "singers": ["Sabrina Carpenter", "Jonas Blue"],
+                "explicit": false,
+                "duration": "2:54"
+            }
+        ]
+    },
+    {
+        "path": "6s84u2TUpR3wdUv4NgKA2j",
+        "id": 38,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "SOUR",
+        "albumsinger": "Olivia Rodrigo",
+        "albumsingerpath": "1McMsnEElThX1knmY4oliG",
+        "albumsingerimagepath": "/oliviarodrigo.jpg",
+        "albumreleaseyear": 2021,
+        "albumreleasemonth": 5,
+        "albumreleasedate": 21,
+        "tracksnumber": 11,
+        "timehour": 0,
+        "timeminute": 34,
+        "timesecond": 46,
+        "upcolorcode": "#7f77c0",
+        "downcolorcode": "#362a6a",
+        "textcolorcode": "#cdc7ff",
+        "coverpath": "/sour.jpg",
+        "credits" : [
+            "© 2021 Olivia Rodrigo, under exclusive license to Geffen Records",
+            "℗ 2021 Olivia Rodrigo, under exclusive license to Geffen Records"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "6SRsiMl7w1USE4mFqrOhHC",
+                "trackname": "brutal",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": true,
+                "duration": "2:23"
+            },
+            {
+                "id": 2,
+                "path": "5CZ40GBx1sQ9agT82CLQCT",
+                "trackname": "traitor",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": false,
+                "duration": "3:49"
+            },
+            {
+                "id": 3,
+                "path": "5wANPM4fQCJwkGd4rN57mH",
+                "trackname": "drivers license",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": true,
+                "duration": "4:02"
+            },
+            {
+                "id": 4,
+                "path": "4wcBRRpIfesgcyUtis7PEg",
+                "trackname": "1 step forward, 3 steps back",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": true,
+                "duration": "2:43"
+            },
+            {
+                "id": 5,
+                "path": "6HU7h9RYOaPRFeh0R3UeAr",
+                "trackname": "deja vu",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": true,
+                "duration": "3:35"
+            },
+            {
+                "id": 6,
+                "path": "4ZtFanR9U6ndgddUvNcjcG",
+                "trackname": "good 4 u",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": true,
+                "duration": "2:58"
+            },
+            {
+                "id": 7,
+                "path": "2TOzTqQXNmR2zDJXihjZ2e",
+                "trackname": "enough for you",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": false,
+                "duration": "3:22"
+            },
+            {
+                "id": 8,
+                "path": "2tGvwE8GcFKwNdAXMnlbfl",
+                "trackname": "happier",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": true,
+                "duration": "2:55"
+            },
+            {
+                "id": 9,
+                "path": "0MMyJUC3WNnFS1lit5pTjk",
+                "trackname": "jealousy, jealousy",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": false,
+                "duration": "2:53"
+            },
+            {
+                "id": 10,
+                "path": "5JCoSi02qi3jJeHdZXMmR8",
+                "trackname": "favorite crime",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": false,
+                "duration": "2:32"
+            },
+            {
+                "id": 11,
+                "path": "1zejeOnykpCoyVSit6Bwp3",
+                "trackname": "hope ur ok",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": false,
+                "duration": "3:29"
+            }
+        ]
+    },
+    {
+        "path": "1xJHno7SmdVtZAtXbdbDZp",
+        "id": 39,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "GUTS",
+        "albumsinger": "Olivia Rodrigo",
+        "albumsingerpath": "1McMsnEElThX1knmY4oliG",
+        "albumsingerimagepath": "/oliviarodrigo.jpg",
+        "albumreleaseyear": 2023,
+        "albumreleasemonth": 9,
+        "albumreleasedate": 8,
+        "tracksnumber": 12,
+        "timehour": 0,
+        "timeminute": 39,
+        "timesecond": 18,
+        "upcolorcode": "#18173f",
+        "downcolorcode": "#191840",
+        "textcolorcode": "#c3caff",
+        "coverpath": "/guts.jpg",
+        "credits" : [
+            "© 2023 Olivia Rodrigo, under exclusive license to Geffen Records",
+            "℗ 2023 Olivia Rodrigo, under exclusive license to Geffen Records"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "34sOdxWu9FljH84UXdRwu1",
+                "trackname": "all-american bitch",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": true,
+                "duration": "2:45"
+            },
+            {
+                "id": 2,
+                "path": "3IX0yuEVvDbnqUwMBB3ouC",
+                "trackname": "bad idea right?",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": true,
+                "duration": "3:04"
+            },
+            {
+                "id": 3,
+                "path": "1kuGVB7EU95pJObxwvfwKS",
+                "trackname": "vampire",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": true,
+                "duration": "3:39"
+            },
+            {
+                "id": 4,
+                "path": "6QT6j7rKt7Vk3IuV2AUO9W",
+                "trackname": "lacy",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": false,
+                "duration": "2:57"
+            },
+            {
+                "id": 5,
+                "path": "5sp71CUt0jXRNqHblPGp7b",
+                "trackname": "ballad of a homeschooled girl",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": false,
+                "duration": "3:23"
+            },
+            {
+                "id": 6,
+                "path": "5CscrLqFBgPfZR8fGtikov",
+                "trackname": "making the bed",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": false,
+                "duration": "3:18"
+            },
+            {
+                "id": 7,
+                "path": "53dtP2iUMvaF28JZcHnFuU",
+                "trackname": "logical",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": false,
+                "duration": "3:51"
+            },
+            {
+                "id": 8,
+                "path": "2gyxAWHebV7xPYVxqoi86f",
+                "trackname": "get him back!",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": true,
+                "duration": "3:31"
+            },
+            {
+                "id": 9,
+                "path": "26QLJMK8G0M06sk7h7Fkse",
+                "trackname": "love is embarrassing",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": true,
+                "duration": "2:34"
+            },
+            {
+                "id": 10,
+                "path": "3Nl5OkkmS5DaBZvuYofpAt",
+                "trackname": "the grudge",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": true,
+                "duration": "3:09"
+            },
+            {
+                "id": 11,
+                "path": "6W9l02gRsXVxzIuQC1oc1X",
+                "trackname": "pretty isn’t pretty",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": true,
+                "duration": "3:19"
+            },
+            {
+                "id": 12,
+                "path": "7fesNTgTEMEH0ye8MOgEDY",
+                "trackname": "teenage dream",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": false,
+                "duration": "3:42"
+            }
+        ]
+    },
+    {
+        "path": "07J7Q3Z7V00LvCxqzVqj9s",
+        "id": 40,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Can’t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+        "albumsinger": ["Olivia Rodrigo"],
+        "albumsingerpath": "1McMsnEElThX1knmY4oliG",
+        "albumsingerimagepath": "/oliviarodrigo.jpg",
+        "albumreleaseyear": 2023,
+        "albumreleasemonth": 11,
+        "albumreleasedate": 3,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 3,
+        "timesecond": 25,
+        "upcolorcode": "#be580e",
+        "downcolorcode": "#650b00",
+        "textcolorcode": "#ffc099",
+        "coverpath": "/cantcatchmenow_single.jpg",
+        "credits": [
+            "© 2023 Olivia Rodrigo, under exclusive license to Geffen Records",
+            "℗ 2023 Olivia Rodrigo, under exclusive license to Geffen Records"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "56xHMIfQPoe0prrSi3BGhf",
+                "trackname": "Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+                "singers": ["Olivia Rodrigo"],
+                "explicit": false,
+                "duration": "3:25"
+            }
+        ]
+    },
+    {
+        "path": "5H7ixXZfsNMGbIE5OBSpcb",
+        "id": 41,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "albumsinger": "Taylor Swift",
+        "albumsingerpath": "06HL4z0CvFAxyc27GXpf02",
+        "albumsingerimagepath": "/taylorswift.jpg",
+        "albumreleaseyear": 2024,
+        "albumreleasemonth": 4,
+        "albumreleasedate": 19,
+        "tracksnumber": 31,
+        "timehour": 2,
+        "timeminute": 2,
+        "timesecond": 0,
+        "upcolorcode": "#525252",
+        "downcolorcode": "#353535",
+        "textcolorcode": "#CDCDCD",
+        "coverpath": "/thetorturedpoetsdepartment.jpg",
+        "credits" : [
+            "© 2024 Taylor Swift",
+            "℗ 2024 Taylor Swift"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "6dODwocEuGzHAavXqTbwHv",
+                "trackname": "Fortnight (feat. Post Malone)",
+                "singers": ["Taylor Swift", "Post Malone"],
+                "explicit": false,
+                "duration": "3:48"
+            },
+            {
+                "id": 2,
+                "path": "4PdLaGZubp4lghChqp8erB",
+                "trackname": "The Tortured Poets Department",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "4:53"
+            },
+            {
+                "id": 3,
+                "path": "7uGYWMwRy24dm7RUDDhUlD",
+                "trackname": "My Boy Only Breaks His Favorite Toys",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:23"
+            },
+            {
+                "id": 4,
+                "path": "1kbEbBdEgQdQeLXCJh28pJ",
+                "trackname": "Down Bad",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "4:21"
+            },
+            {
+                "id": 5,
+                "path": "7wAkQFShJ27V8362MqevQr",
+                "trackname": "So Long, London",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "4:22"
+            },
+            {
+                "id": 6,
+                "path": "4QMgEffJQuKtjCNvqfRZ0m",
+                "trackname": "But Daddy I Love Him",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "5:40"
+            },
+            {
+                "id": 7,
+                "path": "7IWcDWOfiooH5hRs9XOVYz",
+                "trackname": "Fresh Out The Slammer",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:30"
+            },
+            {
+                "id": 8,
+                "path": "5ExOm0dh4NyRyAdSAO9hyM",
+                "trackname": "Florida!!! (feat. Florence + The Machine)",
+                "singers": ["Taylor Swift", "Florence + The Machine"],
+                "explicit": true,
+                "duration": "3:35"
+            },
+            {
+                "id": 9,
+                "path": "799KrpEbhZp0MHeiA8YK9P",
+                "trackname": "Guilty as Sin?",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "4:14"
+            },
+            {
+                "id": 10,
+                "path": "2d8UxVNhJinc8uat9PoM9y",
+                "trackname": "Who’s Afraid of Little Old Me?",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "5:34"
+            },
+            {
+                "id": 11,
+                "path": "5chnRTB9qMK3W1M41SnU9s",
+                "trackname": "I Can Fix Him (No Really I Can)",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "2:36"
+            },
+            {
+                "id": 12,
+                "path": "3YkNIrAvbKNrrwwEd7NVLl",
+                "trackname": "loml",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "4:37"
+            },
+            {
+                "id": 13,    
+                "path": "2fPvQfGQEZOKtJ9qXeL4x8",
+                "trackname": "I Can Do It With a Broken Heart",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "3:38"
+            },
+            {
+                "id": 14,
+                "path": "1xtw1krCR6Dw2KwkXw5z63",
+                "trackname": "The Smallest Man Who Ever Lived",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "4:05"
+            },
+            {
+                "id": 15,
+                "path": "1tuNqJOtRQVHvONR8Lg3MZ",
+                "trackname": "The Alchemy",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:16"
+            },
+            {
+                "id": 16,
+                "path": "4d9PtIEVij9jW5OaLinH66",
+                "trackname": "Clara Bow",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:36"
+            },
+            {
+                "id": 17,
+                "path": "62E2nR0od0M5HYxuYLaDz7",
+                "trackname": "The Black Dog",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "3:58"
+            },
+            {
+                "id": 18,
+                "path": "1kcwpPDQnqEqmezzXdJTCP",
+                "trackname": "imgonnagetyouback",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:42"
+            },
+            {
+                "id": 19,
+                "path": "4EF6IyONolQy0bIQXm2EmX",
+                "trackname": "The Albatross",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:03"
+            },
+            {
+                "id": 20,
+                "path": "1rmEsOezwf2lmIZTMAO5Ag",
+                "trackname": "Chloe or Sam or Sophia or Marcus",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:33"
+            },
+            {
+                "id": 21,
+                "path": "5Bedn0svl0ZD7RGmJkmKKw",
+                "trackname": "How Did It End?",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:58"
+            },
+            {
+                "id": 22,
+                "path": "7Mts0OfPorF4iwOomvfqn1",
+                "trackname": "So High School",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:48"
+            },
+            {
+                "id": 23,
+                "path": "3hlGuz3loYoLfI3bpwieWq",
+                "trackname": "I Hate It Here",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "4:03"
+            },
+            {
+                "id": 24,
+                "path": "7ogK4lJDVDMU6A6vYR5rvD",
+                "trackname": "thanK you aIMee",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "4:23"
+            },
+            {
+                "id": 25,
+                "path": "1Zai5UJ2di3qEuR2HeT2s8",
+                "trackname": "I Look in People's Windows",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "2:11"
+            },
+            {
+                "id": 26,
+                "path": "18WFFUIsewmA8g31KAeo3e",
+                "trackname": "The Prophecy",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "4:09"
+            },
+            {
+                "id": 27,
+                "path": "0g4fMVo4JjwnIpTfFfLdxS",
+                "trackname": "Cassandra",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "4:00"
+            },
+            {
+                "id": 28,
+                "path": "3zMDGj4D8ogaYgAIZPeU7S",
+                "trackname": "Peter",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "4:43"
+            },
+            {
+                "id": 29,
+                "path": "2913xXOVAIDAqxzV2g4VcU",
+                "trackname": "The Bolter",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "3:58"
+            },
+            {
+                "id": 30,
+                "path": "2CnjDMdpRjlWv04Xk3s6MW",
+                "trackname": "Robin",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "4:00"
+            },
+            {
+                "id": 31,
+                "path": "1DTRUYVd8rYpla9hhVVwjo",
+                "trackname": "The Manuscript",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:44"
+            }
+        ]
+    },
+    {
+        "path": "1NAmidJlEaVgA3MpcPFYGq",
+        "id": 42,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Lover",
+        "albumsinger": "Taylor Swift",
+        "albumsingerpath": "06HL4z0CvFAxyc27GXpf02",
+        "albumsingerimagepath": "/taylorswift.jpg",
+        "albumreleaseyear": 2019,
+        "albumreleasemonth": 8,
+        "albumreleasedate": 23,
+        "tracksnumber": 18,
+        "timehour": 1,
+        "timeminute": 1,
+        "timesecond": 0,
+        "upcolorcode": "#b38e96",
+        "downcolorcode": "#4b2c32",
+        "textcolorcode": "#ebc3cb",
+        "coverpath": "/lover.jpg",
+        "credits" : [
+            "© 2019 Taylor Swift",
+            "℗ 2019 Taylor Swift"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "43rA71bccXFGD4C8GOpIlN",
+                "trackname": "I Forgot That You Existed",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "2:50"
+            },
+            {
+                "id": 2,
+                "path": "1BxfuPKGuaTgP7aM0Bbdwr",
+                "trackname": "Cruel Summer",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "2:58"
+            },
+            {
+                "id": 3,
+                "path": "1dGr1c8CrMLDpV6mPbImSI",
+                "trackname": "Lover",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:41"
+            },
+            {
+                "id": 4,
+                "path": "3RauEVgRgj1IuWdJ9fDs70",
+                "trackname": "The Man",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:10"
+            },
+            {
+                "id": 5,
+                "path": "3pHkh7d0lzM2AldUtz2x37",
+                "trackname": "The Archer",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:31"
+            },
+            {
+                "id": 6,
+                "path": "2YWtcWi3a83pdEg3Gif4Pd",
+                "trackname": "I Think He Knows",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "2:53"
+            },
+            {
+                "id": 7,
+                "path": "214nt20w5wOxJnY462klLw",
+                "trackname": "Miss Americana & The Heartbreak Prince",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:54"
+            },
+            {
+                "id": 8,
+                "path": "4y5bvROuBDPr5fuwXbIBZR",
+                "trackname": "Paper Rings",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:42"
+            },
+            {
+                "id": 9,
+                "path": "12M5uqx0ZuwkpLp5rJim1a",
+                "trackname": "Cornelia Street",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "4:47"
+            },
+            {
+                "id": 10,
+                "path": "2dgFqt3w9xIQRjhPtwNk3D",
+                "trackname": "Death By A Thousand Cuts",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:18"
+            },
+            {
+                "id": 11,
+                "path": "1LLXZFeAHK9R4xUramtUKw",
+                "trackname": "London Boy",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:10"
+            },
+            {
+                "id": 12,
+                "path": "4AYtqFyFbX0Xkc2wtcygTr",
+                "trackname": "Soon You’ll Get Better (feat. The Chicks)",
+                "singers": ["Taylor Swift", "The Chicks"],
+                "explicit": false,
+                "duration": "3:21"
+            },
+            {
+                "id": 13,    
+                "path": "5hQSXkFgbxjZo9uCwd11so",
+                "trackname": "False",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:20"
+            },
+            {
+                "id": 14,
+                "path": "6RRNNciQGZEXnqk8SQ9yv5",
+                "trackname": "You Need To Calm Down",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "2:51"
+            },
+            {
+                "id": 15,
+                "path": "1SymEzIT3H8UZfibCs3TYi",
+                "trackname": "Afterglow",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:43"
+            },
+            {
+                "id": 16,
+                "path": "2Rk4JlNc2TPmZe2af99d45",
+                "trackname": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+                "singers": ["Taylor Swift", "Brendon Urie", "Panic! At The Disco"],
+                "explicit": false,
+                "duration": "3:13"
+            },
+            {
+                "id": 17,
+                "path": "1SmiQ65iSAbPto6gPFlBYm",
+                "trackname": "It’s Nice To Have A Friend",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "2:30"
+            },
+            {
+                "id": 18,
+                "path": "1fzAuUVbzlhZ1lJAx9PtY6",
+                "trackname": "Daylight",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "4:53"
+            }
+        ]
+    },
+    {
+        "path": "2fenSS68JI1h4Fo296JfGr",
+        "id": 43,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "folklore",
+        "albumsinger": "Taylor Swift",
+        "albumsingerpath": "06HL4z0CvFAxyc27GXpf02",
+        "albumsingerimagepath": "/taylorswift.jpg",
+        "albumreleaseyear": 2020,
+        "albumreleasemonth": 7,
+        "albumreleasedate": 24,
+        "tracksnumber": 16,
+        "timehour": 1,
+        "timeminute": 3,
+        "timesecond": 0,
+        "upcolorcode": "#525252",
+        "downcolorcode": "#353535",
+        "textcolorcode": "#CDCDCD",
+        "coverpath": "/folklore.jpg",
+        "credits" : [
+            "© 2020 Taylor Swift",
+            "℗ 2020 Taylor Swift"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "0Jlcvv8IykzHaSmj49uNW8",
+                "trackname": "the 1",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "3:30"
+            },
+            {
+                "id": 2,
+                "path": "4R2kfaDFhslZEMJqAFNpdd",
+                "trackname": "cardigan",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:59"
+            },
+            {
+                "id": 3,
+                "path": "2Eeur20xVqfUoM3Q7EFPFt",
+                "trackname": "the last great american dynasty",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "3:40"
+            },
+            {
+                "id": 4,
+                "path": "4pvb0WLRcMtbPGmtejJJ6y",
+                "trackname": "exile (feat. Bon Iver)",
+                "singers": ["Taylor Swift", "Bon Iver"],
+                "explicit": false,
+                "duration": "4:45"
+            },
+            {
+                "id": 5,
+                "path": "1MgV7FIyNxIG7WzMRJV5HC ",
+                "trackname": "my tears ricochet",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "4:15"
+            },
+            {
+                "id": 6,
+                "path": "0ZNU020wNYvgW84iljPkPP",
+                "trackname": "mirrorball",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:28"
+            },
+            {
+                "id": 7,
+                "path": "6KJqZcs9XDgVck7Lg9QOTC",
+                "trackname": "seven",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:28"
+            },
+            {
+                "id": 8,
+                "path": "3hUxzQpSfdDqwM3ZTFQY0K",
+                "trackname": "august",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "4:21"
+            },
+            {
+                "id": 9,
+                "path": "7kt9e9LFSpN1zQtYEl19o1",
+                "trackname": "this is me trying",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:15"
+            },
+            {
+                "id": 10,
+                "path": "2NmsngXHeC1GQ9wWrzhOMf",
+                "trackname": "illicit affairs",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:10"
+            },
+            {
+                "id": 11,
+                "path": "6VsvKPJ4xjVNKpI8VVZ3SV",
+                "trackname": "invisible string",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "4:12"
+            },
+            {
+                "id": 12,
+                "path": "2QDyYdZyhlP2fp79KZX8Bi",
+                "trackname": "mad woman",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "3:57"
+            },
+            {
+                "id": 13,    
+                "path": "08fa9LFcFBTcilB3iq2e2A",
+                "trackname": "epiphany",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "4:49"
+            },
+            {
+                "id": 14,
+                "path": "5kI4eCXXzyuIUXjQra0Cxi",
+                "trackname": "betty",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "4:54"
+            },
+            {
+                "id": 15,
+                "path": "7MbT4I8qGntX4fMdqMQgke",
+                "trackname": "peace",
+                "singers": ["Taylor Swift"],
+                "explicit": true,
+                "duration": "3:54"
+            },
+            {
+                "id": 16,
+                "path": "6MWoRt97mnSTXZhu3ggi9C",
+                "trackname": "hoax",
+                "singers": ["Taylor Swift"],
+                "explicit": false,
+                "duration": "3:40"
+            }
+        ]
+    },
+    {
+        "path": "1agEHpWnELaZHWzcbGDCpu",
+        "id": 44,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
+        "albumsinger": ["Taylor Swift", "BLOND:ISH"],
+        "albumsingerpath": "06HL4z0CvFAxyc27GXpf02",
+        "albumsingerimagepath": "/taylorswift.jpg",
+        "albumreleaseyear": 2024,
+        "albumreleasemonth": 5,
+        "albumreleasedate": 22,
+        "tracksnumber": 2,
+        "timehour": 0,
+        "timeminute": 7,
+        "timesecond": 25,
+        "upcolorcode": "#535353",
+        "downcolorcode": "#353535",
+        "textcolorcode": "#CDCDCD",
+        "coverpath": "/fortnight_single.jpg",
+        "credits": [
+            "© 2024 Taylor Swift",
+            "℗ 2024 Taylor Swift"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "1gejz5ROvJBUb6WJzkMAcc",
+                "trackname": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
+                "singers": ["Taylor Swift", "Post Malone", "BLOND:ISH"],
+                "explicit": false,
+                "duration": "3:36"
+            },
+            {
+                "id": 1,
+                "path": "20nACtTlLpHqevuIVVD166",
+                "trackname": "Fortnight (feat. Post Malone)",
+                "singers": ["Taylor Swift", "Post Malone"],
+                "explicit": false,
+                "duration": "3:48"
+            }
+        ]
+    },
+    {
+        "path": "6ZG5lRT77aJ3btmArcykra",
+        "id": 45,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Parachutes",
+        "albumsinger": "Coldplay",
+        "albumsingerpath": "4gzpq5DPGxSnKTe4SA8HAU",
+        "albumsingerimagepath": "/coldplay.jpg",
+        "albumreleaseyear": 2000,
+        "albumreleasemonth": 7,
+        "albumreleasedate": 10,
+        "tracksnumber": 10,
+        "timehour": 0,
+        "timeminute": 41,
+        "timesecond": 55,
+        "upcolorcode": "#bf6706",
+        "downcolorcode": "#5f1c01",
+        "textcolorcode": "#ffc188",
+        "coverpath": "/parachutes.jpg",
+        "credits" : [
+            "© 2000 Parlophone Records Ltd, a Warner Music Group Company",
+            "℗ 2000 Parlophone Records Ltd, a Warner Music Group Company"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "2QhURnm7mQDxBb5jWkbDug",
+                "trackname": "Don't Panic",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "2:16"
+            },
+            {
+                "id": 2,
+                "path": "0qksx8mV28lztYIZ1om8ml",
+                "trackname": "Shiver",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "5:04"
+            },
+            {
+                "id": 3,
+                "path": "2mLgOcRkEgq89j8WstUpui",
+                "trackname": "Spies",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "5:18"
+            },
+            {
+                "id": 4,
+                "path": "7D0RhFcb3CrfPuTJ0obrod",
+                "trackname": "Sparks",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "3:47"
+            },
+            {
+                "id": 5,
+                "path": "3AJwUDP919kvQ9QcozQPxg",
+                "trackname": "Yellow",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "4:26"
+            },
+            {
+                "id": 6,
+                "path": "0R8P9KfGJCDULmlEoBagcO",
+                "trackname": "Trouble",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "4:33"
+            },
+            {
+                "id": 7,
+                "path": "4qzoHxgp42ylb18ga1SWTL",
+                "trackname": "Parachutes",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "0:46"
+            },
+            {
+                "id": 8,
+                "path": "2DHgvPQD1jApRnT1DBZdrS",
+                "trackname": "High Speed",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "4:16"
+            },
+            {
+                "id": 9,
+                "path": "5TB6QgrF0RPIxSCGfRDLoe",
+                "trackname": "We Never Change",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "4:09"
+            },
+            {
+                "id": 10,
+                "path": "1RNtm45kw0hPMBz7gKiIYu",
+                "trackname": "Everything's Not Lost - Includes Hidden Track 'Life Is For Living'",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "7:16"
+            }
+        ]
+    },
+    {
+        "path": "3cfAM8b8KqJRoIzt3zLKqw",
+        "id": 46,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "A Head Full of Dreams",
+        "albumsinger": "Coldplay",
+        "albumsingerpath": "4gzpq5DPGxSnKTe4SA8HAU",
+        "albumsingerimagepath": "/coldplay.jpg",
+        "albumreleaseyear": 2015,
+        "albumreleasemonth": 12,
+        "albumreleasedate": 4,
+        "tracksnumber": 11,
+        "timehour": 0,
+        "timeminute": 45,
+        "timesecond": 50,
+        "upcolorcode": "#1f60c8",
+        "downcolorcode": "#002588",
+        "textcolorcode": "#abd0ff",
+        "coverpath": "/aheadfullofdreams.jpg",
+        "credits" : [
+            "© 2015 Parlophone Records Limited, a Warner Music Group Company",
+            "℗ 2015 Parlophone Records Limited, a Warner Music Group Company"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "6f49kbOuQSOsStBpyGvQfA",
+                "trackname": "A Head Full of Dreams",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "3:43"
+            },
+            {
+                "id": 2,
+                "path": "3HWDWyIqWuLsTHECx9DvXF",
+                "trackname": "Birds",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "3:49"
+            },
+            {
+                "id": 3,
+                "path": "3RiPr603aXAoi4GHyXx0uy",
+                "trackname": "Hymn for the Weekend",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "4:18"
+            },
+            {
+                "id": 4,
+                "path": "5qfZRNjt2TkHEL12r3sDEU",
+                "trackname": "Everglow",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "4:42"
+            },
+            {
+                "id": 5,
+                "path": "69uxyAqqPIsUyTO8txoP2M",
+                "trackname": "Adventure of a Lifetime",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "4:23"
+            },
+            {
+                "id": 6,
+                "path": "7fJFDK6XjYsXcMKNHESbot",
+                "trackname": "Fun (feat. Tove Lo)",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "4:27"
+            },
+            {
+                "id": 7,
+                "path": "7IX7VAXujvcZ3e1PG7sGP7",
+                "trackname": "Kaleidoscope",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "1:51"
+            },
+            {
+                "id": 8,
+                "path": "4giCxIFPZNQIP4bIZM4sqH",
+                "trackname": "Army of One",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "6:16"
+            },
+            {
+                "id": 9,
+                "path": "3wtV2ifnHzirkAElgTGh63",
+                "trackname": "Amazing Day",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "4:31"
+            },
+            {
+                "id": 10,
+                "path": "3VqiD8Yvk6bKwqS1e64PHB",
+                "trackname": "Colour Spectrum",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "1:00"
+            },
+            {
+                "id": 11,
+                "path": "31L9yLXSj6LpCFupyMV6CR",
+                "trackname": "Up&Up",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "6:45"
+            }
+        ]
+    },
+    {
+        "path": "1CEODgTmTwLyabvwd7HBty",
+        "id": 47,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Viva La Vida or Death and All His Friends",
+        "albumsinger": "Coldplay",
+        "albumsingerpath": "4gzpq5DPGxSnKTe4SA8HAU",
+        "albumsingerimagepath": "/coldplay.jpg",
+        "albumreleaseyear": 2008,
+        "albumreleasemonth": 5,
+        "albumreleasedate": 26,
+        "tracksnumber": 10,
+        "timehour": 0,
+        "timeminute": 45,
+        "timesecond": 55,
+        "upcolorcode": "#a63f2e",
+        "downcolorcode": "#640000",
+        "textcolorcode": "#ffbeaf",
+        "coverpath": "/vivalavida.jpg",
+        "credits" : [
+            "© 2015 Parlophone Records Limited, a Warner Music Group Company",
+            "℗ 2015 Parlophone Records Limited, a Warner Music Group Company"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "1rkbMXhEjIytsUGbhoR5pn",
+                "trackname": "Life in Technicolor",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "2:29"
+            },
+            {
+                "id": 2,
+                "path": "03uqdEuopXPSCg4MvgA2fI",
+                "trackname": "Cemeteries of London",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "3:21"
+            },
+            {
+                "id": 3,
+                "path": "1STAWoWHYJh2UVUx41pYMD",
+                "trackname": "Lost!",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "3:56"
+            },
+            {
+                "id": 4,
+                "path": "2i2Lz3FDIqYdsJZEWkEaTC",
+                "trackname": "42",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "3:57"
+            },
+            {
+                "id": 5,
+                "path": "5qPGi9p8VqcizfdgWxtmLt",
+                "trackname": "Lovers in Japan",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "6:51"
+            },
+            {
+                "id": 6,
+                "path": "04zfFfRMXegKi4mMkGMeze",
+                "trackname": "Yes",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "7:06"
+            },
+            {
+                "id": 7,
+                "path": "1mea3bSkSGXuIRvnydlB5b",
+                "trackname": "Viva La Vida",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "4:02"
+            },
+            {
+                "id": 8,
+                "path": "1ZqHjApl3pfzwjweTfMi0g",
+                "trackname": "Violet Hill",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "3:42"
+            },
+            {
+                "id": 9,
+                "path": "2dphvmoLEXdk8hOYxmHlI3",
+                "trackname": "Strawberry Swing",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "4:09"
+            },
+            {
+                "id": 10,
+                "path": "0guzngk1qWk5sgdYbThEGI",
+                "trackname": "Death and All His Friends",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "6:18"
+            }
+        ]
+    },
+    {
+        "path": "6RjTapeTvms8jSeIRGc5Ve",
+        "id": 48,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "feelslikeimfallinginlove",
+        "albumsinger": ["Coldplay"],
+        "albumsingerpath": "4gzpq5DPGxSnKTe4SA8HAU",
+        "albumsingerimagepath": "/coldplay.jpg",
+        "albumreleaseyear": 2024,
+        "albumreleasemonth": 6,
+        "albumreleasedate": 21,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 3,
+        "timesecond": 57,
+        "upcolorcode": "#00a8af",
+        "downcolorcode": "#003a40",
+        "textcolorcode": "#5edfe7",
+        "coverpath": "/feelslikeimfallinginlove_single.jpg",
+        "credits": [
+            "© Under exclusive licence to Parlophone Records Limited., © 2024 Coldplay",
+            "℗ Under exclusive licence to Parlophone Records Limited, ℗ 2024 Coldplay"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "1YsU8rW2u8z4F0pwOBQ4Ea",
+                "trackname": "feelslikeimfallinginlove - Single Version",
+                "singers": ["Coldplay"],
+                "explicit": false,
+                "duration": "3:57"
+            }
+        ]
+    },
+    {
+        "path": "5r36AJ6VOJtp00oxSkBZ5h",
+        "id": 49,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Harry's House",
+        "albumsinger": "Harry Styles",
+        "albumsingerpath": "6KImCVD70vtIoJWnq6nGn3",
+        "albumsingerimagepath": "/harrystyles.jpg",
+        "albumreleaseyear": 2022,
+        "albumreleasemonth": 5,
+        "albumreleasedate": 20,
+        "tracksnumber": 13,
+        "timehour": 0,
+        "timeminute": 41,
+        "timesecond": 59,
+        "upcolorcode": "#6f2f2f",
+        "downcolorcode": "#5c1e21",
+        "textcolorcode": "#ffbdb9",
+        "coverpath": "/harryshouse.jpg",
+        "credits" : [
+            "℗ 2022 Erskine Records Limited, under exclusive license to Columbia Records, a Division of Sony Music Entertainment"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "5LYMamLv12UPbemOaTPyeV",
+                "trackname": "Music For a Sushi Restaurant",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "3:13"
+            },
+            {
+                "id": 2,
+                "path": "1qEmFfgcLObUfQm0j1W2CK",
+                "trackname": "Late Night Talking",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "2:57"
+            },
+            {
+                "id": 3,
+                "path": "4j6kId9QIqhoXvqHKgSKa0",
+                "trackname": "Grapejuice",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "3:11"
+            },
+            {
+                "id": 4,
+                "path": "4Dvkj6JhhA12EX05fT7y2e",
+                "trackname": "As It Was",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "2:47"
+            },
+            {
+                "id": 5,
+                "path": "51Zw1cKDgkad0CXv23HCMU",
+                "trackname": "Daylight",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "2:44"
+            },
+            {
+                "id": 6,
+                "path": "3i058E8uxTsYqJ5NWZzqSj",
+                "trackname": "Little Freak",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "3:22"
+            },
+            {
+                "id": 7,
+                "path": "6uvh0In7u1Xn4HgxOfAn8O",
+                "trackname": "Matilda",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "4:05"
+            },
+            {
+                "id": 8,
+                "path": "35TyJIMR3xRouUuo2sjS6v",
+                "trackname": "Cinema",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "4:03"
+            },
+            {
+                "id": 9,
+                "path": "69w5X6uTrOaWM32IetSzvO",
+                "trackname": "Daydreaming",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "3:07"
+            },
+            {
+                "id": 10,
+                "path": "2NcQic8JxdjAlAHuNbOIRE",
+                "trackname": "Keep Driving",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "2:20"
+            },
+            {
+                "id": 11,
+                "path": "0rzaRSujxA0bKyjJl6vHYq",
+                "trackname": "Satellite",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "3:38"
+            },
+            {
+                "id": 12,
+                "path": "6qj02zSeEJGWZ4c0dn5QzJ",
+                "trackname": "Boyfriends",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "3:14"
+            },
+            {
+                "id": 13,
+                "path": "1mw0RgNXIpYRyyCdBQbLgA",
+                "trackname": "Love Of My Life",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "3:11"
+            }
+        ]
+    },
+    {
+        "path": "7xV2TzoaVc0ycW7fwBwAml",
+        "id": 50,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Fine Line",
+        "albumsinger": "Harry Styles",
+        "albumsingerpath": "6KImCVD70vtIoJWnq6nGn3",
+        "albumsingerimagepath": "/harrystyles.jpg",
+        "albumreleaseyear": 2019,
+        "albumreleasemonth": 12,
+        "albumreleasedate": 13,
+        "tracksnumber": 12,
+        "timehour": 0,
+        "timeminute": 46,
+        "timesecond": 43,
+        "upcolorcode": "#00a6c3",
+        "downcolorcode": "#00394d",
+        "textcolorcode": "#5ddcfd",
+        "coverpath": "/fineline.jpg",
+        "credits" : [
+            "℗ 2019 Erskine Records Limited, under exclusive license to Columbia Records, a Division of Sony Music Entertainment"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "45S5WTQEGOB1VHr1Q4FuPl",
+                "trackname": "Golden",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "3:28"
+            },
+            {
+                "id": 2,
+                "path": "6UelLqGlWMcVH1E5c4H7lY",
+                "trackname": "Watermelon Sugar",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "2:54"
+            },
+            {
+                "id": 3,
+                "path": "3jjujdWJ72nww5eGnfs2E7",
+                "trackname": "Adore You",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "3:27"
+            },
+            {
+                "id": 4,
+                "path": "4jAIqgrPjKLTY9Gbez25Qb",
+                "trackname": "Lights Up",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "2:52"
+            },
+            {
+                "id": 5,
+                "path": "2IOFZdYYkFxEHVz1w34PoL",
+                "trackname": "Cherry",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "4:19"
+            },
+            {
+                "id": 6,
+                "path": "1ZMiCix7XSAbfAJlEZWMCp",
+                "trackname": "Falling",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "4:00"
+            },
+            {
+                "id": 7,
+                "path": "5JiH89mHrv9oWHlD0T326z",
+                "trackname": "To Be So Lonely",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "3:12"
+            },
+            {
+                "id": 8,
+                "path": "6SQLk9HSNketfgs2AyIiMs",
+                "trackname": "She",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "6:02"
+            },
+            {
+                "id": 9,
+                "path": "6iYMfxznTBlcVOgRHab2W0",
+                "trackname": "Sunflower, Vol. 6",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "3:41"
+            },
+            {
+                "id": 10,
+                "path": "5IhzJOXNE7ki0IIJbZbnGq",
+                "trackname": "Canyon Moon",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "3:09"
+            },
+            {
+                "id": 11,
+                "path": "03mMSLEJCPoGJwQhHpN5y0",
+                "trackname": "Treat People With Kindness",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "3:17"
+            },
+            {
+                "id": 12,
+                "path": "6VzcQuzTNTMFnJ6rBSaLH9",
+                "trackname": "Fine Line",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "6:17"
+            }
+        ]
+    },
+    {
+        "path": "7neiWgd56IO7vi2cRUP8Tj",
+        "id": 51,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Spotify Singles",
+        "albumsinger": ["Harry Styles"],
+        "albumsingerpath": "6KImCVD70vtIoJWnq6nGn3",
+        "albumsingerimagepath": "/harrystyles.jpg",
+        "albumreleaseyear": 2017,
+        "albumreleasemonth": 9,
+        "albumreleasedate": 27,
+        "tracksnumber": 2,
+        "timehour": 0,
+        "timeminute": 7,
+        "timesecond": 48,
+        "upcolorcode": "#f63f2f",
+        "downcolorcode": "#660000",
+        "textcolorcode": "#ffbeb1",
+        "coverpath": "/spotifysingleshs.jpg",
+        "credits": [
+            "℗ 2017 Erskine Records Limited, under exclusive license to Columbia Records, a Division of Sony Music Entertainment"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "1GDF5AusV7p0wwi4OVNz3i",
+                "trackname": "Two Ghosts - Recorded at Metropolis Studios, London",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "3:44"
+            },
+            {
+                "id": 2,
+                "path": "4YutJsNwBBInE8vemufpQ8",
+                "trackname": "Girl Crush - Recorded at Metropolis Studios, London",
+                "singers": ["Harry Styles"],
+                "explicit": false,
+                "duration": "4:03"
+            }
+        ]
+    },
+    {
+        "path": "2H6i2CrWgXE1HookLu8Au0",
+        "id": 52,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "True",
+        "albumsinger": "Avicii",
+        "albumsingerpath": "1vCWHaC5f2uS3yhpwWbIA6",
+        "albumsingerimagepath": "/avicii.jpg",
+        "albumreleaseyear": 2013,
+        "albumreleasemonth": 1,
+        "albumreleasedate": 1,
+        "tracksnumber": 10,
+        "timehour": 0,
+        "timeminute": 47,
+        "timesecond": 0,
+        "upcolorcode": "#525252",
+        "downcolorcode": "#353535",
+        "textcolorcode": "#CDCDCD",
+        "coverpath": "/true.jpg",
+        "credits" : [
+            "© 2013 Avicii Music AB, / PRMD under exclusive license to Universal Music AB",
+            "℗ 2013 Avicii Music AB, / PRMD under exclusive license to Universal Music AB"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "0nrRP2bk19rLc0orkWPQk2",
+                "trackname": "Wake Me Up",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "4:07"
+            },
+            {
+                "id": 2,
+                "path": "52RK8UVEDgUAgpecOpTQM3",
+                "trackname": "You Make Me",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "3:53"
+            },
+            {
+                "id": 3,
+                "path": "4lhqb6JvbHId48OUJGwymk",
+                "trackname": "Hey Brother",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "4:15"
+            },
+            {
+                "id": 4,
+                "path": "4eDYMhIin1pSLIG96f1aD0",
+                "trackname": "Addicted To You",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "2:28"
+            },
+            {
+                "id": 5,
+                "path": "4yTeQK2XThWYeEW8D72XmU",
+                "trackname": "Dear Boy",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "7:59"
+            },
+            {
+                "id": 6,
+                "path": "0b4PmGxMzWWx7NMrLJwFRR",
+                "trackname": "Liar Liar",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "3:58"
+            },
+            {
+                "id": 7,
+                "path": "13bHItq1R7F0k0mVZ4PUG8",
+                "trackname": "Shame On Me",
+                "singers": ["Avicii"],
+                "explicit": true,
+                "duration": "4:13"
+            },
+            {
+                "id": 8,
+                "path": "6ekvzkGg31TOQhHIFEd55x",
+                "trackname": "Lay Me Down",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "5:00"
+            },
+            {
+                "id": 9,
+                "path": "6x2knRcsrzp9O9bmJjtY7V",
+                "trackname": "Hope There's Someone",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "6:21"
+            },
+            {
+                "id": 10,
+                "path": "6BO5udfgxk73rgdlbwBQh8",
+                "trackname": "Heart Upon My Sleeve",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "4:43"
+            }
+        ]
+    },
+    {
+        "path": "7dqftJ3kas6D0VAdmt3k3V",
+        "id": 53,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Stories",
+        "albumsinger": "Avicii",
+        "albumsingerpath": "1vCWHaC5f2uS3yhpwWbIA6",
+        "albumsingerimagepath": "/avicii.jpg",
+        "albumreleaseyear": 2015,
+        "albumreleasemonth": 10,
+        "albumreleasedate": 2,
+        "tracksnumber": 14,
+        "timehour": 0,
+        "timeminute": 54,
+        "timesecond": 40,
+        "upcolorcode": "#c7276f",
+        "downcolorcode": "#63002c",
+        "textcolorcode": "#ffbbca",
+        "coverpath": "/stories.jpg",
+        "credits" : [
+            "© 2015 Avicii Music AB, under exclusive license to Universal Music AB",
+            "℗ 2015 Avicii Music AB, under exclusive license to Universal Music AB"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "2P4OICZRVAQcYAV2JReRfj",
+                "trackname": "Waiting For Love",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "3:50"
+            },
+            {
+                "id": 2,
+                "path": "5IZg7Ngm3CTOj9l00YSrt9",
+                "trackname": "Talk To Myself",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "3:55"
+            },
+            {
+                "id": 3,
+                "path": "07Wqp9LcTwzdIyuI0twXjx",
+                "trackname": "Touch Me",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "3:06"
+            },
+            {
+                "id": 4,
+                "path": "3Ai7wKn9UYkkNuygKgf4b2",
+                "trackname": "Ten More Days",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "4:05"
+            },
+            {
+                "id": 5,
+                "path": "7kbTZWt7DnzIzbkyzFE1PW",
+                "trackname": "For A Better Day",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "3:26"
+            },
+            {
+                "id": 6,
+                "path": "260jSxvzkFt71ksvkcy2ke",
+                "trackname": "Broken Arrows",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "3:52"
+            },
+            {
+                "id": 7,
+                "path": "4zJ3S7wjKwPvLbWmeKhceh",
+                "trackname": "True Believer",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "4:48"
+            },
+            {
+                "id": 8,
+                "path": "35j3CjgBRoqLp8LsAKsQF4",
+                "trackname": "City Lights",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "6:28"
+            },
+            {
+                "id": 9,
+                "path": "3uEu7hcvgrSOrgnMxzqugh",
+                "trackname": "Pure Grinding",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "2:51"
+            },
+            {
+                "id": 10,
+                "path": "3Q95VQL8yWRO8mkF6VoDzi",
+                "trackname": "Sunset Jesus",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "4:24"
+            },
+            {
+                "id": 11,
+                "path": "5vENpNhFdtArPAJgTAtnla",
+                "trackname": "Can't Catch Me",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "3:59"
+            },
+            {
+                "id": 12,
+                "path": "2K1zp0p7PVmrBUQu6evtfe",
+                "trackname": "Somewhere In Stockholm",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "3:22"
+            },
+            {
+                "id": 13,
+                "path": "0JZ9TvOLtZJaGqIyC4hYZX",
+                "trackname": "Trouble",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "2:51"
+            },
+            {
+                "id": 14,
+                "path": "1rDETmcizen79JghAEm1Se",
+                "trackname": "Gonna Love Ya",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "3:35"
+            }
+        ]
+    },
+    {
+        "path": "0h2knr6qpiAq0tV5ri5JMF",
+        "id": 54,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "The Days / Nights",
+        "albumsinger": "Avicii",
+        "albumsingerpath": "1vCWHaC5f2uS3yhpwWbIA6",
+        "albumsingerimagepath": "/avicii.jpg",
+        "albumreleaseyear": 2014,
+        "albumreleasemonth": 1,
+        "albumreleasedate": 1,
+        "tracksnumber": 4,
+        "timehour": 0,
+        "timeminute": 14,
+        "timesecond": 52,
+        "upcolorcode": "#cf2160",
+        "downcolorcode": "#650020",
+        "textcolorcode": "#ffbbca",
+        "coverpath": "/thedaysnights.jpg",
+        "credits" : [
+            "© 2014 Avicii Music AB, under exclusive license to Universal Music AB",
+            "℗ 2014 Avicii Music AB, under exclusive license to Universal Music AB"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "5Iy2Jj87Ha0C0IBlNE1I4y",
+                "trackname": "The Days",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "4:38"
+            },
+            {
+                "id": 2,
+                "path": "0ct6r3EGTcMLPtrXHDvVjc",
+                "trackname": "The Nights",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "2:56"
+            },
+            {
+                "id": 3,
+                "path": "4eteOEGYlGM33q76CKdPom",
+                "trackname": "The Days - Henrik B Remix",
+                "singers": ["Avicii", "Henrik B"],
+                "explicit": false,
+                "duration": "3:56"
+            },
+            {
+                "id": 4,
+                "path": "6xNSaBtoPKlPhXsNT7ZwLd",
+                "trackname": "The Nights - Felix Jaehn Remix",
+                "singers": ["Avicii", "Felix Jaehn"],
+                "explicit": false,
+                "duration": "3:20"
+            }
+        ]
+    },
+    {
+        "path": "1OEGfToF7QbjUgyxMAnGXg",
+        "id": 55,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Levels",
+        "albumsinger": ["Avicii"],
+        "albumsingerpath": "1vCWHaC5f2uS3yhpwWbIA6",
+        "albumsingerimagepath": "/avicii.jpg",
+        "albumreleaseyear": 2011,
+        "albumreleasemonth": 10,
+        "albumreleasedate": 28,
+        "tracksnumber": 4,
+        "timehour": 0,
+        "timeminute": 17,
+        "timesecond": 56,
+        "upcolorcode": "#b59526",
+        "downcolorcode": "#473100",
+        "textcolorcode": "#ebcb63",
+        "coverpath": "/levels.jpg",
+        "credits" : [
+            "© 2011 Avicii Music AB, under exclusive license to Universal Music AB",
+            "℗ 2011 Avicii Music AB, under exclusive license to Universal Music AB"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "5UqCQaDshqbIk3pkhy4Pjg",
+                "trackname": "Levels - Radio Edit",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "3:19"
+            },
+            {
+                "id": 2,
+                "path": "6Xe9wT5xeZETPwtaP2ynUz",
+                "trackname": "Levels - Original Version",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "5:38"
+            },
+            {
+                "id": 3,
+                "path": "5KmIVAQ0JI2dKdYW1UdLAH",
+                "trackname": "Levels - Instrumental Radio Edit",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "3:19"
+            },
+            {
+                "id": 4,
+                "path": "6iu35tnC8PuOdQHJEhM2II",
+                "trackname": "Levels - Instrumental",
+                "singers": ["Avicii"],
+                "explicit": false,
+                "duration": "5:38"
+            }
+        ]
+    },
+    {
+        "path": "1CfqWSAyfmYzHU9ktHxUqd",
+        "id": 56,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "96 Months",
+        "albumsinger": "Calvin Harris",
+        "albumsingerpath": "7CajNmpbOovFoOoasH2HaY",
+        "albumsingerimagepath": "/calvinharris.jpg",
+        "albumreleaseyear": 2024,
+        "albumreleasemonth": 8,
+        "albumreleasedate": 8,
+        "tracksnumber": 17,
+        "timehour": 0,
+        "timeminute": 55,
+        "timesecond": 48,
+        "upcolorcode": "#963f2e",
+        "downcolorcode": "#630d00",
+        "textcolorcode": "#ffbeae",
+        "coverpath": "/96months.jpg",
+        "credits" : [
+            "℗ 2024 Sony Music Entertainment UK Limited"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "6stgscFNkBJqXXXlKHc5KR",
+                "trackname": "Free (with Ellie Goulding)",
+                "singers": ["Calvin Harris", "Ellie Goulding"],
+                "explicit": false,
+                "duration": "3:32"
+            },
+            {
+                "id": 2,
+                "path": "4slBllHFZYlpg3IjeX5CBl",
+                "trackname": "How Deep Is Your Love",
+                "singers": ["Calvin Harris", "Disciples"],
+                "explicit": false,
+                "duration": "3:32"
+            },
+            {
+                "id": 3,
+                "path": "2vlDrKpOC0eSTqTDRcbYyw",
+                "trackname": "This Is What You Came For",
+                "singers": ["Calvin Harris", "Rihanna"],
+                "explicit": false,
+                "duration": "3:41"
+            },
+            {
+                "id": 4,
+                "path": "3ejfcz0QPyV717Vd3ta04V",
+                "trackname": "My Way",
+                "singers": ["Calvin Harris"],
+                "explicit": false,
+                "duration": "3:39"
+            },
+            {
+                "id": 5,
+                "path": "76dIZzTdrNO15mGBrU3MHi",
+                "trackname": "One Kiss (with Dua Lipa)",
+                "singers": ["Calvin Harris", "Dua Lipa"],
+                "explicit": false,
+                "duration": "3:34"
+            },
+            {
+                "id": 6,
+                "path": "6auDCEMr5aHTNu4Kw9h5U6",
+                "trackname": "Promises (with Sam Smith)",
+                "singers": ["Calvin Harris", "Sam Smith"],
+                "explicit": false,
+                "duration": "3:33"
+            },
+            {
+                "id": 7,
+                "path": "3ndpr2M3QcDPG8z8AUuHas",
+                "trackname": "Giant (with Rag'n'Bone Man)",
+                "singers": ["Calvin Harris", "Rag'n'Bone Man"],
+                "explicit": false,
+                "duration": "3:49"
+            },
+            {
+                "id": 8,
+                "path": "6zAUCritANdhceCMLVB8xR",
+                "trackname": "I'm Not Alone - 2019 Edit",
+                "singers": ["Calvin Harris"],
+                "explicit": false,
+                "duration": "3:21"
+            },
+            {
+                "id": 9,
+                "path": "2qwRUeQhsZwZaLKceoflwh",
+                "trackname": "Miracle (with Ellie Goulding)",
+                "singers": ["Calvin Harris", "Ellie Goulding"],
+                "explicit": false,
+                "duration": "3:06"
+            },
+            {
+                "id": 10,
+                "path": "5tQTZt90XSaYpnM7AL2K3X",
+                "trackname": "Desire (with Sam Smith)",
+                "singers": ["Calvin Harris", "Sam Smith"],
+                "explicit": false,
+                "duration": "2:59"
+            },
+            {
+                "id": 11,
+                "path": "6K2X5jESrKAcaDqUlldTLi",
+                "trackname": "Hypnagogic (I Can't Wait) [edit]",
+                "singers": ["Love Regenerator", "Calvin Harris"],
+                "explicit": false,
+                "duration": "3:13"
+            },
+            {
+                "id": 12,
+                "path": "2QMnxA6R1PD0dYyUi5AxZZ",
+                "trackname": "Lovers In A Past Life (with Rag'n'Bone Man)",
+                "singers": ["Calvin Harris", "Rag'n'Bone Man"],
+                "explicit": false,
+                "duration": "2:40"
+            },
+            {
+                "id": 13,
+                "path": "0lsmgsqHBUFimvxDi8cXUW",
+                "trackname": "Nuh Ready Nuh Ready (feat. PARTYNEXTDOOR)",
+                "singers": ["Calvin Harris", "PARTYNEXTDOOR"],
+                "explicit": false,
+                "duration": "3:04"
+            },
+            {
+                "id": 14,
+                "path": "5bD7LPq8ga7vAc93ZAm6AZ",
+                "trackname": "Body Moving",
+                "singers": ["Eliza Rose", "Calvin Harris"],
+                "explicit": false,
+                "duration": "2:34"
+            },
+            {
+                "id": 15,
+                "path": "3W9WWlcc8PKKmNgGgS8D2i",
+                "trackname": "Live Without Your Love (with Steve Lacy)",
+                "singers": ["Love Regenerator", "Steve Lacy", "Calvin Harris"],
+                "explicit": false,
+                "duration": "3:13"
+            },
+            {
+                "id": 16,
+                "path": "2UHQLfLtNV5chHDrTnV7WV",
+                "trackname": "Lonely (feat. Sananda Maitreya)",
+                "singers": ["Love Regenerator", "RIva Starr", "Calvin Harris", "Sananda Maitreya"],
+                "explicit": false,
+                "duration": "2:50"
+            },
+            {
+                "id": 17,
+                "path": "1uXow3ZA7skr1mOyOKMWWT",
+                "trackname": "By Your Side (feat. Tom Grennan)",
+                "singers": ["Calvin Harris", "Tom Grennan"],
+                "explicit": false,
+                "duration": "3:09"
+            }
+        ]
+    },
+    {
+        "path": "48zisMeiXniWLzOQghbPqS",
+        "id": 57,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Motion",
+        "albumsinger": "Calvin Harris",
+        "albumsingerpath": "7CajNmpbOovFoOoasH2HaY",
+        "albumsingerimagepath": "/calvinharris.jpg",
+        "albumreleaseyear": 2014,
+        "albumreleasemonth": 12,
+        "albumreleasedate": 31,
+        "tracksnumber": 15,
+        "timehour": 0,
+        "timeminute": 55,
+        "timesecond": 53,
+        "upcolorcode": "#4f88a6",
+        "downcolorcode": "#003853",
+        "textcolorcode": "#9bd5f7",
+        "coverpath": "/motion.jpg",
+        "credits" : [
+            "℗ 2014 Sony Music Entertainment UK Limited"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "0ZmkjefPVLvloVSgtmRu5M",
+                "trackname": "Faith",
+                "singers": ["Calvin Harris"],
+                "explicit": false,
+                "duration": "3:39"
+            },
+            {
+                "id": 2,
+                "path": "4J7CKHCF3mdL4diUsmW8lq",
+                "trackname": "Under Control (feat. Hurts)",
+                "singers": ["Calvin Harris", "Alesso", "Hurts"],
+                "explicit": false,
+                "duration": "3:04"
+            },
+            {
+                "id": 3,
+                "path": "07nH4ifBxUB4lZcsf44Brn",
+                "trackname": "Blame (feat. John Newman)",
+                "singers": ["Calvin Harris", "John Newman"],
+                "explicit": false,
+                "duration": "3:32   "
+            },
+            {
+                "id": 4,
+                "path": "5vQctmBxi79lyQoc2DDAsP",
+                "trackname": "Love Now (feat. All About She)",
+                "singers": ["Calvin Harris", "All About She"],
+                "explicit": false,
+                "duration": "3:38"
+            },
+            {
+                "id": 5,
+                "path": "6GvXJZ8EQuUWzthpPFLr6f",
+                "trackname": "Slow Acid",
+                "singers": ["Calvin Harris"],
+                "explicit": false,
+                "duration": "3:41"
+            },
+            {
+                "id": 6,
+                "path": "7MmG8p0F9N3C4AXdK6o6Eb",
+                "trackname": "Outside (feat. Ellie Goulding)",
+                "singers": ["Calvin Harris", "Ellie Goulding"],
+                "explicit": false,
+                "duration": "3:47"
+            },
+            {
+                "id": 7,
+                "path": "57EMMRviFnUVwYgsHgAlA2",
+                "trackname": "It Was You",
+                "singers": ["Calvin Harris", "Firebeatz"],
+                "explicit": false,
+                "duration": "3:44"
+            },
+            {
+                "id": 8,
+                "path": "6YUTL4dYpB9xZO5qExPf05",
+                "trackname": "Summer",
+                "singers": ["Calvin Harris"],
+                "explicit": false,
+                "duration": "3:42"
+            },
+            {
+                "id": 9,
+                "path": "07BCFbk1oCwf80lemfyzK6",
+                "trackname": "Overdrive",
+                "singers": ["Calvin Harris", "Ummet Ozcan"],
+                "explicit": false,
+                "duration": "4:51"
+            },
+            {
+                "id": 10,
+                "path": "4NH6M9tsx1dXL58zZTmTYE",
+                "trackname": "Ecstasy (feat. Hurts)",
+                "singers": ["Calvin Harris", "Hurts"],
+                "explicit": false,
+                "duration": "2:41"
+            },
+            {
+                "id": 11,
+                "path": "75kMrDKPJJpgEQaXVh7QMB",
+                "trackname": "Pray to God (feat. HAIM)",
+                "singers": ["Calvin Harris", "HAIM"],
+                "explicit": false,
+                "duration": "3:52"
+            },
+            {
+                "id": 12,
+                "path": "64j3Bd62HTe0pclk8Aq9BE",
+                "trackname": "Open Wide (feat. Big Sean)",
+                "singers": ["Calvin Harris", "Big Sean"],
+                "explicit": false,
+                "duration": "3:07"
+            },
+            {
+                "id": 13,
+                "path": "0otmDG441slQ7QYZUPgBcM",
+                "trackname": "Together (feat. Gwen Stefani)",
+                "singers": ["Calvin Harris", "Gwen Stefani"],
+                "explicit": true,
+                "duration": "3:38"
+            },
+            {
+                "id": 14,
+                "path": "5lByoyTJti3jYo22bLQKOH",
+                "trackname": "Burnin",
+                "singers": ["Calvin Harris", "R3HAB"],
+                "explicit": false,
+                "duration": "3:54"
+            },
+            {
+                "id": 15,
+                "path": "7sUrtg1AYRyrDECLqq6no9",
+                "trackname": "Dollar Signs (feat. Tinashe)",
+                "singers": ["Calvin Harris", "Tinashe"],
+                "explicit": true,
+                "duration": "3:56"
+            }
+        ]
+    },
+    {
+        "path": "3GPiefSRSOxqTrgKJIB7RL",
+        "id": 58,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Over Now (with The Weeknd)",
+        "albumsinger": ["Calvin Harris", "The Weeknd"],
+        "albumsingerpath": "7CajNmpbOovFoOoasH2HaY",
+        "albumsingerimagepath": "/calvinharris.jpg",
+        "albumreleaseyear": 2020,
+        "albumreleasemonth": 8,
+        "albumreleasedate": 28,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 3,
+        "timesecond": 30,
+        "upcolorcode": "#b64767",
+        "downcolorcode": "#640026",
+        "textcolorcode": "#ffbbcc",
+        "coverpath": "/overnow_single.jpg",
+        "credits" : [
+            "℗ 2020 Sony Music Entertainment UK Limited / XO Records/Republic Records"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "58AGoOGbwsQMhBbH0eFLRR",
+                "trackname": "Over Now (with The Weeknd)",
+                "singers": ["Calvin Harris", "The Weeknd"],
+                "explicit": true,
+                "duration": "3:30"
+            }
+        ]
+    },
+    {
+        "path": "2noRn2Aes5aoNVsU6iWThc",
+        "id": 59,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Discovery",
+        "albumsinger": "Daft Punk",
+        "albumsingerpath": "4tZwfgrHOc3mvqYlEYSvVi",
+        "albumsingerimagepath": "/daftpunk.jpg",
+        "albumreleaseyear": 2001,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 12,
+        "tracksnumber": 14,
+        "timehour": 1,
+        "timeminute": 1,
+        "timesecond": 0,
+        "upcolorcode": "#2f203f",
+        "downcolorcode": "#2f203f",
+        "textcolorcode": "#d9c6ef",
+        "coverpath": "/discovery.jpg",
+        "credits" : [
+            "© 2001 Distributed exclusively by Warner Music France / ADA France, 2001 Daft Life Ltd.",
+            "℗ 2001 Distributed exclusively by Warner Music France / ADA France, 2001 Daft Life Ltd."
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "0DiWol3AO6WpXZgp0goxAV",
+                "trackname": "One More Time",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "5:20"
+            },
+            {
+                "id": 2,
+                "path": "3H3cOQ6LBLSvmcaV7QkZEu",
+                "trackname": "Aerodynamic",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "3:32"
+            },
+            {
+                "id": 3,
+                "path": "2VEZx7NWsZ1D0eJ4uv5Fym",
+                "trackname": "Digital Love",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "5:01 "
+            },
+            {
+                "id": 4,
+                "path": "5W3cjX2J3tjhG8zb6u0qHn",
+                "trackname": "Harder, Better, Faster, Stronger",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "3:46"
+            },
+            {
+                "id": 5,
+                "path": "6vuPZX9fWESg5js2JFTQRJ",
+                "trackname": "Crescendolls",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "3:31"
+            },
+            {
+                "id": 6,
+                "path": "63JXZZRbmzooashakb0zbu",
+                "trackname": "Nightvision",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "1:44"
+            },
+            {
+                "id": 7,
+                "path": "186hvCTyrni4KT9nwIQ7zS",
+                "trackname": "Superheroes",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "3:57"
+            },
+            {
+                "id": 8,
+                "path": "098ttCNmncrO4YvqWUNMvn",
+                "trackname": "High Life",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "3:21"
+            },
+            {
+                "id": 9,
+                "path": "1NeLwFETswx8Fzxl2AFl91",
+                "trackname": "Something About Us",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "3:52"
+            },
+            {
+                "id": 10,
+                "path": "7cMFjxhbXBpOlais7KMF3j",
+                "trackname": "Voyager",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "3:47"
+            },
+            {
+                "id": 11,
+                "path": "2LD2gT7gwAurzdQDQtILds",
+                "trackname": "Veridis Quo",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "5:45"
+            },
+            {
+                "id": 12,
+                "path": "4npMbTuxrUA3Wd7edACZ2L",
+                "trackname": "Short Circuit",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "3:26"
+            },
+            {
+                "id": 13,
+                "path": "7v9Q0dAb9t7h8gJOkcJHay",
+                "trackname": "Face to Face",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "4:00"
+            },
+            {
+                "id": 14,
+                "path": "3zMvotMEQK3xvH01vA9wAP",
+                "trackname": "Too Long",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "10:00"
+            }
+        ]
+    },
+    {
+        "path": "4m2880jivSbbyEGAKfITCa",
+        "id": 60,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Random Access Memories",
+        "albumsinger": "Daft Punk",
+        "albumsingerpath": "4tZwfgrHOc3mvqYlEYSvVi",
+        "albumsingerimagepath": "/daftpunk.jpg",
+        "albumreleaseyear": 2013,
+        "albumreleasemonth": 5,
+        "albumreleasedate": 20,
+        "tracksnumber": 13,
+        "timehour": 1,
+        "timeminute": 14,
+        "timesecond": 0,
+        "upcolorcode": "#8998b9",
+        "downcolorcode": "#27354f",
+        "textcolorcode": "#bdceef",
+        "coverpath": "/randomaccessmemories.jpg",
+        "credits" : [
+            "℗ 2013 Daft Life Limited under exclusive license to Columbia Records, a Division of Sony Music Entertainment"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "0dEIca2nhcxDUV8C5QkPYb",
+                "trackname": "Give Life Back to Music",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "4:35"
+            },
+            {
+                "id": 2,
+                "path": "3ctALmweZBapfBdFiIVpji",
+                "trackname": "The Game of Love",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "5:22"
+            },
+            {
+                "id": 3,
+                "path": "0oks4FnzhNp5QPTZtoet7c",
+                "trackname": "Giorgio by Moroder",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "9:04"
+            },
+            {
+                "id": 4,
+                "path": "7Bxv0WL7UC6WwQpk9TzdMJ",
+                "trackname": "Within",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "3:48"
+            },
+            {
+                "id": 5,
+                "path": "2cGxRwrMyEAp8dEbuZaVv6",
+                "trackname": "Instant Crush (feat. Julian Casablancas)",
+                "singers": ["Daft Punk", "Julian Casablancas"],
+                "explicit": false,
+                "duration": "5:37"
+            },
+            {
+                "id": 6,
+                "path": "5CMjjywI0eZMixPeqNd75R",
+                "trackname": "Lose Yourself to Dance (feat. Pharrell Williams)",
+                "singers": ["Daft Punk", "Pharrell Williams"],
+                "explicit": false,
+                "duration": "5:53"
+            },
+            {
+                "id": 7,
+                "path": "7oaEjLP2dTJLJsITbAxTOz",
+                "trackname": "Touch (feat. Paul Williams)",
+                "singers": ["Daft Punk", "Paul Williams"],
+                "explicit": false,
+                "duration": "8:18"
+            },
+            {
+                "id": 8,
+                "path": "69kOkLUCkxIZYexIgSG8rq",
+                "trackname": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+                "singers": ["Daft Punk", "Pharrell Williams", "Nile Rodgers"],
+                "explicit": false,
+                "duration": "6:09"
+            },
+            {
+                "id": 9,
+                "path": "0k1xMUwn9sb7bZiqdT9ygx",
+                "trackname": "Beyond",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "4:50"
+            },
+            {
+                "id": 10,
+                "path": "79koEJRtKOOGJ0VSAF3FMk",
+                "trackname": "Motherboard",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "5:41"
+            },
+            {
+                "id": 11,
+                "path": "0IedgQjjJ8Ad4B3UDQ5Lyn",
+                "trackname": "Fragments of Time (feat. Todd Edwards)",
+                "singers": ["Daft Punk", "Todd Edwards"],
+                "explicit": false,
+                "duration": "4:39"
+            },
+            {
+                "id": 12,
+                "path": "36c4JohayB9qd64eidQMBi",
+                "trackname": "Doin' it Right (feat. Panda Bear)",
+                "singers": ["Daft Punk", "Panda Bear"],
+                "explicit": false,
+                "duration": "4:11"
+            },
+            {
+                "id": 13,
+                "path": "2KHRENHQzTIQ001nlP9Gdc",
+                "trackname": "Contact",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "6:23"
+            }
+        ]
+    },
+    {
+        "path": "0bHuuhpKn42ktYbyTIeumE",
+        "id": 61,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "One More Time",
+        "albumsinger": ["Daft Punk"],
+        "albumsingerpath": "4tZwfgrHOc3mvqYlEYSvVi",
+        "albumsingerimagepath": "/daftpunk.jpg",
+        "albumreleaseyear": 2000,
+        "albumreleasemonth": 11,
+        "albumreleasedate": 13,
+        "tracksnumber": 3,
+        "timehour": 0,
+        "timeminute": 17,
+        "timesecond": 15,
+        "upcolorcode": "#8d9c87",
+        "downcolorcode": "#2c3927",
+        "textcolorcode": "#c3d3ba",
+        "coverpath": "/onemoretime_single.jpg",
+        "credits" : [
+            "© Distributed exclusively by Warner Music France / ADA France, © 2000 Daft Life Ltd.",
+            "℗ Distributed exclusively by Warner Music France / ADA France, ℗ 2000 Daft Life Ltd."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "2Uy6EhQXAYkXA6MohPgjpV",
+                "trackname": "One More Time - Radio Edit [Short Radio Edit]",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "3:55"
+            },
+            {
+                "id": 2,
+                "path": "5F0fiSkDxZL5V3SlnTNhKh",
+                "trackname": "One More Time - Radio Edit",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "5:20"
+            },
+            {
+                "id": 3,
+                "path": "5P0cYWH6mpkdrmsgo5e1fe",
+                "trackname": "One More Time - 12 Mix",
+                "singers": ["Daft Punk"],
+                "explicit": false,
+                "duration": "8:00"
+            }
+        ]
+    },
+    {
+        "path": "6Fr2rQkZ383FcMqFyT7yPr",
+        "id": 62,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Purpose (Deluxe)",
+        "albumsinger": "Justin Bieber",
+        "albumsingerpath": "1uNFoZAHBGtllmzznpCI3s",
+        "albumsingerimagepath": "/justinbieber.jpg",
+        "albumreleaseyear": 2015,
+        "albumreleasemonth": 11,
+        "albumreleasedate": 13,
+        "tracksnumber": 19,
+        "timehour": 1,
+        "timeminute": 9,
+        "timesecond": 0,
+        "upcolorcode": "#525252",
+        "downcolorcode": "#353535",
+        "textcolorcode": "#CDCDCD",
+        "coverpath": "/purpose.jpg",
+        "credits" : [
+            "© 2015 Def Jam Recordings, a division of UMG Recordings, Inc.",
+            "℗ 2015 Def Jam Recordings, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "2SnNaoNhMjC1WRMTWD8qTX",
+                "trackname": "Mark My Words",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "2:14"
+            },
+            {
+                "id": 2,
+                "path": "0SNIAtRCPVVLoGEPcuHSIc",
+                "trackname": "I'll Show You",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:19"
+            },
+            {
+                "id": 3,
+                "path": "4B0JvthVoAAuygILe3n4Bs",
+                "trackname": "What Do You Mean?",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:25"
+            },
+            {
+                "id": 4,
+                "path": "09CtPGIpYB4BrO8qb1RGsF",
+                "trackname": "Sorry",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:20"
+            },
+            {
+                "id": 5,
+                "path": "50kpGaPAhYJ3sGmk6vplg0",
+                "trackname": "Love Yourself",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:53"
+            },
+            {
+                "id": 6,
+                "path": "61uyGDPJ06MkxJtHgPmuyO",
+                "trackname": "Company",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:28"
+            },
+            {
+                "id": 7,
+                "path": "23UV8pJEvRnAZd6ZAXBC0H",
+                "trackname": "No Pressure",
+                "singers": ["Justin Bieber", "Big Sean"],
+                "explicit": false,
+                "duration": "4:46"
+            },
+            {
+                "id": 8,
+                "path": "5L9WFUodzACitS1TiGm7Mi",
+                "trackname": "No Sense",
+                "singers": ["Justin Bieber", "Travis Scott"],
+                "explicit": false,
+                "duration": "4:35"
+            },
+            {
+                "id": 9,
+                "path": "7E390nZTMqEbrNC1TmHd42",
+                "trackname": "The Feeling",
+                "singers": ["Justin Bieber", "Halsey"],
+                "explicit": false,
+                "duration": "4:04"
+            },
+            {
+                "id": 10,
+                "path": "4yWCzA44dQyp0SoeM81bUb",
+                "trackname": "Life Is Worth Living",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:54"
+            },
+            {
+                "id": 11,
+                "path": "66hayvUbTotekKU3H4ta1f",
+                "trackname": "Where Are Ü Now",
+                "singers": ["Skrillex", "Diplo", "Justin Bieber"],
+                "explicit": false,
+                "duration": "4:02"
+            },
+            {
+                "id": 12,
+                "path": "7sK3nu6yk8urQ44ouEB7Au",
+                "trackname": "Children",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:43"
+            },
+            {
+                "id": 13,
+                "path": "2IjyFRCRn8x1bEquOM3vxg",
+                "trackname": "Purpose",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:30"
+            },
+            {
+                "id": 14,
+                "path": "6gcA4zzG6FnMEgPSDKbAMs",
+                "trackname": "Been You",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:19"
+            },
+            {
+                "id": 15,
+                "path": "4AMnUGvZUVJgDuY7rOPzUZ",
+                "trackname": "Get Used To It",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:58"
+            },
+            {
+                "id": 16,
+                "path": "1m6FkAtWVloxIRHKl7pBDP",
+                "trackname": "We Are",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:22"
+            },
+            {
+                "id": 17,
+                "path": "00IH8ZjI9ZGB51WRX1Oesj",
+                "trackname": "Trust",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:23"
+            },
+            {
+                "id": 18,
+                "path": "4kP50JQmyFrl9pLSmnFPZr",
+                "trackname": "All In It",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:51"
+            },
+            {
+                "id": 19,
+                "path": "5YNf9s8WE3iF33YaFNrgpa",
+                "trackname": "What Do You Mean? - Acoustic",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:23"
+            }
+        ]
+    },
+    {
+        "path": "5dGWwsZ9iB2Xc3UKR0gif2",
+        "id": 63,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Justice",
+        "albumsinger": "Justin Bieber",
+        "albumsingerpath": "1uNFoZAHBGtllmzznpCI3s",
+        "albumsingerimagepath": "/justinbieber.jpg",
+        "albumreleaseyear": 2021,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 19,
+        "tracksnumber": 16,
+        "timehour": 0,
+        "timeminute": 45,
+        "timesecond": 31,
+        "upcolorcode": "#00a8a1",
+        "downcolorcode": "#003c37",
+        "textcolorcode": "#5ee0d9",
+        "coverpath": "/justice.jpg",
+        "credits" : [
+            "© 2021 Def Jam Recordings, a division of UMG Recordings, Inc.",
+            "℗ 2021 Def Jam Recordings, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "0oaY19dUwZimIgzn3ZZLZO",
+                "trackname": "2 Much",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "2:32"
+            },
+            {
+                "id": 2,
+                "path": "5NU40QTlXrDUJzDBdv79bg",
+                "trackname": "Deserve You",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:07"
+            },
+            {
+                "id": 3,
+                "path": "6F2r4HgpJnvKDmkN6JEN6J",
+                "trackname": "As I Am (feat. Khalid)",
+                "singers": ["Justin Bieber", "Khalid"],
+                "explicit": false,
+                "duration": "2:54"
+            },
+            {
+                "id": 4,
+                "path": "3T03rPwlL8NVk1yIaxeD8U",
+                "trackname": "Off My Face",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "2:36"
+            },
+            {
+                "id": 5,
+                "path": "6Xgq7MvZiet0hVi3KaDSgJ",
+                "trackname": "Holy (feat. Chance The Rapper)",
+                "singers": ["Justin Bieber", "Chance The Rapper"],
+                "explicit": false,
+                "duration": "3:32"
+            },
+            {
+                "id": 6,
+                "path": "137mSruegm1u6x9NvwiagR",
+                "trackname": "Unstable (feat. The Kid LAROI)",
+                "singers": ["Justin Bieber", "The Kid LAROI"],
+                "explicit": false,
+                "duration": "2:38"
+            },
+            {
+                "id": 7,
+                "path": "680qLWCMRfR6evrNNBCE9e",
+                "trackname": "MLK Interlude",
+                "singers": ["-"],
+                "explicit": false,
+                "duration": "1:44"
+            },
+            {
+                "id": 8,
+                "path": "7aely3H8kMj9o0gt6vXHE1",
+                "trackname": "Die For You (feat. Dominic Fike)",
+                "singers": ["Justin Bieber", "Dominic Fike"],
+                "explicit": false,
+                "duration": "3:18"
+            },
+            {
+                "id": 9,
+                "path": "1nahzW3kfMuwReTka28tH5",
+                "trackname": "Hold On",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "2:50"
+            },
+            {
+                "id": 10,
+                "path": "3buwFfY33H32wfZ6X9poV3",
+                "trackname": "Somebody",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "2:59"
+            },
+            {
+                "id": 11,
+                "path": "6I3mqTwhRpn34SLVafSH7G",
+                "trackname": "Ghost",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "2:33"
+            },
+            {
+                "id": 12,
+                "path": "4iJyoBOLtHqaGxP12qzhQI",
+                "trackname": "Peaches (feat. Daniel Caesar & Giveon)",
+                "singers": ["Justin Bieber", "Daniel Caesar", "Giveon"],
+                "explicit": true,
+                "duration": "3:18"
+            },
+            {
+                "id": 13,
+                "path": "27UcQ6dAvQrgH9C880rCM3",
+                "trackname": "Love You Different (feat. BEAM)",
+                "singers": ["Justin Bieber", "BEAM"],
+                "explicit": false,
+                "duration": "3:06"
+            },
+            {
+                "id": 14,
+                "path": "2tB9OFgAHjAds3cqquLlvp",
+                "trackname": "Loved By You (feat. Burna Boy)",
+                "singers": ["Justin Bieber", "Burna Boy"],
+                "explicit": false,
+                "duration": "2:39"
+            },
+            {
+                "id": 15,
+                "path": "2WnAKZefdRHxtBEkRjFOHC",
+                "trackname": "Anyone",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:10"
+            },
+            {
+                "id": 16,
+                "path": "3S8jK1mGzQi24ilFb45DAZ",
+                "trackname": "Lonely (with benny blanco)",
+                "singers": ["Justin Bieber", "benny blanco"],
+                "explicit": true,
+                "duration": "2:29"
+            }
+        ]
+    },
+    {
+        "path": "1SN6N3fNkZk5oXQ9X46QZ3",
+        "id": 64,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Yummy",
+        "albumsinger": ["Justin Bieber"],
+        "albumsingerpath": "1uNFoZAHBGtllmzznpCI3s",
+        "albumsingerimagepath": "/justinbieber.jpg",
+        "albumreleaseyear": 2020,
+        "albumreleasemonth": 1,
+        "albumreleasedate": 3,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 3,
+        "timesecond": 30,
+        "upcolorcode": "#a8939a",
+        "downcolorcode": "#413036",
+        "textcolorcode": "#dfc7cf",
+        "coverpath": "/yummy_single.jpg",
+        "credits" : [
+            "© 2020 Def Jam Recordings, a division of UMG Recordings, Inc.",
+            "℗ 2020 Def Jam Recordings, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "41L3O37CECZt3N7ziG2z7l",
+                "trackname": "Yummy",
+                "singers": ["Justin Bieber"],
+                "explicit": false,
+                "duration": "3:30"
+            }
+        ]
+    },
+    {
+        "path": "33pt9HBdGlAbRGBHQgsZsU",
+        "id": 65,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Evolve",
+        "albumsinger": "Imagine Dragons",
+        "albumsingerpath": "53XhwfbYqKCa1cC15pYq2q",
+        "albumsingerimagepath": "/imaginedragons.jpg",
+        "albumreleaseyear": 2017,
+        "albumreleasemonth": 6,
+        "albumreleasedate": 23,
+        "tracksnumber": 12,
+        "timehour": 0,
+        "timeminute": 43,
+        "timesecond": 7,
+        "upcolorcode": "#184161",
+        "downcolorcode": "#0c3757",
+        "textcolorcode": "#a7d2f9",
+        "coverpath": "/evolve.jpg",
+        "credits" : [
+            "© 2018 KIDinaKORNER/Interscope Records",
+            "℗ 2018 KIDinaKORNER/Interscope Records"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "31VOknKjFrEX47bZXzqcoF",
+                "trackname": "Next to Me",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:50"
+            },
+            {
+                "id": 2,
+                "path": "28heol5hhOGj6KYbJrRteJ",
+                "trackname": "I Don’t Know Why",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:10"
+            },
+            {
+                "id": 3,
+                "path": "6Qn5zhYkTa37e91HC1D7lb",
+                "trackname": "Whatever It Takes",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:21"
+            },
+            {
+                "id": 4,
+                "path": "0pqnGHJpmpxLKifKRmU6WP",
+                "trackname": "Believer",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:24"
+            },
+            {
+                "id": 5,
+                "path": "1y3bE5i57eUm3hfLAc7h08",
+                "trackname": "Walking The Wire",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:52"
+            },
+            {
+                "id": 6,
+                "path": "3zT2616WcD9Df5m21OsCX0",
+                "trackname": "Rise Up",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:51"
+            },
+            {
+                "id": 7,
+                "path": "0FfX0nofboxZjP0diT1eFv",
+                "trackname": "I’ll Make It Up To You",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "4:22"
+            },
+            {
+                "id": 8,
+                "path": "2SJf7W18D1AEpr8L9ATu0c",
+                "trackname": "Yesterday",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:25"
+            },
+            {
+                "id": 9,
+                "path": "1dekgAFF9uTCqLsklDaCWb",
+                "trackname": "Mouth Of The River",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:41"
+            },
+            {
+                "id": 10,
+                "path": "1zB4vmk8tFRmM9UULNzbLB",
+                "trackname": "Thunder",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:07"
+            },
+            {
+                "id": 11,
+                "path": "2Iug43iQrHN8CbGsUd2tEt",
+                "trackname": "Start Over",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:06"
+            },
+            {
+                "id": 12,
+                "path": "3adVVrcE2KS26OL4rYd27O",
+                "trackname": "Dancing In The Dark",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:53"
+            }
+        ]
+    },
+    {
+        "path": "2wVV49qXJai8kmCb1Czp0p",
+        "id": 66,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Believer (Kaskade Remix)",
+        "albumsinger": ["Imagine Dragons", "Kaskade"],
+        "albumsingerpath": "53XhwfbYqKCa1cC15pYq2q",
+        "albumsingerimagepath": "/imaginedragons.jpg",
+        "albumreleaseyear": 2017,
+        "albumreleasemonth": 6,
+        "albumreleasedate": 9,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 3,
+        "timesecond": 10,
+        "upcolorcode": "#45a790",
+        "downcolorcode": "#003c2c",
+        "textcolorcode": "#7edec7",
+        "coverpath": "/beliver_single.jpg",
+        "credits" : [
+            "© 2017 KIDinaKORNER/Interscope Records",
+            "℗ 2017 KIDinaKORNER/Interscope Records"
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "6aiHF2IbJr6lG4Vu9em8KF",
+                "trackname": "Believer (Kaskade Remix)",
+                "singers": ["Imagine Dragons", "Kaskade"],
+                "explicit": false,
+                "duration": "3:10"
+            }
+        ]
+    },
+    {
+        "path": "3JfSxDfmwS5OeHPwLSkrfr",
+        "id": 67,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Origins (Deluxe)",
+        "albumsinger": "Imagine Dragons",
+        "albumsingerpath": "53XhwfbYqKCa1cC15pYq2q",
+        "albumsingerimagepath": "/imaginedragons.jpg",
+        "albumreleaseyear": 2018,
+        "albumreleasemonth": 11,
+        "albumreleasedate": 9,
+        "tracksnumber": 15,
+        "timehour": 0,
+        "timeminute": 52,
+        "timesecond": 30,
+        "upcolorcode": "#274f37",
+        "downcolorcode": "#123c24",
+        "textcolorcode": "#acd8ba",
+        "coverpath": "/origins.jpg",
+        "credits" : [
+            "© 2018 KIDinaKORNER/Interscope Records",
+            "℗ 2018 KIDinaKORNER/Interscope Records"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "2FY7b99s15jUprqC0M5NCT",
+                "trackname": "Natural",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:09"
+            },
+            {
+                "id": 2,
+                "path": "2B1fuWoWaYnCXbjYp1gXg5",
+                "trackname": "Boomerang",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:07"
+            },
+            {
+                "id": 3,
+                "path": "4uGY9CqDtGtaTTLg1cgsWD",
+                "trackname": "Machine",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:01"
+            },
+            {
+                "id": 4,
+                "path": "6LXMUR2rpxFBDo6nilS3yX",
+                "trackname": "Cool Out",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:37"
+            },
+            {
+                "id": 5,
+                "path": "2RSHsoi04658QL5xgQVov3",
+                "trackname": "Bad Liar",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "4:20"
+            },
+            {
+                "id": 6,
+                "path": "2nkoWsTZa8LKPNGdjI5uxj",
+                "trackname": "West Coast",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:37"
+            },
+            {
+                "id": 7,
+                "path": "2bzitsPcImYC6DZWvvLCQi",
+                "trackname": "Zero - From the Original Motion Picture \"Ralph Breaks The Internet\"",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:30"
+            },
+            {
+                "id": 8,
+                "path": "3R4Xk37WTagjzODMNEQLvs",
+                "trackname": "Bullet In A Gun",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:24"
+            },
+            {
+                "id": 9,
+                "path": "4qhDA6s0MkD5XpDqGLHIEY",
+                "trackname": "Digital",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:21"
+            },
+            {
+                "id": 10,
+                "path": "1uRBbjQ3uNFXCncWyNomHf",
+                "trackname": "Only",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:00"
+            },
+            {
+                "id": 11,
+                "path": "5Z9SQPYU95S6M1vcbLsDt2",
+                "trackname": "Stuck",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:10"
+            },
+            {
+                "id": 12,
+                "path": "5d41vXH0zvpwUrHrmqKqDc",
+                "trackname": "Love",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "2:46"
+            },
+            {
+                "id": 13,
+                "path": "6Tvzf3VEi16JMhAgOwdt2y",
+                "trackname": "Birds",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "3:39"
+            },
+            {
+                "id": 14,
+                "path": "5Q7zuH8VNu7aLappSusPu6",
+                "trackname": "Burn Out",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "4:33"
+            },
+            {
+                "id": 15,
+                "path": "7JAzAyjbJFPznEFdqpa1Si",
+                "trackname": "Real Life",
+                "singers": ["Imagine Dragons"],
+                "explicit": false,
+                "duration": "4:07"
+            }
+        ]
+    },
+    {
+        "path": "3PyQnHsgeniXrpuxJ4FmEv",
+        "id": 68,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Journey To The Real World (From Barbie The Album)",
+        "albumsinger": ["Tame Impala"],
+        "albumsingerpath": "5INjqkS1o8h1imAzPqGZBb",
+        "albumsingerimagepath": "/tameimpala.jpg",
+        "albumreleaseyear": 2023,
+        "albumreleasemonth": 7,
+        "albumreleasedate": 21,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 1,
+        "timesecond": 27,
+        "upcolorcode": "#e71870",
+        "downcolorcode": "#640024",
+        "textcolorcode": "#ffbbcd",
+        "credits": [
+            "© 2023 Atlantic Recording Corporation, Warner Bros. Entertainment, Inc. & Mattel, Inc.",
+            "℗ 2023 Atlantic Recording Corporation, Warner Bros. Entertainment, Inc. & Mattel, Inc."
+        ],
+        "coverpath": "/barbiethealbum.jpg",
+        "tracks": [
+            {
+                "id": 1,
+                "path": "5xQjhPfF0J455duKo2Bv9w",
+                "trackname": "Journey To The Real World (From Barbie The Album)",
+                "singers": ["Tame Impala"],
+                "explicit": false,
+                "duration": "1:27"
+            }
+        ]
+    },
+    {
+        "path": "5J4SS8wTmXdyIEVYjmHzpZ",
+        "id": 69,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Nine Track Mind (Special Edition)",
+        "albumsinger": "Charlie Puth",
+        "albumsingerpath": "6VuMaDnrHyPL1p4EHjYLi7",
+        "albumsingerimagepath": "/charlieputh.jpg",
+        "albumreleaseyear": 2015,
+        "albumreleasemonth": 11,
+        "albumreleasedate": 5,
+        "tracksnumber": 20,
+        "timehour": 1,
+        "timeminute": 7,
+        "timesecond": 0,
+        "upcolorcode": "#a19b00",
+        "downcolorcode": "#3b3600",
+        "textcolorcode": "#d8d255",
+        "coverpath": "/ninetrackmind.jpg",
+        "credits" : [
+            "© 2016 Artist Partners for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company.",
+            "℗ 2016 Artist Partners for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company."
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "5MwIGPDKeDb7SpblcaQP6O",
+                "trackname": "One Call Away",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:14"
+            },
+            {
+                "id": 2,
+                "path": "2EbseeW2cr5zK3J8VuYntw",
+                "trackname": "Dangerously",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:19"
+            },
+            {
+                "id": 3,
+                "path": "6TjWrm6BZytIjHnZcX2TGk",
+                "trackname": "Marvin Gaye (feat. Meghan Trainor)",
+                "singers": ["Charlie Puth", "Meghan Trainor"],
+                "explicit": false,
+                "duration": "3:10"
+            },
+            {
+                "id": 4,
+                "path": "6A7PbIUxiSwqOlHuMwI7te",
+                "trackname": "Losing My Mind",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:32"
+            },
+            {
+                "id": 5,
+                "path": "54PbBpquVfhfrwRwvjSXbI",
+                "trackname": "We Don't Talk Anymore (feat. Selena Gomez)",
+                "singers": ["Charlie Puth", "Selena Gomez"],
+                "explicit": false,
+                "duration": "3:37"
+            },
+            {
+                "id": 6,
+                "path": "1mL1pb7iSeTk90dtEsa73j",
+                "trackname": "My Gospel",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:30"
+            },
+            {
+                "id": 7,
+                "path": "5U3qK5UVDDn8ir0ktbK11Q",
+                "trackname": "Up All Night",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:10"
+            },
+            {
+                "id": 8,
+                "path": "5Fi7qTS7T0OGDiQe6EVPNf",
+                "trackname": "Left Right Left",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:26"
+            },
+            {
+                "id": 9,
+                "path": "6gRoudyuCU7aD9AJWjTMdd",
+                "trackname": "Then There's You",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:34"
+            },
+            {
+                "id": 10,
+                "path": "34OANthMBNkRGMfzU3Rov8",
+                "trackname": "Suffer",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:30"
+            },
+            {
+                "id": 11,
+                "path": "5XNQD4EOqj2afdqsvYvzMc",
+                "trackname": "As You Are (feat. Shy Carter)",
+                "singers": ["Charlie Puth", "Shy Carter"],
+                "explicit": false,
+                "duration": "3:55"
+            },
+            {
+                "id": 12,
+                "path": "0djtkuu6afzGQKcuEi2gNV",
+                "trackname": "Some Type of Love",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:07"
+            },
+            {
+                "id": 13,
+                "path": "6IcrwGdIvRsrImOnoYfG9Z",
+                "trackname": "See You Again (feat. Charlie Puth)",
+                "singers": ["Wiz Khalifa", "Charlie Puth"],
+                "explicit": false,
+                "duration": "3:39"
+            },
+            {
+                "id": 14,
+                "path": "4LfkoDOt4mhrbo8Ndk37sQ",
+                "trackname": "Marvin Gaye (feat. Wale) - Remix",
+                "singers": ["Charlie Puth", "Wale"],
+                "explicit": true,
+                "duration": "3:20"
+            },
+            {
+                "id": 15,
+                "path": "1UkB6rIHWMke2DcyZZ37CF",
+                "trackname": "Marvin Gaye (feat. Meghan Trainor) - Boehm Remix",
+                "singers": ["Charlie Puth", "Meghan Trainor", "Boehm"],
+                "explicit": false,
+                "duration": "3:14"
+            },
+            {
+                "id": 16,
+                "path": "4zhpLgd7CsS69auGgoMpoT",
+                "trackname": "One Call Away (feat. Tyga) - Remix",
+                "singers": ["Charlie Puth", "Tyga"],
+                "explicit": false,
+                "duration": "3:12"
+            },
+            {
+                "id": 17,
+                "path": "7o3q6UPTiQ1QqyxMz4KQsV",
+                "trackname": "One Call Away - KLYMVX Remix",
+                "singers": ["Charlie Puth", "KLYMVX"],
+                "explicit": false,
+                "duration": "3:41"
+            },
+            {
+                "id": 18,
+                "path": "7eJECM4njsc622iY9zg4af",
+                "trackname": "One Call Away - Acoustic",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:09"
+            },
+            {
+                "id": 19,
+                "path": "2jqbQyZBU5QgXPz6ItIgBp",
+                "trackname": "Marvin Gaye - Live",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "2:59"
+            },
+            {
+                "id": 20,
+                "path": "473mvpyfJXItgFFZuuakvc",
+                "trackname": "Some Type of Love - Live",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:12"
+            }
+        ]
+    },
+    {
+        "path": "0mZIUXje90JtHxPNzWsJNR",
+        "id": 70,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Voicenotes",
+        "albumsinger": "Charlie Puth",
+        "albumsingerpath": "6VuMaDnrHyPL1p4EHjYLi7",
+        "albumsingerimagepath": "/charlieputh.jpg",
+        "albumreleaseyear": 2018,
+        "albumreleasemonth": 11,
+        "albumreleasedate": 5,
+        "tracksnumber": 13,
+        "timehour": 0,
+        "timeminute": 44,
+        "timesecond": 31,
+        "upcolorcode": "#be2f27",
+        "downcolorcode": "#640000",
+        "textcolorcode": "#ffbeb2",
+        "coverpath": "/voicenotes.jpg",
+        "credits" : [
+            "© 2018 Artist Partners for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company.",
+            "℗ 2018 Artist Partners for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company."
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "6qNALlmZa1ESnCxJmXE1K9",
+                "trackname": "The Way I Am",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:06"
+            },
+            {
+                "id": 2,
+                "path": "5cF0dROlMOK5uNZtivgu50",
+                "trackname": "Attention",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:28"
+            },
+            {
+                "id": 3,
+                "path": "6pQadiopoIsS4x78tjSkJt",
+                "trackname": "LA Girls",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:17"
+            },
+            {
+                "id": 4,
+                "path": "6wmAHw1szh5RCKSRjiXhPe",
+                "trackname": "How Long",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:20"
+            },
+            {
+                "id": 5,
+                "path": "1lsBTdE6MGsKeZCD6llNu7",
+                "trackname": "Done for Me (feat. Kehlani)",
+                "singers": ["Charlie Puth", "Kehlani"],
+                "explicit": false,
+                "duration": "3:00"
+            },
+            {
+                "id": 6,
+                "path": "2ZrHbO88rM6Ijeg0aJmSzl",
+                "trackname": "Patient",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:10"
+            },
+            {
+                "id": 7,
+                "path": "5QLAHKawoQwVRNf1waaVW7",
+                "trackname": "If You Leave Me Now (feat. Boyz II Men)",
+                "singers": ["Charlie Puth", "Boys II Men"],
+                "explicit": false,
+                "duration": "4:03"
+            },
+            {
+                "id": 8,
+                "path": "7aSvPfoqiM0zwPqupLGaHd",
+                "trackname": "BOY",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "4:23"
+            },
+            {
+                "id": 9,
+                "path": "6TapyDFlRUlZ4cmIaqJx4k",
+                "trackname": "Slow It Down",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:10"
+            },
+            {
+                "id": 10,
+                "path": "17RMnDmv5CEo3s0tmipRyb",
+                "trackname": "Change (feat. James Taylor)",
+                "singers": ["Charlie Puth", "James Taylor"],
+                "explicit": false,
+                "duration": "3:37"
+            },
+            {
+                "id": 11,
+                "path": "1PuQTv1Kr1gzLgVeATSuh6",
+                "trackname": "Somebody Told Me",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:36"
+            },
+            {
+                "id": 12,
+                "path": "7k7JKDjCd9zuL0iF7iWaNs",
+                "trackname": "Empty Cups",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "2:50"
+            },
+            {
+                "id": 13,
+                "path": "4jgF1sLf3TkQbZkLHsc6SI",
+                "trackname": "Thorough It All",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:26"
+            }
+        ]
+    },
+    {
+        "path": "0xNBKoAOgkjxgDsmoa5lpV",
+        "id": 71,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "Lipstick",
+        "albumsinger": ["Charlie Puth"],
+        "albumsingerpath": "6VuMaDnrHyPL1p4EHjYLi7",
+        "albumsingerimagepath": "/charlieputh.jpg",
+        "albumreleaseyear": 2023,
+        "albumreleasemonth": 8,
+        "albumreleasedate": 18,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 3,
+        "timesecond": 28,
+        "upcolorcode": "#560000",
+        "downcolorcode": "#560000",
+        "textcolorcode": "#ffbeb1",
+        "credits": [
+            "© 2023 Atlantic Records Group LLC",
+            "℗ 2023 Atlantic Records Group LLC"
+        ],
+        "coverpath": "/lipstick_single.jpg",
+        "tracks": [
+            {
+                "id": 1,
+                "path": "1q4BCQssFe74UJmnWt5lov",
+                "trackname": "Lipstick",
+                "singers": ["Charlie Puth"],
+                "explicit": false,
+                "duration": "3:28"
+            }
+        ]
+    },
+    {
+        "path": "3T4tUhGYeRNVUGevb0wThu",
+        "id": 72,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "÷ (Deluxe)",
+        "albumsinger": "Ed Sheeran",
+        "albumsingerpath": "6eUKZXaKkcviH0Ku9w2n3V",
+        "albumsingerimagepath": "/edsheeran.jpg",
+        "albumreleaseyear": 2017,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 3,
+        "tracksnumber": 16,
+        "timehour": 0,
+        "timeminute": 59,
+        "timesecond": 33,
+        "upcolorcode": "#02a5c4",
+        "downcolorcode": "#00394d",
+        "textcolorcode": "#5edcfd",
+        "coverpath": "/divide.jpg",
+        "credits" : [
+            "© 2017 Asylum Records UK, a division of Atlantic Records UK, a Warner Music Group company.",
+            "℗ 2017 Asylum Records UK, a division of Atlantic Records UK, a Warner Music Group company."
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "7oolFzHipTMg2nL7shhdz2",
+                "trackname": "Eraser",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:47"
+            },
+            {
+                "id": 2,
+                "path": "6PCUP3dWmTjcTtXY02oFdT",
+                "trackname": "Castle on the Hill",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "4:21"
+            },
+            {
+                "id": 3,
+                "path": "51ChrwmUPDJvedPQnIU8Ls",
+                "trackname": "Dive",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:58"
+            },
+            {
+                "id": 4,
+                "path": "7qiZfU4dY1lWllzX7mPBI3",
+                "trackname": "Shape of You",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:53"
+            },
+            {
+                "id": 5,
+                "path": "0tgVpDi06FyKpA1z0VMD4v",
+                "trackname": "Perfect",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "4:23"
+            },
+            {
+                "id": 6,
+                "path": "0afhq8XCExXpqazXczTSve",
+                "trackname": "Galway Girl",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "2:50"
+            },
+            {
+                "id": 7,
+                "path": "2RttW7RAu5nOAfq6YFvApB",
+                "trackname": "Happier",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:27"
+            },
+            {
+                "id": 8,
+                "path": "5HDPtsnyb3maFmPL8LLUTG",
+                "trackname": "New Man",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:09"
+            },
+            {
+                "id": 9,
+                "path": "2dfHh7ECGxfNqZTQno09Vk",
+                "trackname": "Hearts Don't Break Around Here",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "4:08"
+            },
+            {
+                "id": 10,
+                "path": "2pJZ1v8HezrAoZ0Fhzby92",
+                "trackname": "What Do I Know?",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:57"
+            },
+            {
+                "id": 11,
+                "path": "6PJ8FF6UR8FZXfEvpHkIVNv",
+                "trackname": "How Would You Feel (Paean)",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "4:40"
+            },
+            {
+                "id": 12,
+                "path": "4VuS959DSpr82t3qBqCrWG",
+                "trackname": "Supermarket Flowers",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:41"
+            },
+            {
+                "id": 13,
+                "path": "3Lfiu5sZ4M4B6JaKMBc0FU",
+                "trackname": "Barcelona",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:11"
+            },
+            {
+                "id": 14,
+                "path": "6SznMYPQJHzr3IwsAHLId2",
+                "trackname": "Bibia Be Ye Ye",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "2:56"
+            },
+            {
+                "id": 15,
+                "path": "35QZaWQRkmnAVqBF1TLCxQ",
+                "trackname": "Nancy Mulligan",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "2:59"
+            },
+            {
+                "id": 16,
+                "path": "6TIU9Ehmi6dMzZK73Ym4yj",
+                "trackname": "Save Myself",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "4:07"
+            }
+        ]
+    },
+    {
+        "path": "32iAEBstCjauDhyKpGjTuq",
+        "id": 73,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "=",
+        "albumsinger": "Ed Sheeran",
+        "albumsingerpath": "6eUKZXaKkcviH0Ku9w2n3V",
+        "albumsingerimagepath": "/edsheeran.jpg",
+        "albumreleaseyear": 2021,
+        "albumreleasemonth": 10,
+        "albumreleasedate": 25,
+        "tracksnumber": 14,
+        "timehour": 0,
+        "timeminute": 48,
+        "timesecond": 30,
+        "upcolorcode": "#d70818",
+        "downcolorcode": "#640000",
+        "textcolorcode": "#ffbdb3",
+        "coverpath": "/equal.jpg",
+        "credits" : [
+            "© An Asylum Records UK release, a division of Atlantic Records UK, ℗ 2021 Warner Music UK Limited",
+            "℗ An Asylum Records UK release, a division of Atlantic Records UK, ℗ 2021 Warner Music UK Limited"
+        ],
+        "tracks": [
+            {
+                "id": 1,    
+                "path": "2JiHR4gCDjXwYVRDmwdk95",
+                "trackname": "Tides",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:15"
+            },
+            {
+                "id": 2,
+                "path": "50nfwKoDiSYg8zOCREWAm5",
+                "trackname": "Shivers",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:27"
+            },
+            {
+                "id": 3,
+                "path": "5QYnNhTKsN3kE7OaqILA1U",
+                "trackname": "First Times",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:05"
+            },
+            {
+                "id": 4,
+                "path": "3rmo8F54jFF8OgYsqTxm5d",
+                "trackname": "Bad Habits",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:50"
+            },
+            {
+                "id": 5,
+                "path": "4btFHqumCO31GksfuBLLv3",
+                "trackname": "Overpass Graffiti",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:56"
+            },
+            {
+                "id": 6,
+                "path": "3NuLxTXowTRcguTh9RsPmM",
+                "trackname": "The Joker and The Queen",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:05"
+            },
+            {
+                "id": 7,
+                "path": "0YbI9lWxUBsCJLb6EBydkr",
+                "trackname": "Leave Your Life",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:43"
+            },
+            {
+                "id": 8,
+                "path": "5sv0WnUs74Orn6GoPmC5im",
+                "trackname": "Collide",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:30"
+            },
+            {
+                "id": 9,
+                "path": "2SUxn2O9NHL6GHGQFgwCY0",
+                "trackname": "2step",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "2:33"
+            },
+            {
+                "id": 10,
+                "path": "0VuDtcT7H4CAljLZEH021x",
+                "trackname": "Stop The Rain",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:23"
+            },
+            {
+                "id": 11,
+                "path": "1i4F583d9v9RabcfOlKKVL",
+                "trackname": "Love In Slow Motion",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:10"
+            },
+            {
+                "id": 12,
+                "path": "0rt63HYAAIzUZo5O2D0uA6",
+                "trackname": "Visiting Hours",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:35"
+            },
+            {
+                "id": 13,
+                "path": "2Ldb2ytuC9AxhpAkVEJBI6",
+                "trackname": "Sandman",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "4:19"
+            },
+            {
+                "id": 14,
+                "path": "3BiiSLo0wyHAY7lpCEO6ge",
+                "trackname": "Be Right Now",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "3:31"
+            },
+            {
+                "id": 15,
+                "path": "35QZaWQRkmnAVqBF1TLCxQ",
+                "trackname": "Nancy Mulligan",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "2:59"
+            },
+            {
+                "id": 16,
+                "path": "6TIU9Ehmi6dMzZK73Ym4yj",
+                "trackname": "Save Myself",
+                "singers": ["Ed Sheeran"],
+                "explicit": false,
+                "duration": "4:07"
+            }
+        ]
+    },
+    {
+        "path": "5Nux7ozBJ5KJ02QYWwrneR",
+        "id": 74,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "I Don't Care (with Justin Bieber)",
+        "albumsinger": ["Ed Sheeran", "Justin Bieber"],
+        "albumsingerpath": "6eUKZXaKkcviH0Ku9w2n3V",
+        "albumsingerimagepath": "/edsheeran.jpg",
+        "albumreleaseyear": 2019,
+        "albumreleasemonth": 5,
+        "albumreleasedate": 10,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 3,
+        "timesecond": 39,
+        "upcolorcode": "#535353",
+        "downcolorcode": "#353535",
+        "textcolorcode": "#cdcdcd",
+        "credits": [
+            "© 2019 Warner Music UK Limited",
+            "℗ 2019 An Asylum Records UK release, a division of Atlantic Records UK ℗ 2019 Warner Music UK Limited / Def Jam Recordings, a division of UMG Recordings, Inc"
+        ],
+        "coverpath": "/idontcare_single.jpg",
+        "tracks": [
+            {
+                "id": 1,
+                "path": "3HVWdVOQ0ZA45FuZGSfvns",
+                "trackname": "I Don't Care (with Justin Bieber)",
+                "singers": ["Ed Sheeran", "Justin Bieber"],
+                "explicit": false,
+                "duration": "3:39"
+            }
+        ]
+    },
+    {
+        "path": "3AafSrFIbJPH6BJHiJm1Cd",
+        "id": 75,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "albumsinger": ["Billie Eilish"],
+        "albumsingerpath": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "albumsingerimagepath": "/billieeilish.jpg",
+        "albumreleaseyear": 2023,
+        "albumreleasemonth": 7,
+        "albumreleasedate": 13,
+        "tracksnumber": 1,
+        "timehour": 0,
+        "timeminute": 3,
+        "timesecond": 42,
+        "upcolorcode": "#969e2e",
+        "downcolorcode": "#343700",
+        "textcolorcode": "#cbd569",
+        "credits": [
+            "© 2023 Darkroom/Interscope Records",
+            "℗ 2023 Darkroom/Interscope Records"
+        ],
+        "coverpath": "/whatwasimadefor_single.jpg",
+        "tracks": [
+            {
+                "id": 1,
+                "path": "6wf7Yu7cxBSPrRlWeSeK0Q",
+                "trackname": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+                "singers": ["Billie Eilish"],
+                "explicit": false,
+                "duration": "3:42"
+            }
+        ]
+    },
+    {
+        "path": "35dut3ICqF3NEDkjxfzJJ1",
+        "id": 76,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Starboy (Deluxe)",
+        "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2023,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 14,
+        "tracksnumber": 21,
+        "timehour": 1,
+        "timeminute": 20,
+        "timesecond": 0,
+        "upcolorcode": "#cf1008",
+        "downcolorcode": "#640000",
+        "textcolorcode": "#ffbeb1",
+        "coverpath": "/starboydeluxe.jpg",
+        "credits": [
+            "© 2023 The Weeknd XO, Inc., Marketed by Republic Records, a Division of UMG Recordings, Inc.",
+            "℗ 2023 The Weeknd XO, Inc., Marketed by Republic Records, a Division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "76yLBykniz0SSNv0jj17M2",
+                "trackname": "Starboy (feat. Daft Punk)",
+                "singers": ["The Weeknd", "Daft Punk"],
+                "explicit": true,
+                "duration": "3:50"
+            },
+            {
+                "id": 2,
+                "path": "6fSvz9yrQY407xmr7cdjuA",
+                "trackname": "Party Monster",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:09"
+            },
+            {
+                "id": 3,
+                "path": "4k47x4UkxG215nFLMFna8A",
+                "trackname": "False Alarm",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:40"
+            },
+            {
+                "id": 4,
+                "path": "4zHa39io9pjsiAE6LwM2NH",
+                "trackname": "Reminder",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:38"
+            },
+            {
+                "id": 5,
+                "path": "3mynPhglTz2Ggh8SxA34kR",
+                "trackname": "Rockin'",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:52"
+            },
+            {
+                "id": 6,
+                "path": "36K5mnqwfxGS0rvxz7FPyq",
+                "trackname": "Secrets",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:25"
+            },
+            {
+                "id": 7,
+                "path": "2QRvliBEcGIEgTrjVfxmXo",
+                "trackname": "True Colors",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:26"
+            },
+            {
+                "id": 8,
+                "path": "3CktmDvZGj21m3pNFj5Lr3",
+                "trackname": "Stargirl Interlude (feat. Lana Del Rey)",
+                "singers": ["The Weeknd", "Lana Del Rey"],
+                "explicit": false,
+                "duration": "1:51"
+            },
+            {
+                "id": 9,
+                "path": "3r5lHFACTti0w2REN5tcrn",
+                "trackname": "Sidewalks (feat. Kendrick Lamar)",
+                "singers": ["The Weeknd", "Kendrick Lamar"],
+                "explicit": true,
+                "duration": "3:51"
+            },
+            {
+                "id": 10,
+                "path": "4QYEtbfsqusrXN5A49LG53",
+                "trackname": "Six Feet Under",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:57"
+            },
+            {
+                "id": 11,
+                "path": "5ejT19NfiINj4cFmjRHwAC",
+                "trackname": "Loves To Lay",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:43"
+            },
+            {
+                "id": 12,
+                "path": "5HFQB9ENLGBHTci7xPmLk6",
+                "trackname": "A Lonely Night",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:40"
+            },
+            {
+                "id": 13,
+                "path": "2DsrtZoRxeHdCSGRlQVQtj",
+                "trackname": "Attention",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:17"
+            },
+            {
+                "id": 14,
+                "path": "09mBPwUMt1TXNtneqvmZZ5",
+                "trackname": "Ordinary Life",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:41"
+            },
+            {
+                "id": 15,
+                "path": "3iPmwJh56xbDF7Xduimf0d",
+                "trackname": "Nothing Without You",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:18"
+            },
+            {
+                "id": 16,
+                "path": "3Xz0rSC29WbaobyJQfeYsp",
+                "trackname": "All I Know (feat. Future)",
+                "singers": ["The Weeknd", "Future"],
+                "explicit": true,
+                "duration": "5:21"
+            },
+            {
+                "id": 17,
+                "path": "0awWj9Wzj375IL5etqa1Dk",
+                "trackname": "Die For You",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "4:20"
+            },
+            {
+                "id": 18,
+                "path": "0yi180gAOIJhcRo7wY4Htl",
+                "trackname": "I Feel It Coming (feat. Daft Punk)",
+                "singers": ["The Weeknd", "Daft Punk"],
+                "explicit": false,
+                "duration": "4:29"
+            },
+            {
+                "id": 19,
+                "path": "4W4fNrZYkobj539TOWsLO2",
+                "trackname": "Die For You (with Ariana Grande) - Remix",
+                "singers": ["The Weeknd", "Ariana Grande"],
+                "explicit": false,
+                "duration": "3:52"
+            },
+            {
+                "id": 20,
+                "path": "3DCc4HPrVukBeaDGe3Cosk",
+                "trackname": "Starboy (feat. Daft Punk) - Kygo Remix",
+                "singers": ["The Weeknd", "Daft Punk", "Kygo"],
+                "explicit": true,
+                "duration": "4:04"
+            },
+            {
+                "id": 21,
+                "path": "2rlEZYWZFE84YTbrwypBr0",
+                "trackname": "Reminder (feat. A$AP Rocky & Young Thug) - Remix",
+                "singers": ["The Weeknd", "A$AP Rocky", "Young Thug"],
+                "explicit": true,
+                "duration": "3:41"
+            }
+        ]
+    },
+    {
+        "path": "12INlMsFtBjyehNnawBv36",
+        "id": 77,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Dawn FM (Alternate World)",
+        "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2022,
+        "albumreleasemonth": 1,
+        "albumreleasedate": 7,
+        "tracksnumber": 24,
+        "timehour": 1,
+        "timeminute": 20,
+        "timesecond": 0,
+        "upcolorcode": "#0f3750",
+        "downcolorcode": "#103851",
+        "textcolorcode": "#a9d3f1",
+        "coverpath": "/dawnfmalternate.jpg",
+        "credits": [
+            "© 2022 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2022 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "3gj1hwjku4JaoamjJVqIIl",
+                "trackname": "Dawn FM",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "1:36"
+            },
+            {
+                "id": 2,
+                "path": "6Uj2XaahtYXK2WeD7GGwBY",
+                "trackname": "Gasoline",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:32"
+            },
+            {
+                "id": 3,
+                "path": "3kOtREqmcGaEA2KhqffFnw",
+                "trackname": "How Do I Make You Love Me?",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:34"
+            },
+            {
+                "id": 4,
+                "path": "3WXyY2PxX88kpBtB0GH61w",
+                "trackname": "Take My Breath",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "5:39"
+            },
+            {
+                "id": 5,
+                "path": "0xa4hvXeYHRRNhA7wBfUar",
+                "trackname": "Sacrifice",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:08"
+            },
+            {
+                "id": 6,
+                "path": "23iLEDPEJpcfYOw1tVhd2o",
+                "trackname": "A Tale By Quincy",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "1:36"
+            },
+            {
+                "id": 7,
+                "path": "25C86uEjQ0fjj3bvsxIusO",
+                "trackname": "Out of Time",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:34"
+            },
+            {
+                "id": 8,
+                "path": "0khQeEwEv6GndVypzpGOG5",
+                "trackname": "Here We Go… Again (feat. Tyler, the Creator)",
+                "singers": ["The Weeknd", "Tyler, the Creator"],
+                "explicit": true,
+                "duration": "3:29"
+            },
+            {
+                "id": 9,
+                "path": "4cm7Ap6IWH6m8JyB9IXT3x",
+                "trackname": "Best Friends",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "2:43"
+            },
+            {
+                "id": 10,
+                "path": "37zcCimcUGurQoLEAuN8nR",
+                "trackname": "Is There Someone Else?",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:19"
+            },
+            {
+                "id": 11,
+                "path": "2022B8GxEstpvibwgbJ15s",
+                "trackname": "Starry Eyes",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "2:28"
+            },
+            {
+                "id": 12,
+                "path": "7q9Sr5kCkha0L49GAQctHl",
+                "trackname": "Every Angel is Terrifying",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "2:47"
+            },
+            {
+                "id": 13,
+                "path": "3TVnaEVbUBFmWYk9IOIwRo",
+                "trackname": "Don’t Break My Heart",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:25"
+            },
+            {
+                "id": 14,
+                "path": "7p2wRa4m9KVXEXUlkJLhUi",
+                "trackname": "I Heard You're Married (feat. Lil Wayne)",
+                "singers": ["The Weeknd", "Lil Wayne"],
+                "explicit": true,
+                "duration": "4:23"
+            },
+            {
+                "id": 15,
+                "path": "02w1rM6spvEcbFxd63xCl2",
+                "trackname": "Less Than Zero",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:31"
+            },
+            {
+                "id": 16,
+                "path": "0DvtQkuaV0VrSHgb5pwRke",
+                "trackname": "Phantom Regret by Jim",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "2:59"
+            },
+            {
+                "id": 17,
+                "path": "1S9DHKpS73KFVN7nnIql3f",
+                "trackname": "Moth To A Flame (with The Weeknd)",
+                "singers": ["Swedish House Mafia", "The Weeknd"],
+                "explicit": false,
+                "duration": "3:54"
+            },
+            {
+                "id": 18,
+                "path": "1Jz0fAhw41suiAVekjAoLi",
+                "trackname": "Dawn FM - OPN Remix",
+                "singers": ["The Weeknd", "Oneohtrix Point Never"],
+                "explicit": false,
+                "duration": "3:03"
+            },
+            {
+                "id": 19,
+                "path": "2urqWNGpjl07PLAafoa5nT",
+                "trackname": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
+                "singers": ["The Weeknd", "Sebastian Ingrosso", "Salvatore Ganacci"],
+                "explicit": false,
+                "duration": "3:37"
+            },
+            {
+                "id": 20,
+                "path": "0QE33jkiMTzCI8momkDmQY",
+                "trackname": "Sacrifice (Remix) (feat. Swedish House Mafia)",
+                "singers": ["The Weeknd", "Swedish House Mafia"],
+                "explicit": true,
+                "duration": "3:58"
+            },
+            {
+                "id": 21,
+                "path": "6yuRNAxPh712eIib8UPI6U",
+                "trackname": "Out of Time - KAYTRANADA Remix",
+                "singers": ["The Weeknd", "KAYTRANADA"],
+                "explicit": false,
+                "duration": "4:35"
+            },
+            {
+                "id": 22,
+                "path": "6I5gj0D4OEScl48BPFR0J1",
+                "trackname": "Best Friends - Remix",
+                "singers": ["The Weeknd", "Summer Walker"],
+                "explicit": false,
+                "duration": "2:55"
+            },
+            {
+                "id": 23,
+                "path": "5T0ZsRG7hVgXeffepN8Kmk",
+                "trackname": "Starry Eyes - MIKE DEAN Remix",
+                "singers": ["The Weeknd", "MIKE DEAN"],
+                "explicit": false,
+                "duration": "3:18"
+            },
+            {
+                "id": 24,
+                "path": "3nUHfbfj1cpnn8ZjS4tNDW",
+                "trackname": "Take My Breath - Single Version",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:40"
+            }
+        ]
+    },
+    {
+        "path": "4qZBW3f2Q8y0k1A84d4iAO",
+        "id": 78,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "My Dear Melancholy,",
+        "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2018,
+        "albumreleasemonth": 3,
+        "albumreleasedate": 30,
+        "tracksnumber": 7,
+        "timehour": 0,
+        "timeminute": 25,
+        "timesecond": 36,
+        "upcolorcode": "#a83810",
+        "downcolorcode": "#640000",
+        "textcolorcode": "#ffbfa7",
+        "coverpath": "/mydearmelancholy.jpg",
+        "credits": [
+            "© 2018 The Weeknd XO, Inc., manufactured and marketed by Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2018 The Weeknd XO, Inc., manufactured and marketed by Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "09mEdoA6zrmBPgTEN5qXmN",
+                "trackname": "Call Out My Name",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:48"
+            },
+            {
+                "id": 2,
+                "path": "4ppTAJUbNXELZcoUaL90wo",
+                "trackname": "Try Me",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:41"
+            },
+            {
+                "id": 3,
+                "path": "7DKS0rX27cCEPsK0R6tFWS",
+                "trackname": "Wasted Times",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:41"
+            },
+            {
+                "id": 4,
+                "path": "1cKHdTo9u0ZymJdPGSh6nq",
+                "trackname": "I Was Never There",
+                "singers": ["The Weeknd", "Gesaffelstein"],
+                "explicit": false,
+                "duration": "4:01"
+            },
+            {
+                "id": 5,
+                "path": "6QdnKD1zwEgyOWtkrdzlOF",
+                "trackname": "Hurt You",
+                "singers": ["The Weeknd", "Gesaffelstein"],
+                "explicit": true,
+                "duration": "3:50"
+            },
+            {
+                "id": 6,
+                "path": "0Nwar8rweBUyfyuoyjjUvk",
+                "trackname": "Privilege",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "2:50"
+            },
+            {
+                "id": 7,
+                "path": "5PTfZsGlsDDPH8i3PdQnXJ",
+                "trackname": "Call Out My Name - A Cappella",
+                "singers": ["The Weeknd"],
+                "explicit": false,
+                "duration": "3:44"
+            }
+        ]
+    },
+    {
+        "path": "0P3oVJBFOv3TDXlYRhGL7s",
+        "id": 79,
+        "isSingle": false,
+        "isCompilation": false,
+        "albumname": "Beauty Behind The Madness",
+        "albumsinger": "The Weeknd",
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2015,
+        "albumreleasemonth": 8,
+        "albumreleasedate": 28,
+        "tracksnumber": 14,
+        "timehour": 1,
+        "timeminute": 5,
+        "timesecond": 0,
+        "upcolorcode": "#535353",
+        "downcolorcode": "#353535",
+        "textcolorcode": "#CDCDCD",
+        "coverpath": "/beautybehindthemadness.jpg",
+        "credits": [
+            "© 2015 The Weeknd XO, Inc., Manufactured and Marketed by Republic Records, a Division of UMG Recordings, Inc.",
+            "℗ 2015 The Weeknd XO, Inc., Manufactured and Marketed by Republic Records, a Division of UMG Recordings, Inc."
+        ],
+        "tracks": [
+            {
+                "id": 1,
+                "path": "03j354P848KtNU2FVSwkDG",
+                "trackname": "Real Life",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:43"
+            },
+            {
+                "id": 2,
+                "path": "1bAvtmTl0F9loyz9AwPwp7",
+                "trackname": "Losers",
+                "singers": ["The Weeknd", "Labrinth"],
+                "explicit": true,
+                "duration": "4:41"
+            },
+            {
+                "id": 3,
+                "path": "1mhVXWduD8ReDwusfaHNwU",
+                "trackname": "Tell Your Friends",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:34"
+            },
+            {
+                "id": 4,
+                "path": "4PhsKqMdgMEUSstTDAmMpg",
+                "trackname": "Often",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:09"
+            },
+            {
+                "id": 5,
+                "path": "7fBv7CLKzipRk6EC6TWHOB",
+                "trackname": "The Hills",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:02"
+            },
+            {
+                "id": 6,
+                "path": "7uJH0YdSZL6psjxI6Xy08b",
+                "trackname": "Acquainted",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:48"
+            },
+            {
+                "id": 7,
+                "path": "22VdIZQfgXJea34mQxlt81",
+                "trackname": "Can't Feel My Face",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:33"
+            },
+            {
+                "id": 8,
+                "path": "6C6fHTuFUxVtJpBOOaMvJr",
+                "trackname": "Shameless",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:13"
+            },
+            {
+                "id": 9,
+                "path": "1cQ3LIkZE68pMSnPhZWXLu",
+                "trackname": "Earned It (Fifty Shades Of Grey)",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "4:37"
+            },
+            {
+                "id": 10,
+                "path": "25KybV9BOUlvcnv7nN3Pyo",
+                "trackname": "In The Night",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "3:55"
+            },
+            {
+                "id": 11,
+                "path": "3H3qBumaYj67PT3aMEBvAP",
+                "trackname": "As You Are",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "5:40"
+            },
+            {
+                "id": 12,
+                "path": "6J7PIkhtHwmFjPLq0SyuPj",
+                "trackname": "Dark Times",
+                "singers": ["The Weeknd", "Ed Sheeran"],
+                "explicit": true,
+                "duration": "4:20"
+            },
+            {
+                "id": 13,
+                "path": "1gZADNt16Oh23jWyMYRk4p",
+                "trackname": "Prisoner",
+                "singers": ["The Weeknd", "Lana Del Rey"],
+                "explicit": true,
+                "duration": "4:34"
+            },
+            {
+                "id": 14,
+                "path": "0wzPHTgOtFIDhk2rD3Au4x",
+                "trackname": "Angel",
+                "singers": ["The Weeknd"],
+                "explicit": true,
+                "duration": "6:17"
+            }
+        ]
+    },
+    {
+        "path": "4T8wBxIvoSRVfoFZzuwOXR",
+        "id": 80,
+        "isSingle": true,
+        "isCompilation": false,
+        "albumname": "One of the Girls",
+        "albumsinger": ["The Weeknd", "JENNIE", "Lily-Rose Depp"],
+        "albumsingerpath": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "albumsingerimagepath": "/theweeknd.jpg",
+        "albumreleaseyear": 2023,
+        "albumreleasemonth": 12,
+        "albumreleasedate": 8,
+        "tracksnumber": 5,
+        "timehour": 0,
+        "timeminute": 21,
+        "timesecond": 0,
+        "upcolorcode": "#779f9f",
+        "downcolorcode": "#143a3b",
+        "textcolorcode": "#add5d5",
+        "credits": [
+            "© 2023 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.",
+            "℗ 2023 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc."
+        ],
+        "coverpath": "/oneofthegirls_single.jpg",
+        "tracks": [
+            {
+                "id": 1,
+                "path": "54XqJ3fP3GxmUejMsKwCaK",
+                "trackname": "One of the Girls",
+                "singers": ["The Weeknd", "JENNIE", "Lily-Rose Depp"],
+                "explicit": false,
+                "duration": "4:04"
+            },
+            {
+                "id": 2,
+                "path": "4WfGDkm99oLJSAtELYZYEd",
+                "trackname": "One of the Girls - Sped Up",
+                "singers": ["The Weeknd", "JENNIE", "Lily-Rose Depp"],
+                "explicit": false,
+                "duration": "3:35"
+            },
+            {
+                "id": 3,
+                "path": "3bWm8ejTzkMhPSdBnpxLvl",
+                "trackname": "One of the Girls - Slowed",
+                "singers": ["The Weeknd", "JENNIE", "Lily-Rose Depp"],
+                "explicit": false,
+                "duration": "5:05"
+            },
+            {
+                "id": 4,
+                "path": "7zNS5065xzKyhOBMOj7pCr",
+                "trackname": "One of the Girls - Instrumental",
+                "singers": ["The Weeknd", "JENNIE", "Lily-Rose Depp"],
+                "explicit": false,
+                "duration": "4:04"
+            },
+            {
+                "id": 5,
+                "path": "4oN4odRiXgTMnaAjz7kinV",
+                "trackname": "One of the Girls - A Capella",
+                "singers": ["The Weeknd", "JENNIE", "Lily-Rose Depp"],
+                "explicit": false,
+                "duration": "4:09"
             }
         ]
     }

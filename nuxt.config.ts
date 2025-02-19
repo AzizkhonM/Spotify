@@ -37,4 +37,7 @@ export default defineNuxtConfig({
     },
   },
   plugins: ["~/plugins/preline.client.ts", '~/plugins/fitty.js'],
+  nitro: {
+    preset: "vercel"
+  },
 })

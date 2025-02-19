@@ -395,6 +395,8 @@ for (let i of main.discography.all) {
         if (j.path == i) {
             allalbumsofartist.push(j)
         }
+        console.log(allalbumsofartist);
+        
     }
 }
 
