@@ -70,7 +70,7 @@ let album = ref([]);
 onBeforeMount(() => {
     let numbers = [];
     while (numbers.length < 12) {
-        let randomNum = Math.floor(Math.random() * 75);
+        let randomNum = Math.floor(Math.random() * 80);
         if (!numbers.includes(randomNum)) {
             numbers.push(randomNum);
         }
