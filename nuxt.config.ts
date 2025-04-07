@@ -10,7 +10,7 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: ['@nuxtjs/google-fonts', 'nuxt-swiper', '@nuxt/ui',/* '@nuxtjs/i18n'*/],
+  modules: ['@nuxtjs/google-fonts', 'nuxt-swiper', '@nuxt/ui',/* '@nuxtjs/i18n'*/, '@nuxt/image', 'nuxt-skeleton'],
   // i18n: {
   //   strategy: 'prefix_except_default', // Adds /uz/ but not /en/ (default)
   //   locales: [

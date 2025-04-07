@@ -128,7 +128,7 @@
             </div>
         </div>
         <div class="flex justify-end items-center pl-4 piwa">
-            <button class="px-4 py-1 bg-white font-bold premium"
+            <button class="px-4 py-1 text-black bg-white font-bold premium"
                 style="border-radius: var(--encore-button-corner-radius, 9999px);">Explore Premium</button>
             <div class="px-4 py-1 bg-black font-bold text-white flex gap-2 install hover:cursor-pointer"><svg
                     data-encore-id="icon" role="img" aria-hidden="true" viewBox="0 0 16 16"
