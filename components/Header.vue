@@ -4,16 +4,22 @@
             <div class="w-[64px] flex justify-center h-[64px] items-center">
                 <nuxt-link to="/"><img src="../public/spotify.svg" draggable="false" width="32px" alt=""></nuxt-link>
             </div>
-            <div class="flex justify-center items-center gap-2 bigSearch">
+            <nuxt-link to="/" class="flex justify-center items-center gap-2 bigSearch">
                 <div class="hs-dropdown [--trigger:hover] relative inline-flex">
                     <button id="hs-dropdown-hover-event" type="button"
                         class="w-12 h-12 flex justify-center items-center rounded-full bg-[#1f1f1f] homebutton"
                         aria-haspopup="menu" aria-expanded="false" aria-label="Dropdown">
                         <svg data-encore-id="icon" role="img" aria-hidden="true" viewBox="0 0 24 24"
-                            class="Svg-sc-ytk21e-0 bneLcE w-6 home duration-100">
+                            class="Svg-sc-ytk21e-0 bneLcE w-6 home duration-100" v-if="$route.path === '/'">
                             <path
                                 d="M13.5 1.515a3 3 0 0 0-3 0L3 5.845a2 2 0 0 0-1 1.732V21a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-6h4v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V7.577a2 2 0 0 0-1-1.732l-7.5-4.33z"
                                 fill="white"></path>
+                        </svg>
+                        <svg data-encore-id="icon" role="img" aria-hidden="true" class="e-9800-icon e-9800-baseline home duration-100"
+                            viewBox="0 0 24 24" v-else>
+                            <path
+                                d="M12.5 3.247a1 1 0 0 0-1 0L4 7.577V20h4.5v-6a1 1 0 0 1 1-1h5a1 1 0 0 1 1 1v6H20V7.577l-7.5-4.33zm-2-1.732a3 3 0 0 1 3 0l7.5 4.33a2 2 0 0 1 1 1.732V21a1 1 0 0 1-1 1h-6.5a1 1 0 0 1-1-1v-6h-3v6a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V7.577a2 2 0 0 1 1-1.732l7.5-4.33z" fill="white">
+                            </path>
                         </svg>
                     </button>
                     <div class="hs-dropdown-menu transition-[opacity,margin] z-50 delay-200 duration-100 hs-dropdown-open:opacity-100 opacity-0 hidden w-auto px-1 bg-[#1f1f1f] shadow-2xl rounded-md mt-2"
@@ -64,7 +70,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </nuxt-link>
         </div>
         <div class="flex justify-center items-center gap-2 bigSearch2">
             <div class="hs-dropdown [--trigger:hover] relative inline-flex">
@@ -195,9 +201,13 @@
         display: none;
     }
 
-    .bigSearch{
+    .bigSearch {
         display: flex;
     }
+}
+
+.home {
+    width: 24px;
 }
 
 .homebutton:hover {
@@ -218,24 +228,24 @@
     color: #9f9f9f;
 }
 
-.piwa{
+.piwa {
     gap: 12px;
 }
 
 @media only screen and (max-width: 1513px) {
-    .piwa{
+    .piwa {
         gap: 10px;
     }
 }
 
 @media only screen and (max-width: 1492px) {
-    .piwa{
+    .piwa {
         gap: 8px;
     }
 }
 
 @media only screen and (max-width: 1441px) {
-    .piwa{
+    .piwa {
         gap: 6px;
     }
 }
@@ -247,81 +257,92 @@
 }
 
 @media only screen and (max-width: 1543px) {
-    .premium, .install{
+
+    .premium,
+    .install {
         font-size: 98%;
     }
 }
 
 @media only screen and (max-width: 1528px) {
-    .premium, .install{
+
+    .premium,
+    .install {
         font-size: 96%;
     }
 }
 
 @media only screen and (max-width: 1470px) {
-    .premium, .install{
+
+    .premium,
+    .install {
         font-size: 94%;
     }
 }
 
 @media only screen and (max-width: 1455px) {
-    .premium, .install{
+
+    .premium,
+    .install {
         font-size: 92%;
     }
 }
 
 @media only screen and (max-width: 1419px) {
-    .premium, .install{
+
+    .premium,
+    .install {
         font-size: 91%;
     }
 }
 
 @media only screen and (max-width: 1412px) and (min-width: 1325px) {
     .main {
-    grid-template-columns: 30% 40% 30%;
-}
+        grid-template-columns: 30% 40% 30%;
+    }
 }
 
 @media only screen and (max-width: 1419px) {
-    .avatar{
+    .avatar {
         width: 44px;
         height: 44px;
     }
 
-    .avatar img{
+    .avatar img {
         width: 26px;
     }
 }
 
 @media only screen and (max-width: 1324px) {
-    .piwa{
+    .piwa {
         gap: 12px;
     }
 
-    .premium, .install{
+    .premium,
+    .install {
         font-size: 100%;
     }
 
-    .premium{
+    .premium {
         min-width: 160px;
     }
 
-    .install{
+    .install {
         min-width: 136px;
     }
 
-    .avatar{
+    .avatar {
         width: 48px;
         height: 48px;
     }
 
-    .avatar img{
+    .avatar img {
         width: 28px;
     }
 }
 
-@media only screen and (max-width: 1024px){
-    .premium{
+@media only screen and (max-width: 1024px) {
+    .premium {
         display: none
     }
 }
@@ -337,7 +358,7 @@
 }
 
 ::selection {
-    background-color: #1ED760; 
-    color: white;              
+    background-color: #1ED760;
+    color: white;
 }
 </style>

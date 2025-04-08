@@ -310,7 +310,7 @@
 
 <script setup>
 import { ref, onMounted } from "vue";
-import { useRoute } from "vue-router";
+import { useRoute, useRouter } from "vue-router";
 import artists from "../../static/artists.json";
 import albums from "../../static/albums.json"
 import FooterAbout from "~/components/little_comps/FooterAbout.vue";
@@ -318,6 +318,8 @@ import FooterAbout from "~/components/little_comps/FooterAbout.vue";
 definePageMeta({
     layout: 'default' // Ensures this page loads as a new full-page view
 });
+
+const router = useRouter()
 
 const container = ref(null);
 const text = ref(null);
@@ -330,10 +332,11 @@ let compilations = []
 let allalbumsofartist = []
 let main = {};
 const activeTab = ref('popular')
-for (let i of artists) {
-    if ((i.path == route.params.id)) {
-        main = i;
-    }
+main = artists.find(artist => artist.path === route.params.id);
+
+if (!main) {
+    router.push('/');
+    return
 }
 
 setTimeout(() => {

@@ -236,7 +236,8 @@
         </div>
       </div>
 
-      <div v-if="arrfordiscog.length > 0" class="grid grid-cols-1 gap-4 px-4 pb-8">
+      <PopReleasesInAlbum :main="main" :arrfordiscog="arrfordiscog"/>
+      <!-- <div v-if="arrfordiscog.length > 0" class="grid grid-cols-1 gap-4 px-4 pb-8">
         <div class="grid grid-cols-2 items-end">
           <div><span v-if="!main.isSingle" class="text-[24px]" style="font-family: SpotifyMixBold;">More by {{
             main.albumsinger }}</span>
@@ -261,7 +262,7 @@
             </div>
           </NuxtLink>
         </div>
-      </div>
+      </div> -->
       <FooterAbout />
     </div>
 
@@ -280,6 +281,7 @@ import { useRoute } from "vue-router";
 import albums from "../../static/albums.json";
 import artists from "~/static/artists.json"
 import FooterAbout from "~/components/little_comps/FooterAbout.vue";
+import PopReleasesInAlbum from "~/components/little_comps/albumpage/PopReleasesInAlbum.vue";
 
 const container = ref(null);
 const text = ref(null);
@@ -331,11 +333,9 @@ onMounted(() => {
 
   colorchanging.forEach((element) => {
     element.style.color = main.textcolorcode;
-    console.log(main.textcolorcode);
   });
 });
 
-console.log(main.coverpath);
 
 setTimeout(() => {
   const cover = document.querySelector("#maincover");
@@ -343,7 +343,6 @@ setTimeout(() => {
   const modalContent = document.getElementById("modalContent");
   const closeButton = document.getElementById("closeButton");
 
-  console.log(cover);
 
   cover.addEventListener("click", () => {
     const imageSrc = cover.src;
@@ -652,75 +651,6 @@ if (main.isSingle) {
   .numinid {
     display: none;
   }
-}
-
-.morediscography {
-  display: grid;
-}
-
-@media only screen and (min-width: 1560px) {
-  .morediscography {
-    grid-template-columns: repeat(8, 1fr);
-  }
-
-  .morediscography>a:nth-child(n+9) {
-    display: none;
-  }
-}
-
-@media only screen and (min-width: 1380px) and (max-width: 1560px) {
-  .morediscography {
-    grid-template-columns: repeat(7, 1fr);
-  }
-
-  .morediscography>a:nth-child(n+8) {
-    display: none;
-  }
-}
-
-@media only screen and (min-width: 1200px) and (max-width: 1380px) {
-  .morediscography {
-    grid-template-columns: repeat(6, 1fr);
-  }
-
-  .morediscography>a:nth-child(n+7) {
-    display: none;
-  }
-}
-
-@media only screen and (min-width: 1016px) and (max-width: 1200px) {
-  .morediscography {
-    grid-template-columns: repeat(5, 1fr);
-  }
-
-  .morediscography>a:nth-child(n+6) {
-    display: none;
-  }
-}
-
-@media only screen and (min-width: 830px) and (max-width: 1016px) {
-  .morediscography {
-    grid-template-columns: repeat(4, 1fr);
-  }
-
-  .morediscography>a:nth-child(n+5) {
-    display: none;
-  }
-}
-
-@media only screen and (max-width: 830px) {
-  .morediscography {
-    grid-template-columns: repeat(3, 1fr);
-  }
-
-  .morediscography>a:nth-child(n+4) {
-    display: none;
-  }
-}
-
-::selection {
-  background-color: #1ED760;
-  color: white;
 }
 
 .sticky-header {
